@@ -302,7 +302,7 @@ def parse_project(initial_data, url, listing=None):
         "locality": loc.get("localityName") or marketing.get("localityName"),
         "city": loc.get("cityName") or marketing.get("cityName"),
         "state": loc.get("stateName") or listing.get("state"),
-        "pincode": basic.get("postalCode") or None,
+        "pincode": (basic.get("postalCode") or None) if str(basic.get("postalCode") or "").strip("0 ") else None,
         "street_address": basic.get("streetAddress") or None,
         "latitude": _float(loc.get("latitude")),
         "longitude": _float(loc.get("longitude")),
