@@ -1,0 +1,1944 @@
+{
+ "projectDetailState": {
+  "pageData": {
+   "basicDetails": {
+    "id": "PROJECT_469160_R",
+    "projectId": "469160",
+    "resCom": "R",
+    "name": "Seraano by Aarza ",
+    "location": {
+     "locationId": "1277159_PROJECT",
+     "localityName": "Siolim, Bardez",
+     "cityName": "North Goa",
+     "latitude": 15.645943,
+     "cityId": "323_LOCATION",
+     "localityId": "8253_LOCALITY",
+     "longitude": 73.807315,
+     "stateId": "233_LOCATION",
+     "stateName": "Goa"
+    },
+    "projectType": "ADVERTISER",
+    "areaUnit": 1,
+    "secondaryAreaUnit": 3,
+    "selectedConfig": "2_3",
+    "shareUrl": "Check out this project I found using 99acres mobile app # https://www.99acres.com/seraano-by-aarza-siolim-north-goa-npxid-r469160",
+    "sectionMetaDetails": {
+     "floorPlanHeading": "Floor Plans of Seraano by Aarza ",
+     "additionalComponents": [
+      {
+       "component": "FLOOR_PLAN",
+       "heading": "Floor Plans of Seraano by Aarza ",
+       "menuTabsTitle": "Floor Plans"
+      }
+     ]
+    },
+    "price": {
+     "min": 0,
+     "max": 69500000,
+     "label": "6.95 Cr",
+     "heading": "New Booking Price"
+    },
+    "selectedType": "DEFAULT",
+    "photonLayer": {
+     "categories": [
+      {
+       "type": {
+        "value": "HALL",
+        "label": "Hall"
+       },
+       "configurationBased": true
+      },
+      {
+       "type": {
+        "value": "BEDROOM",
+        "label": "Bedrooms"
+       },
+       "configurationBased": true
+      },
+      {
+       "type": {
+        "value": "BATHROOM",
+        "label": "Bathrooms"
+       },
+       "configurationBased": true
+      },
+      {
+       "type": {
+        "value": "KITCHEN",
+        "label": "Kitchen"
+       },
+       "configurationBased": true
+      },
+      {
+       "type": {
+        "value": "BALCONY",
+        "label": "Balcony"
+       },
+       "configurationBased": true
+      },
+      {
+       "type": {
+        "value": "MISCELLANEOUS",
+        "label": "Miscellaneous"
+       },
+       "configurationBased": true
+      },
+      {
+       "type": {
+        "value": "OUTDOORS",
+        "label": "Outdoors"
+       },
+       "configurationBased": false
+      },
+      {
+       "type": {
+        "value": "HIGHLIGHTS",
+        "label": "Highlights"
+       },
+       "configurationBased": false
+      },
+      {
+       "type": {
+        "value": "INDOORS",
+        "label": "Indoors"
+       },
+       "configurationBased": false
+      },
+      {
+       "type": {
+        "value": "FACILITIES",
+        "label": "Facilities"
+       },
+       "configurationBased": false
+      },
+      {
+       "type": {
+        "value": "DEMO_FLAT",
+        "label": "Demo flat"
+       },
+       "configurationBased": false
+      },
+      {
+       "type": {
+        "value": "PROJECT_THEME",
+        "label": "Project Theme"
+       },
+       "configurationBased": false
+      },
+      {
+       "type": {
+        "value": "CONSTRUCTION",
+        "label": "Construction"
+       },
+       "configurationBased": false
+      },
+      {
+       "type": {
+        "value": "LOCALITY",
+        "label": "Locality"
+       },
+       "configurationBased": false
+      },
+      {
+       "type": {
+        "value": "OTHERS",
+        "label": "Others"
+       },
+       "configurationBased": false
+      },
+      {
+       "type": {
+        "value": "MASTER_PLAN",
+        "label": "Master Plan"
+       },
+       "configurationBased": false
+      },
+      {
+       "type": {
+        "value": "LOCATION_PLAN",
+        "label": "Location Plan"
+       },
+       "configurationBased": false
+      },
+      {
+       "type": {
+        "value": "VIDEOS",
+        "label": "Videos"
+       },
+       "configurationBased": false
+      }
+     ]
+    },
+    "tracking": {
+     "unpaidPureR2M": "NO",
+     "viewType": "OLD"
+    },
+    "viewType": "REGULAR",
+    "cachingInfo": {
+     "isCacheable": false,
+     "maxAge": "no-store",
+     "cacheTags": "NN,XID_r469160,XID_D"
+    },
+    "nnassuredChatVisibility": "N",
+    "keyHighlights": [
+     {
+      "text": "Set against serene backwaters of Chapora River",
+      "numOfLines": 2
+     },
+     {
+      "text": "Exclusive collection of only 8 luxury villas",
+      "numOfLines": 2
+     },
+     {
+      "text": "Resort-style living featuring a private pool and lush landscaped garden",
+      "numOfLines": 2
+     },
+     {
+      "text": "An attached staff room with independent entry ensures privacy",
+      "numOfLines": 2
+     }
+    ],
+    "societyReviewCrawlable": false,
+    "isStoryView": false,
+    "isCompareProjectsView": false,
+    "streetAddress": "Survey No. 32, 1-B & 32 1-C, V.P, Camurlim, Mapusa, Goa",
+    "postalCode": "403517",
+    "unpaidR2MProject": false,
+    "isPaidProject": true,
+    "isComRevamp": false
+   },
+   "commonElements": {
+    "benefits": {
+     "heading": "NEW LAUNCH",
+     "subHeading": "Benefits",
+     "categoryIcon": {
+      "iconUrl": "https://static.99acres.com/universalxid/img/NewLaunchLogo.png",
+      "className": "blackNewLaunchSAB"
+     },
+     "tuples": [
+      {
+       "text": "High price appreciation",
+       "shortText": "Best Prices",
+       "icon": {
+        "iconUrl": "https://static.99acres.com/universalxid/img/Appreciation.png",
+        "className": "trendsSAB"
+       }
+      },
+      {
+       "text": "Units of choice",
+       "shortText": "Unit of Choice",
+       "icon": {
+        "iconUrl": "https://static.99acres.com/universalxid/img/Home.png",
+        "className": "heartYellowSAB"
+       }
+      },
+      {
+       "text": "Easy Payment plans",
+       "shortText": "Easy Payment Plans",
+       "icon": {
+        "iconUrl": "https://static.99acres.com/universalxid/img/Payment.png",
+        "className": "priceSAB"
+       }
+      }
+     ],
+     "ctaText": "Learn more",
+     "layerContent": {
+      "heading": "NEW LAUNCH",
+      "subHeading": "PROJECTS",
+      "description": "These are the recently launched projects in market, brought to you at attractive prices. All new launch projects that we show you are 100% RERA certified.",
+      "icon": {
+       "iconUrl": "https://static.99acres.com/universalxid/img/NewLaunchLogo.png",
+       "className": "blackNewLaunchSAB"
+      },
+      "infoSection": [
+       {
+        "heading": "Why you should buy a New Launched Project?",
+        "icon": {
+         "iconUrl": "https://static.99acres.com/universalxid/img/Badge.png",
+         "className": "reward_badge_green"
+        },
+        "tuples": [
+         {
+          "heading": "High Price Appreciation",
+          "desc": "These are newly launched projects. Typically, launch price of the projects is lower and price appreciates over time."
+         },
+         {
+          "heading": "Units of your Choice",
+          "desc": "Buyer has lot of unit options during launch time. You can pick the exclusive unit from all available options at this stage"
+         },
+         {
+          "heading": "Easy Payment Plans",
+          "desc": "You can take the benefits of construction linked payment plan at this stage. Both Down payment amount & Monthly payout amount is lesser in initial years due to construction linked plan. Payments are distributed over the course of the construction period, which can help reduce the financial burden on buyers."
+         }
+        ]
+       },
+       {
+        "heading": "Things to look out for",
+        "icon": {
+         "iconUrl": "https://static.99acres.com/universalxid/img/Warning.png",
+         "className": "warning_yellow_icon"
+        },
+        "tuples": [
+         {
+          "heading": "Trusted builder",
+          "desc": "In some cases, project may face construction delay due to unforeseen challenges. Buyers are advised to carefully evaluate the track record & experience of the builder on other projects. You can check the 99acres project page for the past performance of the builder."
+         }
+        ]
+       }
+      ]
+     }
+    },
+    "fomo": {
+     "text": "Limited inventory is available at the launch price.",
+     "icon": {
+      "iconUrl": "https://static.99acres.com/universalxid/img/Fomo.png",
+      "className": "fomoSAB"
+     }
+    },
+    "highlights": [
+     {
+      "text": "Set against serene backwaters of Chapora River",
+      "numOfLines": 2
+     },
+     {
+      "text": "Exclusive collection of only 8 luxury villas",
+      "numOfLines": 2
+     },
+     {
+      "text": "Resort-style living featuring a private pool and lush landscaped garden",
+      "numOfLines": 2
+     },
+     {
+      "text": "An attached staff room with independent entry ensures privacy",
+      "numOfLines": 2
+     },
+     {
+      "text": "Three-bedroom sanctuaries blend contemporary Goan charm",
+      "numOfLines": 2
+     },
+     {
+      "text": "Ideal holiday home with professional rental management support",
+      "numOfLines": 2
+     },
+     {
+      "text": "Located minutes away from Assagao, Siolim, and Goa’s finest beaches",
+      "numOfLines": 2
+     }
+    ],
+    "keyHighlights": [
+     {
+      "text": "Set against serene backwaters of Chapora River",
+      "numOfLines": 2
+     },
+     {
+      "text": "Exclusive collection of only 8 luxury villas",
+      "numOfLines": 2
+     },
+     {
+      "text": "Resort-style living featuring a private pool and lush landscaped garden",
+      "numOfLines": 2
+     },
+     {
+      "text": "An attached staff room with independent entry ensures privacy",
+      "numOfLines": 2
+     }
+    ],
+    "reraDefaultInfo": {
+     "label": "RERA Status",
+     "description": "The content and information as shared in the advertisement has been provided by the Advertiser and the Advertiser to the Project has shared and consented to publishing this detail. Users agree and acknowledge that 99Acres is an intermediary and acts merely as a medium for posting information and content as supplied or approved by the source. It is clarified that the data available on the website is not physically verified and hence no representation or warranty is expressly or impliedly given to its accuracy in any form. The User is advised to do thorough research and due diligence before making any decision regarding Investment. Nothing contained on the platform shall deem to constitute legal advice, solicitation, invitation, etc in any form whatsoever. Kindly authenticate this information independently."
+    },
+    "propertyTypeAreaUnitMap": {
+     "2": 3
+    }
+   },
+   "components": {
+    "summaryLayer": {
+     "componentId": "SUMMARY_LAYER",
+     "heading": "Summary Layer",
+     "name": "Seraano by Aarza ",
+     "address": "Siolim, Bardez, Goa",
+     "stickyFomo": {
+      "visibility": true,
+      "categoryId": "fomo",
+      "version": "fomo_1"
+     },
+     "benefits": {
+      "visibility": true,
+      "categoryId": "benefits",
+      "version": "benefits_1"
+     },
+     "learnMoreBenefits": {
+      "visibility": true,
+      "categoryId": "benefits",
+      "version": "benefits_1"
+     },
+     "coverImage": {
+      "photoGrids": [
+       {
+        "altTag": "Seraano by Aarza  Aerial View",
+        "variants": {
+         "OPTIMISED": "https://newprojects.99acres.com/projects/aarza_ecko_buildwell_llp/seraano_by_aarza/images/lmvljvo_1783057602_787339108_optOrig.jpg",
+         "MEDIUM": "https://newprojects.99acres.com/projects/aarza_ecko_buildwell_llp/seraano_by_aarza/images/lmvljvo_1783057602_787339108_med.jpg",
+         "ORIGINAL": "https://newprojects.99acres.com/projects/aarza_ecko_buildwell_llp/seraano_by_aarza/images/lmvljvo_1783057602_787339108_O.jpg",
+         "LARGE": "https://newprojects.99acres.com/projects/aarza_ecko_buildwell_llp/seraano_by_aarza/images/lmvljvo_1783057602_787339108_large.jpg",
+         "SMALL": "https://newprojects.99acres.com/projects/aarza_ecko_buildwell_llp/seraano_by_aarza/images/lmvljvo_1783057602_787339108_sm.jpg",
+         "MOBILE": "https://newprojects.99acres.com/projects/aarza_ecko_buildwell_llp/seraano_by_aarza/images/lmvljvo_1783057602_787339108_mobile.jpg"
+        },
+        "count": 17,
+        "type": "ALL_PHOTOS",
+        "title": "All Photos",
+        "galleryIndex": 0,
+        "imageCategory": "OUTDOORS"
+       },
+       {
+        "altTag": "Seraano by Aarza  Aerial View",
+        "variants": {
+         "OPTIMISED": "https://newprojects.99acres.com/projects/aarza_ecko_buildwell_llp/seraano_by_aarza/images/g8cgpcy_1783670783_791689888_optOrig.jpg",
+         "MEDIUM": "https://newprojects.99acres.com/projects/aarza_ecko_buildwell_llp/seraano_by_aarza/images/g8cgpcy_1783670783_791689888_med.jpg",
+         "ORIGINAL": "https://newprojects.99acres.com/projects/aarza_ecko_buildwell_llp/seraano_by_aarza/images/g8cgpcy_1783670783_791689888_O.jpg",
+         "LARGE": "https://newprojects.99acres.com/projects/aarza_ecko_buildwell_llp/seraano_by_aarza/images/g8cgpcy_1783670783_791689888_large.jpg",
+         "SMALL": "https://newprojects.99acres.com/projects/aarza_ecko_buildwell_llp/seraano_by_aarza/images/g8cgpcy_1783670783_791689888_sm.jpg",
+         "MOBILE": "https://newprojects.99acres.com/projects/aarza_ecko_buildwell_llp/seraano_by_aarza/images/g8cgpcy_1783670783_791689888_mobile.jpg"
+        },
+        "count": 6,
+        "type": "OUTDOORS",
+        "title": "Outdoors",
+        "galleryIndex": 0,
+        "imageCategory": "OUTDOORS"
+       },
+       {
+        "altTag": "Seraano by Aarza  Internal Road",
+        "variants": {
+         "OPTIMISED": "https://newprojects.99acres.com/projects/aarza_ecko_buildwell_llp/seraano_by_aarza/images/t9qvd8h_1783671422_791698226_optOrig.jpg",
+         "MEDIUM": "https://newprojects.99acres.com/projects/aarza_ecko_buildwell_llp/seraano_by_aarza/images/t9qvd8h_1783671422_791698226_med.jpg",
+         "ORIGINAL": "https://newprojects.99acres.com/projects/aarza_ecko_buildwell_llp/seraano_by_aarza/images/t9qvd8h_1783671422_791698226_O.jpg",
+         "LARGE": "https://newprojects.99acres.com/projects/aarza_ecko_buildwell_llp/seraano_by_aarza/images/t9qvd8h_1783671422_791698226_large.jpg",
+         "SMALL": "https://newprojects.99acres.com/projects/aarza_ecko_buildwell_llp/seraano_by_aarza/images/t9qvd8h_1783671422_791698226_sm.jpg",
+         "MOBILE": "https://newprojects.99acres.com/projects/aarza_ecko_buildwell_llp/seraano_by_aarza/images/t9qvd8h_1783671422_791698226_mobile.jpg"
+        },
+        "count": 1,
+        "type": "FACILITIES",
+        "title": "Facilities",
+        "galleryIndex": 0,
+        "imageCategory": "FACILITIES"
+       }
+      ]
+     },
+     "mediaCount": 17,
+     "logo": {
+      "name": "Logo",
+      "altTag": "Seraano by Aarza  North Goa",
+      "variants": {
+       "ORIGINAL": "https://newprojects.99acres.com/projects/aarza_ecko_buildwell_llp/seraano_by_aarza/qobu6qm_1783057050_787333716_O.jpg"
+      }
+     },
+     "constructionStatus": {
+      "value": "NEW_LAUNCH",
+      "label": "New Launch"
+     },
+     "completionDate": {
+      "value": 1830211200,
+      "label": "Possession will start from Dec, 2027"
+     },
+     "eoi": {
+      "label": "View Number",
+      "displayLabel": "View Number",
+      "trackingSource": "SUMMARY_TABLE.REQUEST_CALLBACK",
+      "type": "FULFILLMENT_RATIO",
+      "fillInDetailsForm": {
+       "heading": "Request for a callback",
+       "subHeading": "Fill in your details to request for a callback",
+       "ctaText": "Request for a callback"
+      },
+      "contactFormDetails": {
+       "heading": "Please share your details to view number",
+       "ctaText": "View Number"
+      }
+     },
+     "navBarEoi": {
+      "label": "View Number",
+      "displayLabel": "View Number",
+      "trackingSource": "NAV_BAR.REQUEST_CALLBACK",
+      "type": "FULFILLMENT_RATIO",
+      "fillInDetailsForm": {
+       "heading": "Request for a callback",
+       "subHeading": "Fill in your details to request for a callback",
+       "ctaText": "Request for a callback"
+      },
+      "contactFormDetails": {
+       "heading": "Please share your details to view number",
+       "ctaText": "View Number"
+      }
+     },
+     "navBarBrochureCTA": {
+      "label": "Brochure",
+      "displayLabel": "Brochure",
+      "trackingSource": "NAV_BAR.DOWNLOAD_BROCHURE",
+      "type": "FULFILLMENT_RATIO",
+      "fillInDetailsForm": {
+       "heading": "Download documents",
+       "subHeading": "Please share your details to download documents",
+       "ctaText": "Download documents"
+      },
+      "contactFormDetails": {
+       "heading": "Please share your details to download brochure",
+       "ctaText": "Download brochure"
+      }
+     },
+     "brochureCTA": {
+      "label": "Download Brochure",
+      "displayLabel": "Download Brochure",
+      "trackingSource": "SUMMARY_TABLE.DOWNLOAD_BROCHURE",
+      "type": "FULFILLMENT_RATIO",
+      "fillInDetailsForm": {
+       "heading": "Download documents",
+       "subHeading": "Please share your details to download documents",
+       "ctaText": "Download documents"
+      },
+      "contactFormDetails": {
+       "heading": "Please share your details to download brochure",
+       "ctaText": "Download brochure"
+      }
+     },
+     "shortlisted": {
+      "done": false
+     },
+     "tags": [
+      {
+       "id": "NO_BROKERAGE",
+       "bgColor": "#D7F2E3",
+       "textColor": "#317A36",
+       "label": "No Brokerage"
+      },
+      {
+       "icon": {
+        "iconUrl": "https://static.99acres.com/universalapp/img/3d_tag_icon.png",
+        "className": "3dFloorPlanIcon"
+       },
+       "id": "FLOORPLANS_3D",
+       "bgColor": "#F5F5FF",
+       "textColor": "#757398",
+       "label": "3D Floor Plans Available"
+      },
+      {
+       "id": "TOP_FACILITIES",
+       "bgColor": "#F4F5F7",
+       "textColor": "#42526E",
+       "label": "+10 Top Facilities"
+      }
+     ],
+     "price": {
+      "label": "4.65 - 6.95 Cr",
+      "secondaryLabel": "PRICE RANGE",
+      "footerText": "+ Charges",
+      "authentic": true
+     },
+     "constructionStageInfo": {
+      "icon": {
+       "iconUrl": "https://static.99acres.com/universalapp/img/construction_status.png",
+       "className": "possessionStatusKey"
+      },
+      "label": "New Launch",
+      "subLabel": "Completion in Dec, 2027",
+      "bgColor": "#F0F9FF",
+      "data": {
+       "heading": "Construction Status",
+       "subHeading": "for Seraano by Aarza , Siolim, Bardez, Goa",
+       "tuples": [
+        {
+         "icon": {
+          "iconUrl": "https://static.99acres.com/universalapp/img/newly_launched.png",
+          "className": "constStatusNL"
+         },
+         "label": "1 Phase is New Launch",
+         "subLabel": "Completion in Dec, 2027",
+         "bgColor": "#F0F9FF"
+        }
+       ],
+       "eoi": {
+        "label": "Enquire Now",
+        "trackingSource": "CONSTRUCTION_STATUS_CARD.ENQUIRE_NOW",
+        "type": "FULFILLMENT_RATIO",
+        "fillInDetailsForm": {
+         "heading": "Share interest",
+         "subHeading": "Fill in your details to share your interest",
+         "ctaText": "Share interest"
+        }
+       }
+      }
+     },
+     "configCards": {
+      "configLabel": "3, 4 BHK Villa",
+      "cta": {
+       "label": "See Floor Plans"
+      },
+      "cards": [
+       {
+        "configInfo": {
+         "id": "2_3",
+         "label": "3 BHK",
+         "subLabel": "Villa"
+        },
+        "area": {
+         "min": 3574,
+         "max": 3714,
+         "unit": 1,
+         "secondaryUnit": 3,
+         "display": "3,574 - 3,714 sqft",
+         "secondaryDisplay": "332.04 - 345.04 sqm",
+         "type": {
+          "value": "SUPER",
+          "label": "Super Built-up Area"
+         }
+        },
+        "price": {
+         "min": 46500000,
+         "max": 48000000,
+         "label": "4.65 - 4.8 Cr",
+         "secondaryLabel": "+ Charges",
+         "authentic": true
+        },
+        "propertyType": "2"
+       },
+       {
+        "configInfo": {
+         "id": "2_4",
+         "label": "4 BHK",
+         "subLabel": "Villa"
+        },
+        "area": {
+         "min": 5866,
+         "max": 5920,
+         "unit": 1,
+         "secondaryUnit": 3,
+         "display": "5,866 - 5,920 sqft",
+         "secondaryDisplay": "544.97 - 549.99 sqm",
+         "type": {
+          "value": "SUPER",
+          "label": "Super Built-up Area"
+         }
+        },
+        "price": {
+         "min": 69500000,
+         "max": 69500000,
+         "label": "6.95 Cr",
+         "secondaryLabel": "+ Charges",
+         "authentic": true
+        },
+        "propertyType": "2"
+       }
+      ]
+     }
+    },
+    "usp": {
+     "componentId": "USP",
+     "heading": "Why you should consider Seraano by Aarza ?",
+     "headerIcon": "https://static.99acres.com/universalapp/img/Shape.png",
+     "threshold": 3,
+     "actionText": "View 4 more",
+     "detailLayer": {
+      "heading": "Why you should consider Seraano by Aarza ?"
+     },
+     "eoi": {
+      "label": "I'm interested in this project",
+      "trackingSource": "USP_DETAIL.INTERESTED",
+      "type": "FULFILLMENT_RATIO",
+      "fillInDetailsForm": {
+       "heading": "Share interest",
+       "subHeading": "Fill in your details to share your interest",
+       "ctaText": "Share interest"
+      }
+     },
+     "tuples": [
+      "Set against serene backwaters of Chapora River",
+      "Exclusive collection of only 8 luxury villas",
+      "Resort-style living featuring a private pool and lush landscaped garden",
+      "An attached staff room with independent entry ensures privacy",
+      "Three-bedroom sanctuaries blend contemporary Goan charm",
+      "Ideal holiday home with professional rental management support",
+      "Located minutes away from Assagao, Siolim, and Goa’s finest beaches"
+     ]
+    },
+    "facilities": {
+     "componentId": "FACILITIES",
+     "heading": "Top Facilities",
+     "menuTabTitle": "Facilities",
+     "tuples": [
+      {
+       "id": "11",
+       "label": "Swimming Pool",
+       "tag": "PREMIUM",
+       "category": "SPORTS",
+       "discriminator": "swimming_pool",
+       "className": "swimming_pool",
+       "iconUrl": "https://static.99acres.com/universalapp/img/swimming_pool.png"
+      },
+      {
+       "id": "305",
+       "label": "Private Gardens/Balconies",
+       "tag": "PREMIUM",
+       "category": "CONV",
+       "discriminator": "private_gardens_balconies",
+       "className": "private_gardens_balconies",
+       "iconUrl": "https://static.99acres.com/universalapp/img/private_gardens_balconies.png"
+      },
+      {
+       "id": "213",
+       "label": "Landscape Garden",
+       "tag": "BASIC",
+       "discriminator": "landscape_garden",
+       "className": "landscape_garden",
+       "iconUrl": "https://static.99acres.com/universalapp/img/landscape_garden.png"
+      },
+      {
+       "id": "34",
+       "label": "Car Parking",
+       "tag": "BASIC",
+       "discriminator": "car_parking",
+       "className": "car_parking",
+       "iconUrl": "https://static.99acres.com/universalapp/img/car_parking.png"
+      },
+      {
+       "id": "71",
+       "label": "Gated Community",
+       "tag": "PREMIUM",
+       "category": "CONV",
+       "discriminator": "gated_community",
+       "className": "gated_community",
+       "iconUrl": "https://static.99acres.com/universalapp/img/gated_community.png"
+      },
+      {
+       "id": "18",
+       "label": "Paved Compound",
+       "tag": "PREMIUM",
+       "category": "ECO",
+       "discriminator": "paved_compound",
+       "className": "paved_compound",
+       "iconUrl": "https://static.99acres.com/universalapp/img/paved_compound.png"
+      },
+      {
+       "id": "36",
+       "label": "Vastu Compliant",
+       "tag": "PREMIUM",
+       "category": "CONV",
+       "discriminator": "vastu_compliant",
+       "className": "vastu_compliant",
+       "iconUrl": "https://static.99acres.com/universalapp/img/vastu_compliant.png"
+      },
+      {
+       "id": "202",
+       "label": "Well-Maintained Internal Roads",
+       "tag": "BASIC",
+       "discriminator": "well_maintained_internal_roads",
+       "className": "well_maintained_internal_roads",
+       "iconUrl": "https://static.99acres.com/universalapp/img/well_maintained_internal_roads.png"
+      },
+      {
+       "id": "351",
+       "label": "Energy Efficient Lightining",
+       "tag": "BASIC",
+       "discriminator": "energy_efficient_lightining",
+       "className": "energy_efficient_lightining",
+       "iconUrl": "https://static.99acres.com/universalapp/img/energy_efficient_lightining.png"
+      },
+      {
+       "id": "55",
+       "label": "CCTV Camera Security",
+       "tag": "PREMIUM",
+       "category": "CONV",
+       "discriminator": "cctv_camera_security",
+       "className": "cctv_camera_security",
+       "iconUrl": "https://static.99acres.com/universalapp/img/cctv_camera_security.png"
+      },
+      {
+       "id": "250",
+       "label": "Intercom Facilities",
+       "tag": "BASIC",
+       "discriminator": "intercom_facilities",
+       "className": "intercom_facilities",
+       "iconUrl": "https://static.99acres.com/universalapp/img/intercom_facilities.png"
+      },
+      {
+       "id": "29",
+       "label": "Wi-Fi Connectivity",
+       "tag": "BASIC",
+       "discriminator": "wifi_connectivity",
+       "className": "wifi_connectivity",
+       "iconUrl": "https://static.99acres.com/universalapp/img/wifi_connectivity.png"
+      },
+      {
+       "id": "119",
+       "label": "Concierge Service",
+       "tag": "PREMIUM",
+       "category": "SERV",
+       "discriminator": "concierge_service",
+       "className": "concierge_service",
+       "iconUrl": "https://static.99acres.com/universalapp/img/concierge_service.png"
+      },
+      {
+       "id": "31",
+       "label": "Property Staff",
+       "tag": "PREMIUM",
+       "category": "CONV",
+       "discriminator": "property_staff",
+       "className": "property_staff",
+       "iconUrl": "https://static.99acres.com/universalapp/img/property_staff.png"
+      },
+      {
+       "id": "21",
+       "label": "Intercom",
+       "tag": "BASIC",
+       "discriminator": "intercom_new",
+       "className": "intercom_new",
+       "iconUrl": "https://static.99acres.com/universalapp/img/intercom_new.png"
+      },
+      {
+       "id": "152",
+       "label": "Maintenance Staff",
+       "tag": "PREMIUM",
+       "category": "SERV",
+       "discriminator": "maintenance_staff",
+       "className": "maintenance_staff",
+       "iconUrl": "https://static.99acres.com/universalapp/img/maintenance_staff.png"
+      },
+      {
+       "id": "23",
+       "label": "24/7 Power Backup",
+       "tag": "BASIC",
+       "discriminator": "power_backup",
+       "className": "power_backup",
+       "iconUrl": "https://static.99acres.com/universalapp/img/power_backup.png"
+      },
+      {
+       "id": "267",
+       "label": "Centralized Air Conditioning",
+       "tag": "BASIC",
+       "discriminator": "centralized_air_conditioning",
+       "className": "centralized_air_conditioning",
+       "iconUrl": "https://static.99acres.com/universalapp/img/centralized_air_conditioning.png"
+      },
+      {
+       "id": "26",
+       "label": "Sewage Treatment Plant",
+       "tag": "PREMIUM",
+       "category": "ECO",
+       "discriminator": "sewage_treatment_plant",
+       "className": "sewage_treatment_plant",
+       "iconUrl": "https://static.99acres.com/universalapp/img/sewage_treatment_plant.png"
+      }
+     ],
+     "footerTitle": "View Facility Photos",
+     "viewThreshold": 9,
+     "primaryTupleThreshold": 9,
+     "eoi": {
+      "label": "I'm interested in this project",
+      "trackingSource": "FACILITIES_DETAIL.INTERESTED",
+      "type": "FULFILLMENT_RATIO",
+      "fillInDetailsForm": {
+       "heading": "Share interest",
+       "subHeading": "Fill in your details to share your interest",
+       "ctaText": "Share interest"
+      }
+     },
+     "facilitiesDescription": {
+      "description": "Seraano by Aarza  North Goa presents an exclusive opportunity to own a stunning home that offers all kinds of amenities and facilities. This includes a swimming pool, private gardens/balconies, and easy access to landscape garden.  It also has a car parking, an exclusive offering only for Seraano by Aarza  residents. Seraano by Aarza  has an excellent combination of comfort and convenience to suit every requirement as well as need."
+     }
+    },
+    "locationHighlights": {
+     "componentId": "LOCATION_HIGHLIGHTS",
+     "heading": "Location Advantages ",
+     "menuTabTitle": "Location",
+     "tuples": [
+      {
+       "category": "School",
+       "heading": "People's High School Camurlim",
+       "subHeading": "1.1 Km",
+       "icon": "https://static.99acres.com/universalapp/img/School.png",
+       "strokeIcon": "https://static.99acres.com/universalxid/img/story_college.png",
+       "iconClass": "school"
+      },
+      {
+       "category": "Highway",
+       "heading": "National Highway 66",
+       "subHeading": "5.8 Km",
+       "icon": "https://static.99acres.com/universalapp/img/Expressways.png",
+       "strokeIcon": "https://static.99acres.com/universalxid/img/story_expressway.png",
+       "iconClass": "highway"
+      },
+      {
+       "category": "Stadium",
+       "heading": "Peddem Indoor Stadium",
+       "subHeading": "8.1 Km",
+       "icon": "https://static.99acres.com/universalapp/img/Stadium.png",
+       "strokeIcon": "https://static.99acres.com/universalxid/img/story_gaming.png",
+       "iconClass": "stadium"
+      },
+      {
+       "category": "University",
+       "heading": "All India Institute of Ayurveda",
+       "subHeading": "8.8 Km",
+       "icon": "https://static.99acres.com/universalapp/img/University.png",
+       "strokeIcon": "https://static.99acres.com/universalxid/img/story_college.png",
+       "iconClass": "university"
+      },
+      {
+       "category": "Hospital",
+       "heading": "North Goa District Hospital",
+       "subHeading": "7.9 Km",
+       "icon": "https://static.99acres.com/universalapp/img/Hospital_building.png",
+       "strokeIcon": "https://static.99acres.com/universalxid/img/story_hospital.png",
+       "iconClass": "hospital"
+      },
+      {
+       "category": "Amusement Park",
+       "heading": "Splashdown Waterpark",
+       "subHeading": "13.3 Km",
+       "icon": "https://static.99acres.com/universalapp/img/Amusement_Park.png",
+       "strokeIcon": "https://static.99acres.com/universalxid/img/story_nature.png",
+       "iconClass": "amusementPark"
+      },
+      {
+       "category": "Hotel",
+       "heading": "W Goa Hotel",
+       "subHeading": "13.4 Km",
+       "icon": "https://static.99acres.com/universalapp/img/Dining.png",
+       "strokeIcon": "https://static.99acres.com/universalxid/img/story_glass.png",
+       "iconClass": "club"
+      },
+      {
+       "category": "Beach",
+       "heading": "Anjuna Beach",
+       "subHeading": "15.7 Km",
+       "icon": "https://static.99acres.com/universalapp/img/Beach.png",
+       "strokeIcon": "https://static.99acres.com/universalxid/img/story_beach.png",
+       "iconClass": "beach"
+      },
+      {
+       "category": "Airport",
+       "heading": "Manohar International Airport",
+       "subHeading": "16.7 Km",
+       "icon": "https://static.99acres.com/universalapp/img/Airport.png",
+       "strokeIcon": "https://static.99acres.com/universalxid/img/story_airport.png",
+       "iconClass": "airport"
+      },
+      {
+       "category": "Shopping Center/ Market/ Mall",
+       "heading": "Mall De Goa",
+       "subHeading": "17.6 Km",
+       "icon": "https://static.99acres.com/universalapp/img/Shop.png",
+       "strokeIcon": "https://static.99acres.com/universalxid/img/story_mall.png",
+       "iconClass": "shop"
+      }
+     ],
+     "viewThreshold": 15,
+     "subtitle": "of Seraano by Aarza ",
+     "eoi": {
+      "label": "I'm interested in this project",
+      "trackingSource": "LOCATION_HIGHLIGHTS.INTERESTED",
+      "type": "FULFILLMENT_RATIO",
+      "fillInDetailsForm": {
+       "heading": "Share interest",
+       "subHeading": "Fill in your details to share your interest",
+       "ctaText": "Share interest"
+      }
+     },
+     "locationHighlightsDescription": {
+      "description": "Siolim, Bardez is one of the prime locations to buy a home in North Goa. There are 69 residential projects in Siolim, Bardez. Some of the important landmarks near Seraano by Aarza  are People's High School Camurlim, National Highway 66, Peddem Indoor Stadium, etc. With important facilities available in the vicinity, Siolim, Bardez surely is a suitable place to call home."
+     }
+    },
+    "moreAboutProject": {
+     "componentId": "MORE_ABOUT_PROJECT",
+     "heading": "More about Seraano by Aarza ",
+     "description": "For those looking to buy a residential property, here comes one of the choicest offerings in North Goa, at Camurlim, Siolim, Bardez. Brought to you by Aarza Ecko Constructions, Seraano by Aarza  is among the newest addresses for homebuyers. There are villas for sale in Seraano by Aarza Camurlim, Siolim, Bardez, Goa. This is a new launch project right now, and is expected to be delivered by Dec, 2027 .\n\nRead on to know more about must-know features, Seraano by Aarza   Photos,  Floor Plans, Payment Plans, Brochure download procedure  and other exciting facts about the project.\n\nFeatures & Amenities\n\n\nThere are around 8 units on offer.\n\nSeraano by Aarza  North Goa has some great amenities to offer such as Swimming Pool, Private Gardens/Balconies and Landscape Garden.\n\nElshaddai House is a popular landmark in Siolim, Bardez, Goa\n\nProperty prices in locality has changed -0.7% in last quarter\n\n\n\nSeraano by Aarza Floor Plans and Price List \n\n\n\nThis Project at Camurlim has the following property options available in different configurations. Take a look at Seraano by Aarza  Floor Plans and Price List:\n\n\n\nConfiguration\tSize\tPrice\nSeraano by Aarza  3BHK Villa\n\n332 sqm\tRs. Price on Request onwards\n\nSeraano by Aarza  4BHK Villa\n\n545 Sqm\tRs. Price on Request onwards\n\n\nHow to get Seraano by Aarza  Brochure?\n\nView and download Seraano by Aarza Official Brochure to take a comprehensive look at this upcoming housing society. It is a detailed prospectus about the society’s offerings, amenities, features, payment plans and a lot more. Click the ‘download’ icon on the main page to get the brochure in one click. \n\nWhere to find Seraano by Aarza  Photos & Videos?\n\nView interiors and exterior images of residential properties for sale in Seraano by Aarza Camurlim, Siolim, Bardez\n\nWhat is Seraano by Aarza  Address? \n\nSurvey No. 32/1-B & 1-C, Village Camurlim, Bardez-Goa \n\nGet directions to reach this location.   \n\nHow is Camurlim, Siolim, Bardez, Goa for buying a home? \n\nCamurlim, Siolim, Bardez is a luxury locality to buy a property, as compared to other areas in the surrounding areas. This locality ranks 23.9% YoY. Some of the popular features of Camurlim, Siolim, Bardez are: \n\nClose to Beaches\n\nBus Station Nearby\n\nProximity to NH-66\n\nHome to Schools\n\nThe existing residents of Camulrim, Siolim, Bardez gave it an average rating of 3.9, out of 5. Most of the reviews mention that this locality has: \n\nGood Public Transport \n\n Easy Cab/Auto Availability \n\n Well-maintained Roads \n\n Markets at a walkable distance \n\n Good Hospitals are nearby \n\n Good Schools are nearby \n\nThe ratings are based on 10 total reviews.",
+     "descriptionTextLimit": 250,
+     "specificationHeading": "Other specifications",
+     "specificationSubHeading": "• Flooring\n◦ Natural stone and high-quality vitrified flooring are used throughout all areas of the villas\n◦ Bathrooms a",
+     "layerContent": {
+      "specifications": "• Flooring\n◦ Natural stone and high-quality vitrified flooring are used throughout all areas of the villas\n◦ Bathrooms are finished with specialized anti-skid materials to ensure safety and durability\n• Kitchen\n◦ Modular kitchens are designed with premium granite countertops and stylish ceramic wall dado\n◦ Features include a stainless steel sink and designated points for modern kitchen appliances\n• Electrical\n◦ Equipped with high-end Legrand or Schneider equivalent switches and fire-resistant concealed copper cabling\n◦ System includes ELCB protection, ample power sockets, TV points, and split AC units\n• Walls\n◦ Interior walls are expertly finished with cement plaster and layers of premium emulsion paint\n◦ Exterior facades feature a mix of basalt accents, rubble cladding, and modern glass glazing\n• Doors and Windows\n◦ Entrance features solid core doors while internal openings use UPVC or aluminium framed glass\n◦ Large glazed windows are provided to enhance natural light and architectural aesthetic within the villa\n• Bathrooms\n◦ Fitted with premium Kohler or Jaquar equivalent sanitary ware and high-quality plumbing mixers\n◦ Bathrooms include glass shower partitions, exhaust fans, proper ventilation systems, and individual water heaters",
+      "unitCount": 8,
+      "floorCount": 3,
+      "totalArea": {
+       "min": 0.55,
+       "max": 0.55,
+       "unit": 12,
+       "secondaryUnit": 3,
+       "display": "0.55 acres",
+       "secondaryDisplay": "2.2K sq.m."
+      }
+     },
+     "eoi": {
+      "label": "I'm interested in this project",
+      "trackingSource": "PROJ_DESC_DETAIL.SPECIFICATIONS_TAB.INTERESTED",
+      "type": "FULFILLMENT_RATIO",
+      "fillInDetailsForm": {
+       "heading": "Share interest",
+       "subHeading": "Fill in your details to share your interest",
+       "ctaText": "Share interest"
+      }
+     }
+    },
+    "documents": {
+     "componentId": "DOCUMENTS",
+     "heading": "View official brochure",
+     "menuTabTitle": "Brochure",
+     "displayCover": {
+      "altTag": "Seraano by Aarza  Brochure",
+      "variants": {
+       "SMALL": "https://imagecdn.99acres.com/media1/39267/14/785354726T-1782731270219.jpg"
+      }
+     },
+     "brochureDocument": {
+      "name": "Brochure",
+      "variants": {
+       "ORIGINAL": "https://imagecdn.99acres.com/media1/39267/14/785354726O-1782731270208.pdf"
+      }
+     },
+     "priceListDocument": {
+      "name": "Payment Plan",
+      "variants": {
+       "ORIGINAL": "https://imagecdn.99acres.com/payment-plan/pdfs/vanwr0u_1782733482_785386040.pdf"
+      }
+     },
+     "infoIconText": "Official documents provided by the Builder of the Project",
+     "ctaText": "Download Brochure",
+     "ctaSubText": "Payment Plan",
+     "eoi": {
+      "label": "Download Brochure",
+      "displayLabel": "Download Brochure",
+      "trackingSource": "BROCHURE.DOWNLOAD",
+      "type": "FULFILLMENT_RATIO",
+      "fillInDetailsForm": {
+       "heading": "Download documents",
+       "subHeading": "Please share your details to download documents",
+       "ctaText": "Download documents"
+      },
+      "contactFormDetails": {
+       "heading": "Please share your details to download brochure",
+       "ctaText": "Download brochure"
+      }
+     },
+     "detailLayerEoi": {
+      "label": "Download Brochure",
+      "trackingSource": "BROCHURE_DETAIL.DOWNLOAD",
+      "type": "FULFILLMENT_RATIO",
+      "fillInDetailsForm": {
+       "heading": "Download documents",
+       "subHeading": "Please share your details to download documents",
+       "ctaText": "Download documents"
+      }
+     },
+     "subHeading": "Seraano by Aarza  Brochure & Payment Plan",
+     "primaryDownloadUrl": "https://imagecdn.99acres.com/media1/39267/14/785354726O-1782731270208.pdf",
+     "metaData": {
+      "size": {
+       "value": 3.3,
+       "unit": "MB"
+      },
+      "width": "792",
+      "height": "612",
+      "pageCount": "28"
+     },
+     "sideStickyHeading": "Download Official Documents",
+     "footer": {
+      "icon": "https://static.99acres.com/universalapp/img/downloadpriceList.png",
+      "label": "Download Payment Plan of Seraano by Aarza ",
+      "downloadLink": "https://imagecdn.99acres.com/payment-plan/pdfs/vanwr0u_1782733482_785386040.pdf"
+     },
+     "preDownload": false
+    },
+    "builder": {
+     "componentId": "BUILDER",
+     "heading": "About Aarza Realty",
+     "menuTabTitle": "Builder",
+     "name": "Aarza Realty",
+     "logo": {
+      "altTag": "Aarza Realty",
+      "variants": {
+       "ORIGINAL": "https://imagecdn.99acres.com/projects/aarzarealty/trstybh_1783668143_791651588.jpg",
+       "SMALL": "https://imagecdn.99acres.com/projects/aarzarealty/trstybh_1783668143_791651588.jpg"
+      }
+     },
+     "url": "https://builders.99acres.com/aarza-realty-builders-developers-bid-149020",
+     "description": "Built on a legacy of trust, innovation, and meticulous attention to detail, this promoter ensures every residence seamlessly integrates strategic locations, premium materials, and architectural finesse. Driven by a philosophy of uncompromising standards, they expertly guide each development from initial land evaluation through to timely completion. By maintaining total control over the process, they consistently surpass client expectations, turning ambitious visions into high-quality, enduring realities.",
+     "descriptionTextLimit": 300,
+     "frontLayerEoi": {
+      "label": "Contact Builder",
+      "params": {
+       "confIdProfileIdMap": "5434926,101453926",
+       "confIds": "5434926"
+      },
+      "trackingSource": "ABOUT_BUILDER.CONTACT_BUILDER",
+      "type": "SINGLE_ADVERTISER"
+     },
+     "eoi": {
+      "label": "Contact Builder",
+      "params": {
+       "confIdProfileIdMap": "5434926,101453926",
+       "confIds": "5434926"
+      },
+      "trackingSource": "ABOUT_BUILDER_DETAIL.CONTACT_BUILDER",
+      "type": "SINGLE_ADVERTISER"
+     },
+     "sideStickyCTA": {
+      "label": "Contact Builder",
+      "params": {
+       "confIdProfileIdMap": "5434926,101453926",
+       "confIds": "5434926"
+      },
+      "trackingSource": "SIDE_STICKY.CONTACT_BUILDER",
+      "type": "SINGLE_ADVERTISER"
+     }
+    },
+    "banks": {
+     "componentId": "BANKS",
+     "heading": "Banks",
+     "tuples": [
+      {
+       "id": "26",
+       "name": "Punjab National Bank",
+       "images": {
+        "altTag": "Punjab National Bank home loan",
+        "variants": {
+         "MEDIUM": "https://imagecdn.99acres.com/media1/21588/0/431760474T-1688549790815.jpg"
+        }
+       },
+       "roi": "8.35",
+       "colorCodes": []
+      },
+      {
+       "id": "35",
+       "name": "Bank Of Baroda",
+       "images": {
+        "altTag": "Bank Of Baroda home loan",
+        "variants": {
+         "MEDIUM": "https://imagecdn.99acres.com/media1/21588/0/431760504T-1688549791126.jpg"
+        }
+       },
+       "roi": "7.45",
+       "colorCodes": []
+      }
+     ],
+     "lastModified": "10 Jul, 2026",
+     "subHeading": "to help you with home loan",
+     "homeLoanUrl": "https://www.99acres.com/apply-for-home-loan-hlpg",
+     "infoIconText": "These banks have given approval to provide home loan on this project. Interest rates mentioned may vary depending on the individual’s eligibility or as per bank policies. We do not guarantee home loan to any individual",
+     "params": {
+      "resCom": "R",
+      "cityId": "323",
+      "projectName": "Seraano by Aarza ",
+      "page": "XID",
+      "propertyCost": 34750000,
+      "city": "North Goa",
+      "projId": "469160",
+      "bankModifiedDate": "2026-07-10 15:03:28"
+     }
+    },
+    "questionnaire": {
+     "componentId": "QUESTIONNAIRE",
+     "heading": "Frequently Asked Questions",
+     "menuTabTitle": "FAQs",
+     "viewThreshold": 8,
+     "tuples": [
+      {
+       "question": "Are there any sports facility in Seraano by Aarza ?",
+       "answer": "Seraano by Aarza  has Swimming Pool facilities to offer.",
+       "priority": 1,
+       "schemaVisibility": true
+      },
+      {
+       "question": "What are the safety features of Seraano by Aarza ?",
+       "answer": "Seraano by Aarza  has Intercom to ensure all the residents feel safe and secure.",
+       "priority": 1,
+       "schemaVisibility": true
+      },
+      {
+       "question": "How much stamp duty do I need to pay on Seraano by Aarza ?",
+       "answer": "You need to pay minimum 3.0% percent as stamp duty on this project.",
+       "priority": 1,
+       "schemaVisibility": true
+      },
+      {
+       "question": "Which top builder is working on the Seraano by Aarza ?",
+       "answer": "Aarza Realty is the top builder that can get you the best deal in this project.",
+       "priority": 1,
+       "schemaVisibility": true
+      },
+      {
+       "question": "Are there are good hospitals in the vicinity of Seraano by Aarza ?",
+       "answer": "Yes, there are good hospitals in close vicinity of Seraano by Aarza  such as Elshaddai House, Lions Domingos Felicio Fernandes Memorial Hospital and Chaitanya Mental Health Care Centre.",
+       "priority": 1,
+       "schemaVisibility": true
+      },
+      {
+       "question": "How many housing societies are there in Siolim, Bardez, Goa?",
+       "answer": "There are 40 housing societies in this locality. Nearly 9 projects are ongoing in this area. If you are looking for new projects, you can explore 20 brand new housing societies in Siolim, Bardez, Goa. ",
+       "priority": 1,
+       "schemaVisibility": true
+      },
+      {
+       "question": "In which area is Seraano by Aarza  located?",
+       "answer": "The project is situated in Siolim, Bardez, North Goa. ",
+       "priority": 1,
+       "schemaVisibility": true,
+       "component": "SUMMARY_LAYER"
+      },
+      {
+       "question": "When will I get the possession in Seraano by Aarza ?",
+       "answer": " The project is New Launch. ",
+       "priority": 1,
+       "schemaVisibility": true,
+       "component": "SUMMARY_LAYER"
+      },
+      {
+       "question": "How many units are there in Seraano by Aarza ?",
+       "answer": "There are 8 units available in the project.",
+       "priority": 1,
+       "schemaVisibility": true
+      },
+      {
+       "question": "Who is constructing the project?",
+       "answer": "Aarza Realty is constructing the project.",
+       "priority": 1,
+       "schemaVisibility": true
+      }
+     ]
+    },
+    "breadCrumb": {
+     "componentId": "BREAD_CRUMB",
+     "heading": "BreadCrumb",
+     "details": {
+      "city": {
+       "url": "/new-projects-in-goa-ffid",
+       "label": "Projects in Goa",
+       "title": "New Projects in Goa"
+      },
+      "locality": {
+       "url": "/new-projects-in-siolim-north-goa-ffid",
+       "label": "Siolim, Bardez",
+       "title": "New Projects in Siolim, Bardez"
+      },
+      "xid": {
+       "url": "/seraano-by-aarza-siolim-north-goa-npxid-r469160",
+       "title": "Seraano by Aarza"
+      }
+     }
+    },
+    "contentDisclaimer": {
+     "componentId": "CONTENT_DISCLAIMER",
+     "heading": "Disclaimer",
+     "text": "The material and information contained herein is for general informational purposes only, and does not constitute an endorsement/warranty/representation/offer from 99acres.com.\nSources of Information : Project details presented on this page are collected from public sources including State RERA websites (wherever applicable), project websites created by builder and authorized channel partners and official documentation shared by these authorized advertisers (project brochure, price list, payment plans). 99acres only presents this content in easy format for user research and user education and does not own any content. Users are advised to exercise caution and validate facts from builder / promoter before purchase.",
+     "textTruncationLimit": 150,
+     "urls": [
+      "https://www.aarza.com/"
+     ]
+    },
+    "localityReviewDetails": {
+     "componentId": "LOCALITY_RATING_AND_REVIEWS",
+     "heading": "Locality Reviews",
+     "title": "Locality Reviews",
+     "subTitle": "for Siolim, Bardez, Goa",
+     "ratingTab": {
+      "overall": 4,
+      "totalCount": 10,
+      "totalCountText": "(10 Total Reviews)",
+      "counts": [
+       {
+        "rating": 5,
+        "count": 1
+       },
+       {
+        "rating": 4,
+        "count": 9
+       },
+       {
+        "rating": 3,
+        "count": 0
+       },
+       {
+        "rating": 2,
+        "count": 0
+       },
+       {
+        "rating": 1,
+        "count": 0
+       }
+      ]
+     },
+     "ratingsByFeature": {
+      "info": "Overall Rating & parameter wise rating has been calculated taking into account quality, quantity & recency of reviews",
+      "title": "Ratings by features",
+      "tuples": [
+       {
+        "title": "Connectivity",
+        "filterTitle": "Connectivity & Commute",
+        "identifier": "CONNECTIVITY_AND_COMMUTE",
+        "subTitle": "3.9 out of 5",
+        "rating": 3.9,
+        "imgUrl": "https://static.99acres.com/universalrei/img/connectivity.b83c48f5958a7251f21c.png"
+       },
+       {
+        "title": "Lifestyle",
+        "filterTitle": "Lifestyle & Facilities",
+        "identifier": "LIFESTYLE_AND_FACILITIES",
+        "subTitle": "4.1 out of 5",
+        "rating": 4.1,
+        "imgUrl": "https://static.99acres.com/universalrei/img/lifestyle.4ec38d5ce7f851939364.png"
+       },
+       {
+        "title": "Safety",
+        "filterTitle": "Safety & Security",
+        "identifier": "SAFETY_AND_SECURITY",
+        "subTitle": "3.8 out of 5",
+        "rating": 3.8,
+        "imgUrl": "https://static.99acres.com/universalrei/img/safety.a35e2f4404d7a5b12d6c.png"
+       },
+       {
+        "title": "Green Area",
+        "filterTitle": "Green Area",
+        "identifier": "ENVIRONMENT",
+        "subTitle": "3.9 out of 5",
+        "rating": 3.9,
+        "imgUrl": "https://static.99acres.com/universalrei/img/environment.99400b7b7ba301f938a4.png"
+       }
+      ]
+     },
+     "tags": [
+      {
+       "title": "The Positives",
+       "tagList": [
+        "Good Public Transport",
+        "Well-maintained Roads",
+        "Good Schools are nearby",
+        "Easy Cab/Auto Availability",
+        "Markets at a walkable distance",
+        "Good Hospitals are nearby"
+       ],
+       "tagsCountMap": {
+        "Good Public Transport": 6,
+        "Well-maintained Roads": 5,
+        "Good Schools are nearby": 5,
+        "Easy Cab/Auto Availability": 5,
+        "Markets at a walkable distance": 5,
+        "Good Hospitals are nearby": 5
+       }
+      },
+      {
+       "title": "The Negatives",
+       "tagsCountMap": {}
+      }
+     ],
+     "reviews": {
+      "title": "Recommended Reviews",
+      "discriminator": "ALL",
+      "sorting": "MOST_HELPFUL",
+      "threshold": 5,
+      "locality": "8253_LOCALITY",
+      "redirectionParam": {
+       "SORT_ORDER": [
+        {
+         "identifier": "RECENT_FIRST",
+         "title": "Recent First",
+         "params": "sortOrder=RECENT_FIRST",
+         "enabled": true
+        },
+        {
+         "identifier": "MOST_HELPFUL",
+         "title": "Recommended",
+         "params": "sortOrder=MOST_HELPFUL",
+         "enabled": true
+        },
+        {
+         "identifier": "POSITIVE_FIRST",
+         "title": "Positive First",
+         "params": "sortOrder=POSITIVE_FIRST",
+         "enabled": true
+        },
+        {
+         "identifier": "NEGATIVE_FIRST",
+         "title": "Negative First",
+         "params": "sortOrder=NEGATIVE_FIRST",
+         "enabled": true
+        }
+       ],
+       "RATINGS": [
+        {
+         "identifier": "ALL_RATINGS",
+         "title": "All Ratings (10 Reviews)",
+         "params": "",
+         "enabled": true
+        },
+        {
+         "identifier": "5",
+         "title": "5 Star Ratings (1 Reviews)",
+         "params": "rating=5",
+         "enabled": true
+        },
+        {
+         "identifier": "4",
+         "title": "4 Star Ratings (9 Reviews)",
+         "params": "rating=4",
+         "enabled": true
+        },
+        {
+         "identifier": "3",
+         "title": "3 Star Ratings (0 Reviews)",
+         "params": "rating=3",
+         "enabled": false
+        },
+        {
+         "identifier": "2",
+         "title": "2 Star Ratings (0 Reviews)",
+         "params": "rating=2",
+         "enabled": false
+        },
+        {
+         "identifier": "1",
+         "title": "1 Star Ratings (0 Reviews)",
+         "params": "rating=1",
+         "enabled": false
+        }
+       ],
+       "DISCRIMINATOR": [
+        {
+         "identifier": "ALL",
+         "title": "All",
+         "params": "",
+         "enabled": true
+        },
+        {
+         "identifier": "ALL_RATINGS",
+         "title": "All Ratings",
+         "params": "",
+         "enabled": true
+        },
+        {
+         "identifier": "CONNECTIVITY_AND_COMMUTE",
+         "title": "Connectivity & Conveyance",
+         "params": "feature=CONNECTIVITY_AND_COMMUTE",
+         "enabled": true
+        },
+        {
+         "identifier": "ENVIRONMENT",
+         "title": "Environment",
+         "params": "feature=ENVIRONMENT",
+         "enabled": true
+        },
+        {
+         "identifier": "SAFETY_AND_SECURITY",
+         "title": "Safety & Security",
+         "params": "feature=SAFETY_AND_SECURITY",
+         "enabled": true
+        },
+        {
+         "identifier": "LIFESTYLE_AND_FACILITIES",
+         "title": "Lifestyle & Facilities",
+         "params": "feature=LIFESTYLE_AND_FACILITIES",
+         "enabled": true
+        }
+       ]
+      },
+      "tuples": [
+       {
+        "id": 1109661,
+        "postedBy": "AMIGO REAL ESTATE",
+        "discriminator": "Real Estate Agent",
+        "postedAt": "2Y ago",
+        "ratings": 4.4,
+        "header": "1 person found it helpful",
+        "localityId": "1096941_LOCALITY",
+        "localityLabel": "Sodiem Siolim",
+        "markedHelpful": false,
+        "markedReported": false,
+        "tuples": [
+         {
+          "title": "Positives",
+          "review": "Siolim, located in North Goa is a charming village known for its blend of traditional culture and scenic beauty. Situated, along the banks of Chapora river, it offers a peaceful retreat, away from the bustling tourist hubs yet remain close to popular beaches like Vagator, Anjuna and Morjim.\n One of Siolim's main attractions is its laid-back atmosphere. The village is dotted with traditional Portuguese houses, lush greenery, and narrow winding roads that adds to its old-world charm. For those looking to experience the slower pace of Goan life, Siolim provides the perfect backdrop where locals are friendly, and vibe is relaxed.",
+          "tagList": [
+           "Low Pollution",
+           "No Water Shortage"
+          ]
+         },
+         {
+          "title": "Negatives",
+          "review": "Siolim, like all of Goa has its limitation of not having good public transportation. One needs to have their own transport in order to roam around comfortably and commute to other places. Taxi rates are on the higher side. There are hardly any app based cab services available in Siolim, like most parts of Goa. ",
+          "tagList": [
+           "Poor Public Transport",
+           "No Metro Connectivity"
+          ]
+         }
+        ],
+        "profileImgUrl": "",
+        "timeDuration": ""
+       },
+       {
+        "id": 316576,
+        "postedBy": "Raju",
+        "discriminator": "Former Resident",
+        "postedAt": "5Y ago",
+        "ratings": 4.1,
+        "header": "1 person found it helpful",
+        "markedHelpful": false,
+        "markedReported": false,
+        "tuples": [
+         {
+          "title": "Positives",
+          "review": "Firstly this locality has an excellent network of roads and has nearly every convenient way of transportation Here is no issue of traffic,roads are mostly clear 24/7. Cabs and auto are also available whenever needed This makes the locality a better one. Good schools and hospitals are very near to this locality, Roads are well maintained which reduces the risks of accidents. Locality is pretty much safe and secure as there are scarcely any crimes reported nearby",
+          "tagList": [
+           "Good Public Transport",
+           "No Traffic Jam Nearby",
+           "Easy Cab/Auto Availability",
+           "Well-maintained Roads",
+           "Good Schools are nearby",
+           "Markets at a walkable distance",
+           "Good Hospitals are nearby",
+           "Occasional Police Patrolling",
+           "Occasional Crimes Reported"
+          ]
+         },
+         {
+          "title": "Negatives",
+          "review": "Inspire of being an excellent locality in case of connectivity and security, it has some flaws too which are as follows\nSometimes waste is accumulated in an open area which makes the locality unhygienic and increases the risk of air born diseases. Due to the same reason pollution in this area is also a bit high. And the last negative impact is the shortage of water in the locality. Water is available only at time intervals \nThat's all!\n",
+          "tagList": [
+           "Unhygienic",
+           "High Pollution",
+           "Frequent Water Shortage"
+          ]
+         }
+        ]
+       },
+       {
+        "id": 1233320,
+        "postedBy": "Anurag",
+        "discriminator": "Owner of Property",
+        "postedAt": "1Y ago",
+        "ratings": 5,
+        "localityId": "1096941_LOCALITY",
+        "localityLabel": "Sodiem Siolim",
+        "markedHelpful": false,
+        "markedReported": false,
+        "tuples": [
+         {
+          "title": "Positives",
+          "review": "Beautiful calm and quiet village close to the best of beaches, eating joints and also to Mopa airport. Best of schools and hospitals are close by. Self contained market and best of supermarkets. On the banks of Chapora and Anjuna river. Home to a lot of celebrities and a lot of heritage houses. A lot of high end villas so the the area is very peaceful.",
+          "tagList": [
+           "No Power Cuts",
+           "Safe at Night",
+           "Low Pollution",
+           "No Water Shortage",
+           "Markets at a walkable distance",
+           "Well-maintained Roads"
+          ]
+         },
+         {
+          "title": "Negatives",
+          "review": "Honestly speaking there are no negatives of this place. If you are bang on the main road, then perhaps there is a bit of chaos."
+         }
+        ],
+        "timeDuration": "3+Y"
+       }
+      ],
+      "showWithPhotoTag": true
+     },
+     "reviewForm": {
+      "title": "Write a review",
+      "subTitle": "Share your experience about your society or locality and help others make the right choice about their next home",
+      "linkText": "Review your Society / Locality",
+      "iconUrl": "https://static.99acres.com/images/locationReviews/writeNewReview.png",
+      "redirectionParams": {
+       "sourcePage": "XID_DESKTOP",
+       "entityType": "locality"
+      }
+     },
+     "eoi": {
+      "label": "Are you interested in this project ?",
+      "cta": "Request Callback",
+      "trackingSource": "RATING_REVIEW_DETAIL.REQUEST_CALLBACK",
+      "type": "FULFILLMENT_RATIO",
+      "fillInDetailsForm": {
+       "heading": "Request for a callback",
+       "subHeading": "Fill in your details to request for a callback",
+       "ctaText": "Request for a callback"
+      }
+     },
+     "projectReviewsFlag": false,
+     "isLocalityZone": false,
+     "posTagCount": 10,
+     "negTagCount": 0,
+     "posTagsPercent": 100,
+     "rnrLandingPageUrl": "/siolim-north-goa-reviews-and-ratings-wrffid",
+     "imgUrl": "https://static.99acres.com/images/locationREI/defaultLocality.png",
+     "label": "Siolim, Bardez"
+    },
+    "reiOverview": {
+     "componentId": "REI_OVERVIEW",
+     "heading": "Overview",
+     "menuTabTitle": "Explore Locality",
+     "title": "Explore Siolim, Bardez, Goa",
+     "subTitle": "Goa | Pincode - 403517",
+     "locationId": "8253_LOCALITY",
+     "cityId": "323_LOCATION",
+     "entityType": "LOCALITY",
+     "canonicalURL": "/siolim-north-goa-overview-piffid",
+     "localityInsights": [
+      {
+       "id": "RENTAL",
+       "pointers": [
+        {
+         "title": "Popular Among Tenants"
+        },
+        {
+         "title": "Competitive Rentals"
+        }
+       ]
+      },
+      {
+       "id": "RESALE",
+       "pointers": [
+        {
+         "title": "Ample Housing Units"
+        },
+        {
+         "title": "Premium Locale"
+        }
+       ]
+      }
+     ],
+     "shortlisted": false,
+     "feedbackCaptured": false,
+     "pointsToConsider": {
+      "componentId": "POINTS_TO_CONSIDER",
+      "heading": "Points to Consider",
+      "threshold": 4,
+      "title": "Points to Consider",
+      "headerType": "h3",
+      "imageUrl": "https://static.99acres.com/images/locationREI/pointsToConsiderIcon.png",
+      "spriteUrl": "POINTS_TO_CONSIDER",
+      "tuples": [
+       {
+        "id": "WHATS_GREAT_HERE",
+        "title": "What's great here!",
+        "imageUrl": "https://static.99acres.com/images/locationREI/thumbsUp.png",
+        "spriteIdentifier": "POINTS_TO_CONSIDER_THUMBS_UP",
+        "pointers": [
+         {
+          "title": "Siolim is a premium housing hub in Goa, offering ample apartments, villas and land parcels by homegrown builders",
+          "imageUrl": "https://static.99acres.com/images/locationREI/sentimentCategory/realEstateSentiment.png",
+          "spriteIdentifier": "REAL_ESTATE_SENTIMENT"
+         },
+         {
+          "title": "NH-66 is about 8 km from Siolim via Duler-Sodiem-Siolim and offers sound inter-city connectivity",
+          "imageUrl": "https://static.99acres.com/images/locationREI/sentimentCategory/highways.png",
+          "spriteIdentifier": "HIGHWAYS_EXPRESSWAYS"
+         },
+         {
+          "title": "Mapusa Bus Stand, a major bus terminal in North Goa, is about 9 km from the locale and strengthens inter-state commuting",
+          "imageUrl": "https://static.99acres.com/images/locationREI/sentimentCategory/publicTransportation.png",
+          "spriteIdentifier": "PUBLIC_TRANSPORTATION"
+         },
+         {
+          "title": "Thivim Railway Station on the Konark Railway line is about 14 km from the locale via Duler - Sodiem - Siolim Road",
+          "imageUrl": "https://static.99acres.com/images/locationREI/sentimentCategory/railway.png",
+          "spriteIdentifier": "RAILWAY"
+         },
+         {
+          "title": "The recently opened Mopa International Airport is about 25 km from Siolim via NH-66",
+          "imageUrl": "https://static.99acres.com/images/locationREI/sentimentCategory/airport.png",
+          "spriteIdentifier": "AIRPORT"
+         },
+         {
+          "title": "A preferred rental hub in North Goa due to affordability and sound connectivity",
+          "imageUrl": "https://static.99acres.com/images/locationREI/sentimentCategory/rentalSentiment.png",
+          "spriteIdentifier": "RENTAL_SENTIMENT"
+         },
+         {
+          "title": "Schools, such as Holy Cross High School, St. Francis School and Shri Shanta Vidyalaya, are within the locality",
+          "imageUrl": "https://static.99acres.com/images/locationREI/sentimentCategory/socialAmenities.png",
+          "spriteIdentifier": "SOCIAL_AMENITIES"
+         },
+         {
+          "title": "Primary Health Centre, North Goa District Hospital and Holy Cross General Remanso are present within a 10 km radius",
+          "imageUrl": "https://static.99acres.com/images/locationREI/sentimentCategory/socialAmenities.png",
+          "spriteIdentifier": "SOCIAL_AMENITIES"
+         },
+         {
+          "title": "Siolim is home to market centres such as Goa Mini Bazar and Siolim Market",
+          "imageUrl": "https://static.99acres.com/images/locationREI/sentimentCategory/socialAmenities.png",
+          "spriteIdentifier": "SOCIAL_AMENITIES"
+         },
+         {
+          "title": "Uddo Beach, Vagator Beach and Chapora Fort are some popular tourist attractions within 8 km of the locale",
+          "imageUrl": "https://static.99acres.com/images/locationREI/sentimentCategory/tourism.png",
+          "spriteIdentifier": "TOURISM_HERITAGE"
+         }
+        ],
+        "localityPageCriteria": {
+         "redirectionUrl": "/siolim-north-goa-overview-piffid?token=WHATS_GREAT_HERE&src_page=XID#pointsToConsider"
+        }
+       },
+       {
+        "id": "WHATS_NEEDS_ATTENTION",
+        "title": "What needs attention!",
+        "imageUrl": "https://static.99acres.com/images/locationREI/thumbsDown.png",
+        "spriteIdentifier": "POINTS_TO_CONSIDER_THUMBS_DOWN",
+        "pointers": [
+         {
+          "title": "The lack of adequate water supply in Siolim is a recurring concern among the residents",
+          "imageUrl": "https://static.99acres.com/images/locationREI/sentimentCategory/water.png",
+          "spriteIdentifier": "WATER"
+         },
+         {
+          "title": "The pothole-ridden roads in parts of Siolim irks motorists",
+          "imageUrl": "https://static.99acres.com/images/locationREI/sentimentCategory/road.png",
+          "spriteIdentifier": "ROAD"
+         },
+         {
+          "title": "Traffic congestion during music festivals held in Siolim irks motorists",
+          "imageUrl": "https://static.99acres.com/images/locationREI/sentimentCategory/traffic.png",
+          "spriteIdentifier": "TRAFFIC"
+         }
+        ],
+        "localityPageCriteria": {
+         "redirectionUrl": "/siolim-north-goa-overview-piffid?token=WHATS_NEEDS_ATTENTION&src_page=XID#pointsToConsider"
+        }
+       }
+      ]
+     },
+     "seoContent": {
+      "relativeUrl": "/siolim-north-goa-overview-piffid",
+      "metaTitle": "Siolim  Bardez, Goa - Map, Property Rates, Projects, Reviews, Photos & Videos",
+      "metaDescription": "Know about Siolim  Bardez Goa property market, view map, reviews, property price trends, locality photos & videos, nearby landmarks, popular societies, explore 201+ properties in Siolim  Bardez for buy/rent",
+      "shareUrl": "Know all about Siolim  Bardez on 99acres"
+     },
+     "localityPageInsights": {
+      "subTitle": "Commute, Price Trends, Lifestyle and more",
+      "title": "Get more insights about Siolim  Bardez",
+      "localityPageCriteria": {
+       "redirectionUrl": "/siolim-north-goa-overview-piffid"
+      }
+     },
+     "custom_object": {
+      "cityId": "323_LOCATION",
+      "localityId": "8253_LOCALITY",
+      "src_page": "XID"
+     },
+     "isLocalityZone": false,
+     "longLat": {
+      "x": 73.7667,
+      "y": 15.6167,
+      "type": "Point",
+      "coordinates": [
+       73.7667,
+       15.6167
+      ]
+     },
+     "rlpUrls": {
+      "PRT": "/property-rates-and-price-trends-in-north-goa-prffid",
+      "RNR": "/north-goa-reviews-and-ratings-wrffid",
+      "CITY_INSIGHT": "/north-goa-overview-ciffid",
+      "PRTSOC": "/property-rates-and-price-trends-in-societies-north-goa-prffid",
+      "INSIGHT": "/real-estate-insights-irffid",
+      "LI": "/localities-in-north-goa-lrffid"
+     },
+     "showCaseLabel": "Siolim, Bardez, Goa"
+    },
+    "sellerComponent": {
+     "componentId": "SELLER_COMPONENT",
+     "heading": "Sellers you may contact",
+     "menuTabTitle": "Sellers",
+     "isEliteView": true,
+     "viewAllLabel": "View All Sellers",
+     "limit": 10,
+     "cityId": "323_LOCATION",
+     "params": {
+      "projectId": "PROJECT_469160_R",
+      "isEliteView": true,
+      "limit": 10,
+      "cityId": "323_LOCATION",
+      "platform": "DESKTOP"
+     },
+     "nonVideoCardsTimer": 2000,
+     "autoScrollTransitionTimer": 300,
+     "frontCardsTimer": 1000
+    }
+   },
+   "seoContent": {
+    "metaTitle": "Seraano by Aarza Siolim, Bardez, Goa | Price List & Brochure, Floor Plan, Location Map & Reviews",
+    "metaDescription": "Seraano by Aarza Siolim, Bardez, Goa is New Launch project. Aarza Realty offers Villas in Seraano by Aarza. Click for Project Price List, Map, Photos, Videos, Location Highlights & Nearby similar projects on 99acres.com.",
+    "detailPageUrl": "https://www.99acres.com/seraano-by-aarza-siolim-north-goa-npxid-r469160",
+    "productSchema": {
+     "sellers": [
+      "Aarza Realty"
+     ],
+     "highPrice": 69500000,
+     "lowPrice": 46500000,
+     "name": "Seraano by Aarza ",
+     "coverImageUrl": "https://newprojects.99acres.com/projects/aarza_ecko_buildwell_llp/seraano_by_aarza/images/lmvljvo_1783057602_787339108_med.jpg",
+     "brand": {
+      "name": "Aarza Realty",
+      "url": "https://builders.99acres.com/aarza-realty-builders-developers-bid-149020"
+     },
+     "offerCount": "8"
+    }
+   },
+   "marketing": {
+    "availability": "New Launch",
+    "budgetMin": "46500000",
+    "budgetMax": "69500000",
+    "builderName": "Aarza Realty",
+    "businessSegment": "NP",
+    "cityId": "323",
+    "cityName": "North Goa",
+    "currency": "INR",
+    "locality": "Siolim, Bardez",
+    "localityName": "Siolim, Bardez",
+    "minPrice": "46500000",
+    "maxPrice": "69500000",
+    "page": "XID",
+    "photo": "https://newprojects.99acres.com/projects/aarza_ecko_buildwell_llp/seraano_by_aarza/images/lmvljvo_1783057602_787339108_med.jpg",
+    "preference": "Buy",
+    "projId": "r469160",
+    "projName": "Seraano by Aarza ",
+    "resCom": "R",
+    "sitetype": "d",
+    "transactType": "none",
+    "buildingId": "1277159",
+    "localityId": "8253",
+    "constructionStatus": "NEW_LAUNCH",
+    "isNewLaunch": true,
+    "class": "none",
+    "propertyType": "Villa",
+    "bedrooms": "3"
+   },
+   "charges": {
+    "heading": "Charges",
+    "govtCharges": {
+     "heading": "Government Charges",
+     "subHeading": "Standard across  North Goa",
+     "disclaimer": "The views expressed above are for informational purposes only based on industry reports and related news stories. 99acres does not guarantee the accuracy, completeness, or reliability of the information and shall not be held responsible for any action taken based on the published information. In case of any variance between the information provided on this webpage what has been stated and what is contained in the relevant Act, Rules, Regulations, Policy Statements etc, the latter shall prevail",
+     "propertyValueDisclaimer": "Property Value is the value considered for property registration. It generally includes the sale value of the property and excludes taxes and other non-property charges, as applicable under state regulations.",
+     "truncationLimit": 220,
+     "eoi": {
+      "label": "Get a callback to know more",
+      "trackingSource": "GOVT_CHARGES.REQUEST_CALLBACK",
+      "type": "FULFILLMENT_RATIO",
+      "fillInDetailsForm": {
+       "heading": "Request for a callback",
+       "subHeading": "Fill in your details to request for a callback",
+       "ctaText": "Request for a callback"
+      }
+     },
+     "tuples": [
+      {
+       "title": "Stamp Duty",
+       "points": [
+        "3 % of Value up to Rs 50 lakh",
+        "4 % of Value between Rs 50–75 lakh",
+        "4.5 % of Value between Rs 75 lakh–1 crore",
+        "5 % of Value above Rs 1 crore",
+        "6 % of Value above Rs 5 crore(Rates applicable to both Male and Female)."
+       ]
+      },
+      {
+       "title": "Registration Charges",
+       "points": [
+        "3 % of Value up to Rs 50 lakh",
+        "3 % of Value between Rs 50-75 lakh",
+        "3 % of Value between Rs 75 lakh-1 crore",
+        "3 % of Value above Rs 1 crore",
+        "3 % of Value above Rs 5 crore"
+       ]
+      }
+     ],
+     "statutoryChargesSubHeading": "Charges across Goa",
+     "statutoryCharges": [
+      {
+       "type": "stampDuty",
+       "title": "Base Stamp Duty (% of property value*)",
+       "displayType": "GRID",
+       "gridData": [
+        [
+         "Ownership",
+         "Urban/Rural (Up to ₹50L)",
+         "Urban/Rural (Up to ₹75L)",
+         "Urban/Rural (₹75L - 1Cr)",
+         "Urban/Rural (₹1 - 5Cr)",
+         "Urban/Rural (₹5Cr+)"
+        ],
+        [
+         "All",
+         "3.5%",
+         "4%",
+         "4.5%",
+         "5%",
+         "6%"
+        ]
+       ],
+       "comments": []
+      },
+      {
+       "type": "registration",
+       "title": "Registration (% of property value*)",
+       "displayType": "GRID",
+       "gridData": [
+        [
+         "Ownership",
+         "Urban/Rural (Up to ₹75L)",
+         "Urban/Rural (₹75L+)"
+        ],
+        [
+         "All",
+         "3%",
+         "3.5%"
+        ]
+       ],
+       "comments": []
+      },
+      {
+       "type": "gst",
+       "title": "GST",
+       "displayType": "TEXT",
+       "comments": [
+        "1% for property value up to ₹45 Lakh",
+        "5% for property value above ₹45 Lakh"
+       ]
+      }
+     ]
+    },
+    "eoi": {
+     "label": "Get a callback to know more",
+     "trackingSource": "CHARGES.REQUEST_CALLBACK",
+     "type": "FULFILLMENT_RATIO",
+     "fillInDetailsForm": {
+      "heading": "Request for a callback",
+      "subHeading": "Fill in your details to request for a callback",
+      "ctaText": "Request for a callback"
+     }
+    }
+   }
+  },
+  "projectId": "469160"
+ },
+ "global": {
+  "isPageLoaded": false,
+  "showLoginRegisterWidget": false,
+  "isMobile": false,
+  "visitorId": "5266871791361611924",
+  "sessionId": "",
+  "bannerExpire": false,
+  "platform": "web",
+  "isBocPackExpired": false,
+  "isShortlisted": false,
+  "workflow_id": "",
+  "isWebView": false,
+  "isNpsrpRevamp": false,
+  "isLighthouse": false,
+  "_99_ab": "23",
+  "pageName": "projectDetailV2",
+  "newRera": true,
+  "isRnPages": false,
+  "referer": "",
+  "isR2m": false,
+  "isCom": false,
+  "viewType": "REGULAR"
+ }
+}

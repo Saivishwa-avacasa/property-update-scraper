@@ -1,0 +1,54 @@
+name: daily report + tests
+
+# The scraping runs on the Windows PC (99acres blocks GitHub's datacenter IPs).
+# This workflow is the place to READ what happened:
+#   * "daily report" prints, from the database, the runs per state, new
+#     projects, price/RERA changes, failed pages and queue health. It goes red
+#     (and GitHub e-mails you) when a state had no successful run in 36 h.
+#   * "tests" runs the offline parser tests on every push.
+# Needs the repository secret DATABASE_URL (Settings -> Secrets and variables -> Actions).
+on:
+  push:
+  schedule:
+    - cron: "30 14 * * *"   # 20:00 IST, after the day's scheduled runs
+  workflow_dispatch:
+    inputs:
+      hours:
+        description: "Report window in hours"
+        default: "24"
+
+permissions:
+  contents: read
+
+jobs:
+  report:
+    name: daily report
+    if: github.event_name != 'push'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install "psycopg[binary]>=3.2"
+      - name: Report from the database
+        env:
+          DATABASE_URL: ${{ secrets.DATABASE_URL }}
+          PGSSLROOTCERT: ${{ github.workspace }}/certs/root.crt
+          PYTHONUTF8: "1"
+        run: |
+          if [ -z "$DATABASE_URL" ]; then echo "::error::secret DATABASE_URL not set"; exit 1; fi
+          python watchdog.py --hours "${{ github.event.inputs.hours || '24' }}" | tee report.txt
+          echo '```' >> "$GITHUB_STEP_SUMMARY"; cat report.txt >> "$GITHUB_STEP_SUMMARY"; echo '```' >> "$GITHUB_STEP_SUMMARY"
+          exit "${PIPESTATUS[0]}"
+
+  tests:
+    if: github.event_name == 'push'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - run: python -m unittest discover -s tests -v

@@ -1,0 +1,2681 @@
+{
+ "srp": {
+  "pageData": {
+   "properties": [
+    {
+     "rescom": "R",
+     "preference": "S",
+     "projectUnitId": "459201",
+     "builderName": "Casagrand",
+     "possessionStatus": {
+      "label": "New Launch (Completion in Jun, 2030)"
+     },
+     "heading": "Casagrand Aquagrove",
+     "landingPage": {
+      "url": "https://www.99acres.com/casagrand-aquagrove-madhavaram-chennai-north-npxid-r459201"
+     },
+     "tags": [
+      {
+       "id": "NO_BROKERAGE",
+       "label": "No Brokerage"
+      },
+      {
+       "id": "OFFERS",
+       "label": "1 OFFER"
+      },
+      {
+       "id": "TOP_FACILITIES",
+       "label": "+60 Top Facilities"
+      }
+     ],
+     "locationHighlights": {
+      "heading": "Nearby : ",
+      "landMarks": [
+       {
+        "score": 1729,
+        "subHeading": "290 Mtrs",
+        "caption": "University",
+        "category": "University",
+        "altTag": "University",
+        "srp": {
+         "className": "uni",
+         "imageName": "https://static.99acres.com/universalapp/img/uni.png"
+        },
+        "label": "Velammal Engineering College",
+        "iconUrl": "https://static.99acres.com/universalapp/img/University.png",
+        "className": "university"
+       },
+       {
+        "score": 1759,
+        "subHeading": "800 Mtrs",
+        "caption": "School",
+        "category": "School",
+        "altTag": "nearby School",
+        "srp": {
+         "className": "schl",
+         "imageName": "https://static.99acres.com/universalapp/img/schl.png"
+        },
+        "label": "Velammal New Gen School",
+        "iconUrl": "https://static.99acres.com/universalapp/img/School.png",
+        "className": "school"
+       },
+       {
+        "score": 1879,
+        "subHeading": "4.8 Km",
+        "caption": "Hospital",
+        "category": "Hospital",
+        "altTag": "Nearby Hospital",
+        "srp": {
+         "className": "hsptl",
+         "imageName": "https://static.99acres.com/universalapp/img/hsptl.png"
+        },
+        "label": "Meridian Hospital",
+        "iconUrl": "https://static.99acres.com/universalapp/img/Hospital_building.png",
+        "className": "hospital"
+       },
+       {
+        "score": 1779,
+        "subHeading": "6.4 Km",
+        "caption": "Railway Station",
+        "category": "RailwayStation",
+        "altTag": "Railway Station",
+        "srp": {
+         "className": "rail",
+         "imageName": "https://static.99acres.com/universalapp/img/rail.png"
+        },
+        "label": "Korattur Railway Station",
+        "iconUrl": "https://static.99acres.com/universalapp/img/Railway.png",
+        "className": "railwayStation"
+       },
+       {
+        "score": 1749,
+        "subHeading": "6.6 Km",
+        "caption": "Shopping Center/ Market/ Mall",
+        "category": "ShoppingCenter",
+        "altTag": "nearby Shopping Center/ Market/ Mall",
+        "srp": {
+         "className": "shpng",
+         "imageName": "https://static.99acres.com/universalapp/img/shpng.png"
+        },
+        "label": "PVR Galaxy Mall",
+        "iconUrl": "https://static.99acres.com/universalapp/img/Shop.png",
+        "className": "shop"
+       }
+      ],
+      "endLabel": null
+     },
+     "subHeading": "2, 3, 4 BHK Apartment in Madhavaram, Chennai",
+     "price": {
+      "min": 10400000,
+      "max": 21479271,
+      "authentic": true,
+      "label": "1.04 - 2.15 Cr"
+     },
+     "shortlisted": false,
+     "location": {
+      "localityName": "Madhavaram",
+      "projectName": "Casagrand Aquagrove",
+      "cityName": "Chennai North",
+      "stateName": "Tamil Nadu",
+      "latitude": 13.151806,
+      "stateId": "227_LOCATION",
+      "cityId": "33_LOCATION",
+      "localityId": "469_LOCALITY",
+      "longitude": 80.193143,
+      "LOCALITY_APPRECIATION": 0
+     },
+     "entityType": "PROJECT",
+     "reraDisplayTag": "RERA",
+     "configSummary": {
+      "cards": [
+       {
+        "area": {
+         "unit": 1,
+         "min": 1307,
+         "max": 1325,
+         "secondaryUnit": 3,
+         "display": "1,307 - 1,325 sqft",
+         "type": {
+          "label": "Built-up Area",
+          "value": "BUILTUP"
+         },
+         "secondaryDisplay": "121.42 - 123.1 sqm"
+        },
+        "price": {
+         "min": 10400000,
+         "max": 10883378,
+         "authentic": true,
+         "label": "1.04 - 1.09 Cr"
+        },
+        "configInfo": {
+         "subLabel": "Apartment",
+         "bgColor": null,
+         "icon": null,
+         "label": "2 BHK"
+        }
+       },
+       {
+        "area": {
+         "unit": 1,
+         "min": 1760,
+         "max": 2115,
+         "secondaryUnit": 3,
+         "display": "1,760 - 2,115 sqft",
+         "type": {
+          "label": "Built-up Area",
+          "value": "BUILTUP"
+         },
+         "secondaryDisplay": "163.51 - 196.49 sqm"
+        },
+        "price": {
+         "min": 14000000,
+         "max": 17372336,
+         "authentic": true,
+         "label": "1.4 - 1.74 Cr"
+        },
+        "configInfo": {
+         "subLabel": "Apartment",
+         "bgColor": null,
+         "icon": null,
+         "label": "3 BHK"
+        }
+       },
+       {
+        "area": {
+         "unit": 1,
+         "min": 2544,
+         "max": 2615,
+         "secondaryUnit": 3,
+         "display": "2,544 - 2,615 sqft",
+         "type": {
+          "label": "Built-up Area",
+          "value": "BUILTUP"
+         },
+         "secondaryDisplay": "236.35 - 242.94 sqm"
+        },
+        "price": {
+         "min": 20896086,
+         "max": 21479271,
+         "authentic": true,
+         "label": "2.09 - 2.15 Cr"
+        },
+        "configInfo": {
+         "subLabel": "Apartment",
+         "bgColor": null,
+         "icon": null,
+         "label": "4 BHK"
+        }
+       }
+      ]
+     },
+     "isPremium": true,
+     "isNewLaunch": true,
+     "landingPageRelativeUrl": "/casagrand-aquagrove-madhavaram-chennai-north-npxid-r459201",
+     "pricePerSqFt": "7,700 /sqft",
+     "areaType": "BUILTUP",
+     "localizedPricePerSqft": "7,700 /sqft",
+     "localizedPrice": 7700,
+     "localizedPricePerSqftUnit": 1,
+     "localizedPricePerSqftUnitLabel": " sqft"
+    },
+    {
+     "rescom": "R",
+     "preference": "S",
+     "projectUnitId": "459103",
+     "builderName": "KCee Properties Chennai",
+     "possessionStatus": {
+      "label": "New Launch (Completion in Dec, 2026)"
+     },
+     "heading": "KCee Srinivasam",
+     "landingPage": {
+      "url": "https://www.99acres.com/kcee-srinivasam-t-nagar-chennai-central-npxid-r459103"
+     },
+     "tags": [
+      {
+       "id": "NO_BROKERAGE",
+       "label": "No Brokerage"
+      },
+      {
+       "id": "FLOORPLANS_3D",
+       "label": "3D Floor Plans Available"
+      },
+      {
+       "id": "TOP_FACILITIES",
+       "label": "+10 Top Facilities"
+      }
+     ],
+     "subHeading": "3 BHK Apartment in T Nagar, Chennai",
+     "price": {
+      "min": 25056000,
+      "max": 25632000,
+      "authentic": true,
+      "label": "2.51 - 2.56 Cr"
+     },
+     "shortlisted": false,
+     "location": {
+      "localityName": "T Nagar",
+      "projectName": "KCee Srinivasam",
+      "cityName": "Chennai Central",
+      "stateName": "Tamil Nadu",
+      "latitude": 13.044856,
+      "stateId": "227_LOCATION",
+      "cityId": "35_LOCATION",
+      "localityId": "578_LOCALITY",
+      "longitude": 80.237434,
+      "LOCALITY_APPRECIATION": 0
+     },
+     "entityType": "PROJECT",
+     "reraDisplayTag": "RERA",
+     "configSummary": {
+      "cards": [
+       {
+        "area": {
+         "unit": 1,
+         "min": 1566,
+         "max": 1602,
+         "secondaryUnit": 3,
+         "display": "1,566 - 1,602 sqft",
+         "type": {
+          "label": "Super Built-up Area",
+          "value": "SUPER"
+         },
+         "secondaryDisplay": "145.49 - 148.83 sqm"
+        },
+        "price": {
+         "min": 25056000,
+         "max": 25632000,
+         "authentic": true,
+         "label": "2.51 - 2.56 Cr"
+        },
+        "configInfo": {
+         "subLabel": "Apartment",
+         "bgColor": null,
+         "icon": null,
+         "label": "3 BHK"
+        }
+       }
+      ]
+     },
+     "isPremium": false,
+     "isNewLaunch": false,
+     "landingPageRelativeUrl": "/kcee-srinivasam-t-nagar-chennai-central-npxid-r459103",
+     "pricePerSqFt": "16,000 /sqft",
+     "areaType": "SUPER",
+     "localizedPricePerSqft": "16,000 /sqft",
+     "localizedPrice": 16000,
+     "localizedPricePerSqftUnit": 1,
+     "localizedPricePerSqftUnitLabel": " sqft"
+    },
+    {
+     "rescom": "R",
+     "preference": "S",
+     "projectUnitId": "449785",
+     "builderName": "Nithya Estates",
+     "possessionStatus": {
+      "label": "New Launch (Completion in Mar, 2027)"
+     },
+     "heading": "Nithya Clover",
+     "landingPage": {
+      "url": "https://www.99acres.com/nithya-clover-ramanathapuram-coimbatore-npxid-r449785"
+     },
+     "tags": [
+      {
+       "id": "NO_BROKERAGE",
+       "label": "No Brokerage"
+      },
+      {
+       "id": "FLOORPLANS_3D",
+       "label": "3D Floor Plans Available"
+      },
+      {
+       "id": "TOP_FACILITIES",
+       "label": "+10 Top Facilities"
+      }
+     ],
+     "locationHighlights": {
+      "heading": "Nearby : ",
+      "landMarks": [
+       {
+        "score": 1759,
+        "subHeading": "100 Meters",
+        "caption": "School",
+        "category": "School",
+        "altTag": "nearby School",
+        "srp": {
+         "className": "schl",
+         "imageName": "https://static.99acres.com/universalapp/img/schl.png"
+        },
+        "label": "Kendriya Vidyalaya, Coimbatore Main",
+        "iconUrl": "https://static.99acres.com/universalapp/img/School.png",
+        "className": "school"
+       },
+       {
+        "score": 1879,
+        "subHeading": "1.1 Km",
+        "caption": "Hospital",
+        "category": "Hospital",
+        "altTag": "Nearby Hospital",
+        "srp": {
+         "className": "hsptl",
+         "imageName": "https://static.99acres.com/universalapp/img/hsptl.png"
+        },
+        "label": "GEM Hospital Coimbatore",
+        "iconUrl": "https://static.99acres.com/universalapp/img/Hospital_building.png",
+        "className": "hospital"
+       },
+       {
+        "score": 1729,
+        "subHeading": "2 Km",
+        "caption": "University",
+        "category": "University",
+        "altTag": "University",
+        "srp": {
+         "className": "uni",
+         "imageName": "https://static.99acres.com/universalapp/img/uni.png"
+        },
+        "label": "Nirmala College for Women",
+        "iconUrl": "https://static.99acres.com/universalapp/img/University.png",
+        "className": "university"
+       },
+       {
+        "score": 1779,
+        "subHeading": "3.8 Km",
+        "caption": "Railway Station",
+        "category": "RailwayStation",
+        "altTag": "Railway Station",
+        "srp": {
+         "className": "rail",
+         "imageName": "https://static.99acres.com/universalapp/img/rail.png"
+        },
+        "label": "Coimbatore Junction",
+        "iconUrl": "https://static.99acres.com/universalapp/img/Railway.png",
+        "className": "railwayStation"
+       },
+       {
+        "score": 1989,
+        "subHeading": "9 Km",
+        "caption": "Airport",
+        "category": "Airport",
+        "altTag": "Airport",
+        "srp": {
+         "className": "aprt",
+         "imageName": "https://static.99acres.com/universalapp/img/aprt.png"
+        },
+        "label": "Coimbatore International Airport",
+        "iconUrl": "https://static.99acres.com/universalapp/img/Airport.png",
+        "className": "airport"
+       }
+      ],
+      "endLabel": null
+     },
+     "subHeading": "2, 3 BHK Apartment in Ramanathapuram, Coimbatore",
+     "price": {
+      "min": 8022997,
+      "max": 9678790,
+      "authentic": true,
+      "label": "80.23 - 96.79 L"
+     },
+     "shortlisted": false,
+     "location": {
+      "localityName": "Ramanathapuram",
+      "projectName": "Nithya Clover",
+      "cityName": "Coimbatore",
+      "stateName": "Tamil Nadu",
+      "latitude": 11.00685111743513,
+      "stateId": "227_LOCATION",
+      "cityId": "185_LOCATION",
+      "localityId": "7369_LOCALITY",
+      "longitude": 76.99721219253665,
+      "LOCALITY_APPRECIATION": 0
+     },
+     "entityType": "PROJECT",
+     "reraDisplayTag": "RERA",
+     "configSummary": {
+      "cards": [
+       {
+        "area": {
+         "unit": 1,
+         "min": 1003,
+         "max": 1051,
+         "secondaryUnit": 3,
+         "display": "1,003 - 1,051 sqft",
+         "type": {
+          "label": "Super Built-up Area",
+          "value": "SUPER"
+         },
+         "secondaryDisplay": "93.18 - 97.64 sqm"
+        },
+        "price": {
+         "min": 8022997,
+         "max": 8406949,
+         "authentic": true,
+         "label": "80.23 - 84.07 L"
+        },
+        "configInfo": {
+         "subLabel": "Apartment",
+         "bgColor": null,
+         "icon": null,
+         "label": "2 BHK"
+        }
+       },
+       {
+        "area": {
+         "unit": 1,
+         "min": 1158,
+         "max": 1210,
+         "secondaryUnit": 3,
+         "display": "1,158 - 1,210 sqft",
+         "type": {
+          "label": "Super Built-up Area",
+          "value": "SUPER"
+         },
+         "secondaryDisplay": "107.58 - 112.41 sqm"
+        },
+        "price": {
+         "min": 9254843,
+         "max": 9678790,
+         "authentic": true,
+         "label": "92.55 - 96.79 L"
+        },
+        "configInfo": {
+         "subLabel": "Apartment",
+         "bgColor": null,
+         "icon": null,
+         "label": "3 BHK"
+        }
+       }
+      ]
+     },
+     "isPremium": false,
+     "isNewLaunch": false,
+     "landingPageRelativeUrl": "/nithya-clover-ramanathapuram-coimbatore-npxid-r449785",
+     "pricePerSqFt": "7,992 /sqft",
+     "areaType": "SUPER",
+     "localizedPricePerSqft": "7,992 /sqft",
+     "localizedPrice": 7992,
+     "localizedPricePerSqftUnit": 1,
+     "localizedPricePerSqftUnitLabel": " sqft"
+    },
+    {
+     "rescom": "R",
+     "preference": "S",
+     "projectUnitId": "464929",
+     "builderName": "Casagrand",
+     "possessionStatus": {
+      "label": "New Launch (Completion in Apr, 2030)"
+     },
+     "heading": "Casagrand  Ventra",
+     "landingPage": {
+      "url": "https://www.99acres.com/casagrand-ventra-kattupakkam-chennai-west-npxid-r464929"
+     },
+     "tags": [
+      {
+       "id": "NO_BROKERAGE",
+       "label": "No Brokerage"
+      },
+      {
+       "id": "OFFERS",
+       "label": "1 OFFER"
+      },
+      {
+       "id": "FLOORPLANS_3D",
+       "label": "3D Floor Plans Available"
+      },
+      {
+       "id": "TOP_FACILITIES",
+       "label": "+30 Top Facilities"
+      }
+     ],
+     "locationHighlights": {
+      "heading": "Nearby : ",
+      "landMarks": [
+       {
+        "score": 1729,
+        "subHeading": "2.1 Km",
+        "caption": "University",
+        "category": "University",
+        "altTag": "University",
+        "srp": {
+         "className": "uni",
+         "imageName": "https://static.99acres.com/universalapp/img/uni.png"
+        },
+        "label": "S.A. Engineering College",
+        "iconUrl": "https://static.99acres.com/universalapp/img/University.png",
+        "className": "university"
+       },
+       {
+        "score": 1879,
+        "subHeading": "3.4 Km",
+        "caption": "Hospital",
+        "category": "Hospital",
+        "altTag": "Nearby Hospital",
+        "srp": {
+         "className": "hsptl",
+         "imageName": "https://static.99acres.com/universalapp/img/hsptl.png"
+        },
+        "label": "ACS Medical College and Hospital",
+        "iconUrl": "https://static.99acres.com/universalapp/img/Hospital_building.png",
+        "className": "hospital"
+       },
+       {
+        "score": 1759,
+        "subHeading": "4.1 Km",
+        "caption": "School",
+        "category": "School",
+        "altTag": "nearby School",
+        "srp": {
+         "className": "schl",
+         "imageName": "https://static.99acres.com/universalapp/img/schl.png"
+        },
+        "label": "Aadhithya International Public Schools",
+        "iconUrl": "https://static.99acres.com/universalapp/img/School.png",
+        "className": "school"
+       },
+       {
+        "score": 1899,
+        "subHeading": "4.6 Km",
+        "caption": "Highway",
+        "category": "Highway",
+        "altTag": "Highway",
+        "srp": {
+         "className": "hw",
+         "imageName": "https://static.99acres.com/universalapp/img/hw.png"
+        },
+        "label": "Poonamallee High Road",
+        "iconUrl": "https://static.99acres.com/universalapp/img/Expressways.png",
+        "className": "highway"
+       },
+       {
+        "score": 1839,
+        "subHeading": "10.8 Km",
+        "caption": "Office complex",
+        "category": "OfficeComplex",
+        "altTag": "Office complex",
+        "srp": {
+         "className": "ofsc",
+         "imageName": "https://static.99acres.com/universalapp/img/ofce.png"
+        },
+        "label": "DLF Cyber City",
+        "iconUrl": "https://static.99acres.com/universalapp/img/Office_Complex.png",
+        "className": "oficeComplex"
+       }
+      ],
+      "endLabel": null
+     },
+     "subHeading": "3, 4, 5 BHK Apartment in Kattupakkam, Chennai",
+     "price": {
+      "min": 16400000,
+      "max": 33700000,
+      "authentic": true,
+      "label": "1.64 - 3.37 Cr"
+     },
+     "shortlisted": false,
+     "location": {
+      "localityName": "Kattupakkam",
+      "projectName": "Casagrand  Ventra",
+      "cityName": "Chennai West",
+      "stateName": "Tamil Nadu",
+      "latitude": 13.05427,
+      "stateId": "227_LOCATION",
+      "cityId": "36_LOCATION",
+      "localityId": "8031_LOCALITY",
+      "longitude": 80.12039,
+      "LOCALITY_APPRECIATION": 0
+     },
+     "entityType": "PROJECT",
+     "reraDisplayTag": "RERA",
+     "configSummary": {
+      "cards": [
+       {
+        "area": {
+         "unit": 1,
+         "min": 1884,
+         "max": 2103,
+         "secondaryUnit": 3,
+         "display": "1,884 - 2,103 sqft",
+         "type": {
+          "label": "Built-up Area",
+          "value": "BUILTUP"
+         },
+         "secondaryDisplay": "175.03 - 195.38 sqm"
+        },
+        "price": {
+         "min": 16400000,
+         "max": 18306369,
+         "authentic": true,
+         "label": "1.64 - 1.83 Cr"
+        },
+        "configInfo": {
+         "subLabel": "Apartment",
+         "bgColor": null,
+         "icon": null,
+         "label": "3 BHK"
+        }
+       },
+       {
+        "area": {
+         "unit": 1,
+         "min": 2462,
+         "max": 2467,
+         "secondaryUnit": 3,
+         "display": "2,462 - 2,467 sqft",
+         "type": {
+          "label": "Built-up Area",
+          "value": "BUILTUP"
+         },
+         "secondaryDisplay": "228.73 - 229.19 sqm"
+        },
+        "price": {
+         "min": 21000000,
+         "max": 21100000,
+         "authentic": true,
+         "label": "2.1 - 2.11 Cr"
+        },
+        "configInfo": {
+         "subLabel": "Apartment",
+         "bgColor": null,
+         "icon": null,
+         "label": "4 BHK"
+        }
+       },
+       {
+        "area": {
+         "unit": 1,
+         "min": 3911,
+         "max": 3913,
+         "secondaryUnit": 3,
+         "display": "3,911 - 3,913 sqft",
+         "type": {
+          "label": "Built-up Area",
+          "value": "BUILTUP"
+         },
+         "secondaryDisplay": "363.34 - 363.53 sqm"
+        },
+        "price": {
+         "min": 33700000,
+         "max": 33700000,
+         "authentic": true,
+         "label": "3.37 Cr"
+        },
+        "configInfo": {
+         "subLabel": "Apartment",
+         "bgColor": null,
+         "icon": null,
+         "label": "5 BHK"
+        }
+       }
+      ]
+     },
+     "isPremium": true,
+     "isNewLaunch": false,
+     "landingPageRelativeUrl": "/casagrand-ventra-kattupakkam-chennai-west-npxid-r464929",
+     "pricePerSqFt": "7,299 /sqft",
+     "areaType": "BUILTUP",
+     "localizedPricePerSqft": "7,299 /sqft",
+     "localizedPrice": 7299,
+     "localizedPricePerSqftUnit": 1,
+     "localizedPricePerSqftUnitLabel": " sqft"
+    },
+    {
+     "rescom": "R",
+     "preference": "S",
+     "projectUnitId": "463546",
+     "builderName": "Bharath Flat Promotters",
+     "possessionStatus": {
+      "label": "New Launch (Completion in Dec, 2028)"
+     },
+     "heading": "Bharath Springs",
+     "landingPage": {
+      "url": "https://www.99acres.com/bharath-springs-kattur-trichy-npxid-r463546"
+     },
+     "tags": [
+      {
+       "id": "NO_BROKERAGE",
+       "label": "No Brokerage"
+      },
+      {
+       "id": "FLOORPLANS_3D",
+       "label": "3D Floor Plans Available"
+      },
+      {
+       "id": "TOP_FACILITIES",
+       "label": "+20 Top Facilities"
+      }
+     ],
+     "locationHighlights": {
+      "heading": "Nearby : ",
+      "landMarks": [
+       {
+        "score": 1759,
+        "subHeading": "3 minutes",
+        "caption": "School",
+        "category": "School",
+        "altTag": "nearby School",
+        "srp": {
+         "className": "schl",
+         "imageName": "https://static.99acres.com/universalapp/img/schl.png"
+        },
+        "label": "Montfort School",
+        "iconUrl": "https://static.99acres.com/universalapp/img/School.png",
+        "className": "school"
+       },
+       {
+        "score": 1729,
+        "subHeading": "7 minutes",
+        "caption": "University",
+        "category": "University",
+        "altTag": "University",
+        "srp": {
+         "className": "uni",
+         "imageName": "https://static.99acres.com/universalapp/img/uni.png"
+        },
+        "label": "Urumu Dhanalakshmi College",
+        "iconUrl": "https://static.99acres.com/universalapp/img/University.png",
+        "className": "university"
+       },
+       {
+        "score": 1879,
+        "subHeading": "13 minutes",
+        "caption": "Hospital",
+        "category": "Hospital",
+        "altTag": "Nearby Hospital",
+        "srp": {
+         "className": "hsptl",
+         "imageName": "https://static.99acres.com/universalapp/img/hsptl.png"
+        },
+        "label": "Apollo Hospital",
+        "iconUrl": "https://static.99acres.com/universalapp/img/Hospital_building.png",
+        "className": "hospital"
+       },
+       {
+        "score": 1839,
+        "subHeading": "18 minutes",
+        "caption": "Office complex",
+        "category": "OfficeComplex",
+        "altTag": "Office complex",
+        "srp": {
+         "className": "ofsc",
+         "imageName": "https://static.99acres.com/universalapp/img/ofce.png"
+        },
+        "label": "IT Park",
+        "iconUrl": "https://static.99acres.com/universalapp/img/Office_Complex.png",
+        "className": "oficeComplex"
+       },
+       {
+        "score": 1989,
+        "subHeading": "22 minutes",
+        "caption": "Airport",
+        "category": "Airport",
+        "altTag": "Airport",
+        "srp": {
+         "className": "aprt",
+         "imageName": "https://static.99acres.com/universalapp/img/aprt.png"
+        },
+        "label": "Tiruchirappalli International Airport",
+        "iconUrl": "https://static.99acres.com/universalapp/img/Airport.png",
+        "className": "airport"
+       }
+      ],
+      "endLabel": null
+     },
+     "subHeading": "2, 3 BHK Apartment in Kattur, Trichy",
+     "price": {
+      "min": 5922000,
+      "max": 8130000,
+      "authentic": true,
+      "label": "59.22 - 81.3 L"
+     },
+     "shortlisted": false,
+     "location": {
+      "localityName": "Kattur",
+      "projectName": "Bharath Springs",
+      "cityName": "Trichy",
+      "stateName": "Tamil Nadu",
+      "latitude": 10.795794,
+      "stateId": "227_LOCATION",
+      "cityId": "192_LOCATION",
+      "localityId": "20741_LOCALITY",
+      "longitude": 78.757655,
+      "LOCALITY_APPRECIATION": 0
+     },
+     "entityType": "PROJECT",
+     "reraDisplayTag": "RERA",
+     "configSummary": {
+      "cards": [
+       {
+        "area": {
+         "unit": 1,
+         "min": 987,
+         "max": 1107,
+         "secondaryUnit": 3,
+         "display": "987 - 1,107 sqft",
+         "type": {
+          "label": "Super Built-up Area",
+          "value": "SUPER"
+         },
+         "secondaryDisplay": "91.7 - 102.84 sqm"
+        },
+        "price": {
+         "min": 5922000,
+         "max": 6642000,
+         "authentic": true,
+         "label": "59.22 - 66.42 L"
+        },
+        "configInfo": {
+         "subLabel": "Apartment",
+         "bgColor": null,
+         "icon": null,
+         "label": "2 BHK"
+        }
+       },
+       {
+        "area": {
+         "unit": 1,
+         "min": 1225,
+         "max": 1355,
+         "secondaryUnit": 3,
+         "display": "1,225 - 1,355 sqft",
+         "type": {
+          "label": "Super Built-up Area",
+          "value": "SUPER"
+         },
+         "secondaryDisplay": "113.81 - 125.88 sqm"
+        },
+        "price": {
+         "min": 7350000,
+         "max": 8130000,
+         "authentic": true,
+         "label": "73.5 - 81.3 L"
+        },
+        "configInfo": {
+         "subLabel": "Apartment",
+         "bgColor": null,
+         "icon": null,
+         "label": "3 BHK"
+        }
+       }
+      ]
+     },
+     "isPremium": false,
+     "isNewLaunch": false,
+     "landingPageRelativeUrl": "/bharath-springs-kattur-trichy-npxid-r463546",
+     "pricePerSqFt": "6,000 /sqft",
+     "areaType": "SUPER",
+     "localizedPricePerSqft": "6,000 /sqft",
+     "localizedPrice": 6000,
+     "localizedPricePerSqftUnit": 1,
+     "localizedPricePerSqftUnitLabel": " sqft"
+    },
+    {
+     "rescom": "R",
+     "preference": "S",
+     "projectUnitId": "463265",
+     "builderName": "Alamo XS Real Properties",
+     "possessionStatus": {
+      "label": "New Launch (Completion in Jul, 2028)"
+     },
+     "heading": "Alamo Turin",
+     "landingPage": {
+      "url": "https://www.99acres.com/alamo-turin-gandhipuram-coimbatore-npxid-r463265"
+     },
+     "tags": [
+      {
+       "id": "NO_BROKERAGE",
+       "label": "No Brokerage"
+      },
+      {
+       "id": "FLOORPLANS_3D",
+       "label": "3D Floor Plans Available"
+      },
+      {
+       "id": "TOP_FACILITIES",
+       "label": "+40 Top Facilities"
+      }
+     ],
+     "locationHighlights": {
+      "heading": "Nearby : ",
+      "landMarks": [
+       {
+        "score": 1879,
+        "subHeading": "1.7 Km",
+        "caption": "Hospital",
+        "category": "Hospital",
+        "altTag": "Nearby Hospital",
+        "srp": {
+         "className": "hsptl",
+         "imageName": "https://static.99acres.com/universalapp/img/hsptl.png"
+        },
+        "label": "Kongunad Hospital",
+        "iconUrl": "https://static.99acres.com/universalapp/img/Hospital_building.png",
+        "className": "hospital"
+       },
+       {
+        "score": 1779,
+        "subHeading": "3.3 Km",
+        "caption": "Railway Station",
+        "category": "RailwayStation",
+        "altTag": "Railway Station",
+        "srp": {
+         "className": "rail",
+         "imageName": "https://static.99acres.com/universalapp/img/rail.png"
+        },
+        "label": "Coimbatore North Railway Station",
+        "iconUrl": "https://static.99acres.com/universalapp/img/Railway.png",
+        "className": "railwayStation"
+       },
+       {
+        "score": 1749,
+        "subHeading": "3.5 Km",
+        "caption": "Shopping Center/ Market/ Mall",
+        "category": "ShoppingCenter",
+        "altTag": "nearby Shopping Center/ Market/ Mall",
+        "srp": {
+         "className": "shpng",
+         "imageName": "https://static.99acres.com/universalapp/img/shpng.png"
+        },
+        "label": "Brookefields Mall",
+        "iconUrl": "https://static.99acres.com/universalapp/img/Shop.png",
+        "className": "shop"
+       },
+       {
+        "score": 1739,
+        "subHeading": "4.3 Km",
+        "caption": "Stadium",
+        "category": "Stadium",
+        "altTag": "Stadium",
+        "srp": {
+         "className": "stdm",
+         "imageName": "https://static.99acres.com/universalapp/img/stdm.png"
+        },
+        "label": "Nehru Stadium",
+        "iconUrl": "https://static.99acres.com/universalapp/img/Stadium.png",
+        "className": "stadium"
+       },
+       {
+        "score": 1759,
+        "subHeading": "4.4 Km",
+        "caption": "School",
+        "category": "School",
+        "altTag": "nearby School",
+        "srp": {
+         "className": "schl",
+         "imageName": "https://static.99acres.com/universalapp/img/schl.png"
+        },
+        "label": "Stanes School CBSE",
+        "iconUrl": "https://static.99acres.com/universalapp/img/School.png",
+        "className": "school"
+       }
+      ],
+      "endLabel": null
+     },
+     "subHeading": "2, 3 BHK Apartment in Gandhipuram, Coimbatore",
+     "price": {
+      "min": 6982516,
+      "max": 13811778,
+      "authentic": true,
+      "label": "69.83 L - 1.38 Cr"
+     },
+     "shortlisted": false,
+     "location": {
+      "localityName": "Gandhipuram",
+      "projectName": "Alamo Turin",
+      "cityName": "Coimbatore",
+      "stateName": "Tamil Nadu",
+      "latitude": 11.02992,
+      "stateId": "227_LOCATION",
+      "cityId": "185_LOCATION",
+      "localityId": "7373_LOCALITY",
+      "longitude": 76.96618,
+      "LOCALITY_APPRECIATION": 0
+     },
+     "entityType": "PROJECT",
+     "reraDisplayTag": "RERA",
+     "configSummary": {
+      "cards": [
+       {
+        "area": {
+         "unit": 1,
+         "min": 715,
+         "max": 1149,
+         "secondaryUnit": 3,
+         "display": "715 - 1,149 sqft",
+         "type": {
+          "label": "Super Built-up Area",
+          "value": "SUPER"
+         },
+         "secondaryDisplay": "66.43 - 106.75 sqm"
+        },
+        "price": {
+         "min": 6982516,
+         "max": 11772573,
+         "authentic": true,
+         "label": "69.83 L - 1.18 Cr"
+        },
+        "configInfo": {
+         "subLabel": "Apartment",
+         "bgColor": null,
+         "icon": null,
+         "label": "2 BHK"
+        }
+       },
+       {
+        "area": {
+         "unit": 1,
+         "min": 1243,
+         "max": 1394,
+         "secondaryUnit": 3,
+         "display": "1,243 - 1,394 sqft",
+         "type": {
+          "label": "Super Built-up Area",
+          "value": "SUPER"
+         },
+         "secondaryDisplay": "115.48 - 129.51 sqm"
+        },
+        "price": {
+         "min": 12349788,
+         "max": 13811778,
+         "authentic": true,
+         "label": "1.23 - 1.38 Cr"
+        },
+        "configInfo": {
+         "subLabel": "Apartment",
+         "bgColor": null,
+         "icon": null,
+         "label": "3 BHK"
+        }
+       }
+      ]
+     },
+     "isPremium": true,
+     "isNewLaunch": false,
+     "landingPageRelativeUrl": "/alamo-turin-gandhipuram-coimbatore-npxid-r463265",
+     "pricePerSqFt": "9,746 /sqft",
+     "areaType": "SUPER",
+     "localizedPricePerSqft": "9,746 /sqft",
+     "localizedPrice": 9746,
+     "localizedPricePerSqftUnit": 1,
+     "localizedPricePerSqftUnitLabel": " sqft"
+    },
+    {
+     "rescom": "R",
+     "preference": "S",
+     "projectUnitId": "465013",
+     "builderName": "Auraa Living Space",
+     "possessionStatus": {
+      "label": "New Launch (Completion in Jun, 2028)"
+     },
+     "heading": "Auraa Sampoorna Dhaya",
+     "landingPage": {
+      "url": "https://www.99acres.com/auraa-sampoorna-dhaya-saibaba-colony-coimbatore-npxid-r465013"
+     },
+     "tags": [
+      {
+       "id": "NO_BROKERAGE",
+       "label": "No Brokerage"
+      },
+      {
+       "id": "FLOORPLANS_3D",
+       "label": "3D Floor Plans Available"
+      },
+      {
+       "id": "TOP_FACILITIES",
+       "label": "9 Top Facilities"
+      }
+     ],
+     "locationHighlights": {
+      "heading": "Nearby : ",
+      "landMarks": [
+       {
+        "score": 1759,
+        "subHeading": "950 m",
+        "caption": "School",
+        "category": "School",
+        "altTag": "nearby School",
+        "srp": {
+         "className": "schl",
+         "imageName": "https://static.99acres.com/universalapp/img/schl.png"
+        },
+        "label": "Seven Brookes International School",
+        "iconUrl": "https://static.99acres.com/universalapp/img/School.png",
+        "className": "school"
+       },
+       {
+        "score": 1879,
+        "subHeading": "2.4 km",
+        "caption": "Hospital",
+        "category": "Hospital",
+        "altTag": "Nearby Hospital",
+        "srp": {
+         "className": "hsptl",
+         "imageName": "https://static.99acres.com/universalapp/img/hsptl.png"
+        },
+        "label": "H S Hospital",
+        "iconUrl": "https://static.99acres.com/universalapp/img/Hospital_building.png",
+        "className": "hospital"
+       },
+       {
+        "score": 1729,
+        "subHeading": "2.4 km",
+        "caption": "University",
+        "category": "University",
+        "altTag": "University",
+        "srp": {
+         "className": "uni",
+         "imageName": "https://static.99acres.com/universalapp/img/uni.png"
+        },
+        "label": "Avinashilingam University",
+        "iconUrl": "https://static.99acres.com/universalapp/img/University.png",
+        "className": "university"
+       },
+       {
+        "score": 1989,
+        "subHeading": "13.8 km",
+        "caption": "Airport",
+        "category": "Airport",
+        "altTag": "Airport",
+        "srp": {
+         "className": "aprt",
+         "imageName": "https://static.99acres.com/universalapp/img/aprt.png"
+        },
+        "label": "Coimbatore Airport",
+        "iconUrl": "https://static.99acres.com/universalapp/img/Airport.png",
+        "className": "airport"
+       },
+       {
+        "score": 1779,
+        "subHeading": "6.5 km",
+        "caption": "Railway Station",
+        "category": "RailwayStation",
+        "altTag": "Railway Station",
+        "srp": {
+         "className": "rail",
+         "imageName": "https://static.99acres.com/universalapp/img/rail.png"
+        },
+        "label": "Coimbatore Railway Station",
+        "iconUrl": "https://static.99acres.com/universalapp/img/Railway.png",
+        "className": "railwayStation"
+       }
+      ],
+      "endLabel": null
+     },
+     "subHeading": "3 BHK Apartment in Saibaba Colony , Coimbatore",
+     "price": {
+      "min": 17368263,
+      "max": 17528247,
+      "authentic": true,
+      "label": "1.74 - 1.75 Cr"
+     },
+     "shortlisted": false,
+     "location": {
+      "localityName": "Saibaba Colony ",
+      "projectName": "Auraa Sampoorna Dhaya",
+      "cityName": "Coimbatore",
+      "stateName": "Tamil Nadu",
+      "latitude": 11.033238714403296,
+      "stateId": "227_LOCATION",
+      "cityId": "185_LOCATION",
+      "localityId": "7389_LOCALITY",
+      "longitude": 76.9409107831124,
+      "LOCALITY_APPRECIATION": 0
+     },
+     "entityType": "PROJECT",
+     "reraDisplayTag": "RERA",
+     "configSummary": {
+      "cards": [
+       {
+        "area": {
+         "unit": 1,
+         "min": 1737,
+         "max": 1753,
+         "secondaryUnit": 3,
+         "display": "1,737 - 1,753 sqft",
+         "type": {
+          "label": "Super Built-up Area",
+          "value": "SUPER"
+         },
+         "secondaryDisplay": "161.37 - 162.86 sqm"
+        },
+        "price": {
+         "min": 17368263,
+         "max": 17528247,
+         "authentic": true,
+         "label": "1.74 - 1.75 Cr"
+        },
+        "configInfo": {
+         "subLabel": "Apartment",
+         "bgColor": null,
+         "icon": null,
+         "label": "3 BHK"
+        }
+       }
+      ]
+     },
+     "isPremium": false,
+     "isNewLaunch": false,
+     "landingPageRelativeUrl": "/auraa-sampoorna-dhaya-saibaba-colony-coimbatore-npxid-r465013",
+     "pricePerSqFt": "9,999 /sqft",
+     "areaType": "SUPER",
+     "localizedPricePerSqft": "9,999 /sqft",
+     "localizedPrice": 9999,
+     "localizedPricePerSqftUnit": 1,
+     "localizedPricePerSqftUnitLabel": " sqft"
+    },
+    {
+     "rescom": "R",
+     "preference": "S",
+     "projectUnitId": "466566",
+     "builderName": "SR and Co",
+     "possessionStatus": {
+      "label": "New Launch (Completion in Jan, 2030)"
+     },
+     "heading": "SR Heights",
+     "landingPage": {
+      "url": "https://www.99acres.com/sr-heights-anthivadi-hosur-npxid-r466566"
+     },
+     "tags": [
+      {
+       "id": "NO_BROKERAGE",
+       "label": "No Brokerage"
+      },
+      {
+       "id": "FLOORPLANS_3D",
+       "label": "3D Floor Plans Available"
+      },
+      {
+       "id": "TOP_FACILITIES",
+       "label": "+20 Top Facilities"
+      }
+     ],
+     "locationHighlights": {
+      "heading": "Nearby : ",
+      "landMarks": [
+       {
+        "score": 1759,
+        "subHeading": "400 Mtrs",
+        "caption": "School",
+        "category": "School",
+        "altTag": "nearby School",
+        "srp": {
+         "className": "schl",
+         "imageName": "https://static.99acres.com/universalapp/img/schl.png"
+        },
+        "label": "Sishya School",
+        "iconUrl": "https://static.99acres.com/universalapp/img/School.png",
+        "className": "school"
+       },
+       {
+        "score": 1879,
+        "subHeading": "2.1 Km",
+        "caption": "Hospital",
+        "category": "Hospital",
+        "altTag": "Nearby Hospital",
+        "srp": {
+         "className": "hsptl",
+         "imageName": "https://static.99acres.com/universalapp/img/hsptl.png"
+        },
+        "label": "Gunam Super Speciality Hospital",
+        "iconUrl": "https://static.99acres.com/universalapp/img/Hospital_building.png",
+        "className": "hospital"
+       },
+       {
+        "score": 1779,
+        "subHeading": "2.1 Km",
+        "caption": "Railway Station",
+        "category": "RailwayStation",
+        "altTag": "Railway Station",
+        "srp": {
+         "className": "rail",
+         "imageName": "https://static.99acres.com/universalapp/img/rail.png"
+        },
+        "label": "Hosur Railway Station",
+        "iconUrl": "https://static.99acres.com/universalapp/img/Railway.png",
+        "className": "railwayStation"
+       },
+       {
+        "score": 1739,
+        "subHeading": "2.1 Km",
+        "caption": "Stadium",
+        "category": "Stadium",
+        "altTag": "Stadium",
+        "srp": {
+         "className": "stdm",
+         "imageName": "https://static.99acres.com/universalapp/img/stdm.png"
+        },
+        "label": "Anthivadi Stadium",
+        "iconUrl": "https://static.99acres.com/universalapp/img/Stadium.png",
+        "className": "stadium"
+       },
+       {
+        "score": 1749,
+        "subHeading": "2.5 Km",
+        "caption": "Shopping Center/ Market/ Mall",
+        "category": "ShoppingCenter",
+        "altTag": "nearby Shopping Center/ Market/ Mall",
+        "srp": {
+         "className": "shpng",
+         "imageName": "https://static.99acres.com/universalapp/img/shpng.png"
+        },
+        "label": "Sun Shopping Mall",
+        "iconUrl": "https://static.99acres.com/universalapp/img/Shop.png",
+        "className": "shop"
+       }
+      ],
+      "endLabel": null
+     },
+     "subHeading": "2, 3 BHK Apartment in Anthivadi, Hosur",
+     "price": {
+      "min": 9618000,
+      "max": 14847000,
+      "authentic": true,
+      "label": "96.18 L - 1.48 Cr"
+     },
+     "shortlisted": false,
+     "location": {
+      "localityName": "Anthivadi",
+      "projectName": "SR Heights",
+      "cityName": "Hosur",
+      "stateName": "Tamil Nadu",
+      "latitude": 12.724062838219083,
+      "stateId": "227_LOCATION",
+      "cityId": "187_LOCATION",
+      "localityId": "39002_LOCALITY",
+      "longitude": 77.81154541587021,
+      "LOCALITY_APPRECIATION": 0
+     },
+     "entityType": "PROJECT",
+     "reraDisplayTag": "RERA",
+     "configSummary": {
+      "cards": [
+       {
+        "area": {
+         "unit": 1,
+         "min": 1374,
+         "max": 1822,
+         "secondaryUnit": 3,
+         "display": "1,374 - 1,822 sqft",
+         "type": {
+          "label": "Super Built-up Area",
+          "value": "SUPER"
+         },
+         "secondaryDisplay": "127.65 - 169.27 sqm"
+        },
+        "price": {
+         "min": 9618000,
+         "max": 12754000,
+         "authentic": true,
+         "label": "96.18 L - 1.28 Cr"
+        },
+        "configInfo": {
+         "subLabel": "Apartment",
+         "bgColor": null,
+         "icon": null,
+         "label": "2 BHK"
+        }
+       },
+       {
+        "area": {
+         "unit": 1,
+         "min": 2051,
+         "max": 2121,
+         "secondaryUnit": 3,
+         "display": "2,051 - 2,121 sqft",
+         "type": {
+          "label": "Super Built-up Area",
+          "value": "SUPER"
+         },
+         "secondaryDisplay": "190.54 - 197.05 sqm"
+        },
+        "price": {
+         "min": 14357000,
+         "max": 14847000,
+         "authentic": true,
+         "label": "1.44 - 1.48 Cr"
+        },
+        "configInfo": {
+         "subLabel": "Apartment",
+         "bgColor": null,
+         "icon": null,
+         "label": "3 BHK"
+        }
+       }
+      ]
+     },
+     "isPremium": true,
+     "isNewLaunch": true,
+     "landingPageRelativeUrl": "/sr-heights-anthivadi-hosur-npxid-r466566",
+     "pricePerSqFt": "7,000 /sqft",
+     "areaType": "SUPER",
+     "localizedPricePerSqft": "7,000 /sqft",
+     "localizedPrice": 7000,
+     "localizedPricePerSqftUnit": 1,
+     "localizedPricePerSqftUnitLabel": " sqft"
+    },
+    {
+     "rescom": "R",
+     "preference": "S",
+     "projectUnitId": "458072",
+     "builderName": "Asset Tree Homes",
+     "possessionStatus": {
+      "label": "New Launch (Completion in Jun, 2027)"
+     },
+     "heading": "ATH Merlion",
+     "landingPage": {
+      "url": "https://www.99acres.com/ath-merlion-kundrathur-chennai-south-npxid-r458072"
+     },
+     "tags": [
+      {
+       "id": "NO_BROKERAGE",
+       "label": "No Brokerage"
+      },
+      {
+       "id": "FLOORPLANS_3D",
+       "label": "3D Floor Plans Available"
+      },
+      {
+       "id": "TOP_FACILITIES",
+       "label": "+20 Top Facilities"
+      }
+     ],
+     "locationHighlights": {
+      "heading": "Nearby : ",
+      "landMarks": [
+       {
+        "score": 1879,
+        "subHeading": "2.3 Km",
+        "caption": "Hospital",
+        "category": "Hospital",
+        "altTag": "Nearby Hospital",
+        "srp": {
+         "className": "hsptl",
+         "imageName": "https://static.99acres.com/universalapp/img/hsptl.png"
+        },
+        "label": "Madha Hospital",
+        "iconUrl": "https://static.99acres.com/universalapp/img/Hospital_building.png",
+        "className": "hospital"
+       },
+       {
+        "score": 1759,
+        "subHeading": "2.3 Km",
+        "caption": "School",
+        "category": "School",
+        "altTag": "nearby School",
+        "srp": {
+         "className": "schl",
+         "imageName": "https://static.99acres.com/universalapp/img/schl.png"
+        },
+        "label": "Sivanthi Matriculation School",
+        "iconUrl": "https://static.99acres.com/universalapp/img/School.png",
+        "className": "school"
+       },
+       {
+        "score": 1729,
+        "subHeading": "2.6 Km",
+        "caption": "University",
+        "category": "University",
+        "altTag": "University",
+        "srp": {
+         "className": "uni",
+         "imageName": "https://static.99acres.com/universalapp/img/uni.png"
+        },
+        "label": "Madha Arts and Science College",
+        "iconUrl": "https://static.99acres.com/universalapp/img/University.png",
+        "className": "university"
+       },
+       {
+        "score": 1979,
+        "subHeading": "16.8 Km",
+        "caption": "Amusement Park",
+        "category": "AmusementPark",
+        "altTag": "Amusement Park",
+        "srp": {
+         "className": "amprk",
+         "imageName": "https://static.99acres.com/universalapp/img/amprk.png"
+        },
+        "label": "Queensland Amusement Park",
+        "iconUrl": "https://static.99acres.com/universalapp/img/Amusement_Park.png",
+        "className": "amusementPark"
+       },
+       {
+        "score": 1899,
+        "subHeading": "5.9 Km",
+        "caption": "Highway",
+        "category": "Highway",
+        "altTag": "Highway",
+        "srp": {
+         "className": "hw",
+         "imageName": "https://static.99acres.com/universalapp/img/hw.png"
+        },
+        "label": "Chennai Bypass Road",
+        "iconUrl": "https://static.99acres.com/universalapp/img/Expressways.png",
+        "className": "highway"
+       }
+      ],
+      "endLabel": null
+     },
+     "subHeading": "2, 3 BHK Apartment in Kundrathur, Chennai",
+     "price": {
+      "min": 7578000,
+      "max": 19822920,
+      "authentic": true,
+      "label": "75.78 L - 1.98 Cr"
+     },
+     "shortlisted": false,
+     "location": {
+      "localityName": "Kundrathur",
+      "projectName": "ATH Merlion",
+      "cityName": "Chennai South",
+      "stateName": "Tamil Nadu",
+      "latitude": 12.99622769274458,
+      "stateId": "227_LOCATION",
+      "cityId": "34_LOCATION",
+      "localityId": "3667_LOCALITY",
+      "longitude": 80.11587740875763,
+      "LOCALITY_APPRECIATION": 0
+     },
+     "entityType": "PROJECT",
+     "reraDisplayTag": "RERA",
+     "configSummary": {
+      "cards": [
+       {
+        "area": {
+         "unit": 1,
+         "min": 829,
+         "max": 962,
+         "secondaryUnit": 3,
+         "display": "829 - 962 sqft",
+         "type": {
+          "label": "Super Built-up Area",
+          "value": "SUPER"
+         },
+         "secondaryDisplay": "77.02 - 89.37 sqm"
+        },
+        "price": {
+         "min": 7578000,
+         "max": 11104560,
+         "authentic": true,
+         "label": "75.78 L - 1.11 Cr"
+        },
+        "configInfo": {
+         "subLabel": "Apartment",
+         "bgColor": null,
+         "icon": null,
+         "label": "2 BHK"
+        }
+       },
+       {
+        "area": {
+         "unit": 1,
+         "min": 1040,
+         "max": 1703,
+         "secondaryUnit": 3,
+         "display": "1,040 - 1,703 sqft",
+         "type": {
+          "label": "Super Built-up Area",
+          "value": "SUPER"
+         },
+         "secondaryDisplay": "96.62 - 158.21 sqm"
+        },
+        "price": {
+         "min": 12105600,
+         "max": 19822920,
+         "authentic": true,
+         "label": "1.21 - 1.98 Cr"
+        },
+        "configInfo": {
+         "subLabel": "Apartment",
+         "bgColor": null,
+         "icon": null,
+         "label": "3 BHK"
+        }
+       }
+      ]
+     },
+     "isPremium": true,
+     "isNewLaunch": true,
+     "landingPageRelativeUrl": "/ath-merlion-kundrathur-chennai-south-npxid-r458072",
+     "pricePerSqFt": "9,000 /sqft",
+     "areaType": "SUPER",
+     "localizedPricePerSqft": "9,000 /sqft",
+     "localizedPrice": 9000,
+     "localizedPricePerSqftUnit": 1,
+     "localizedPricePerSqftUnitLabel": " sqft"
+    },
+    {
+     "rescom": "R",
+     "preference": "S",
+     "projectUnitId": "454552",
+     "builderName": "GT Bharathi Urban Developers",
+     "possessionStatus": {
+      "label": "New Launch (Completion in Dec, 2027)"
+     },
+     "heading": "GTB Rising Palms",
+     "landingPage": {
+      "url": "https://www.99acres.com/gtb-rising-palms-valarpuram-chennai-west-npxid-r454552"
+     },
+     "tags": [
+      {
+       "id": "NO_BROKERAGE",
+       "label": "No Brokerage"
+      },
+      {
+       "id": "FLOORPLANS_3D",
+       "label": "3D Floor Plans Available"
+      },
+      {
+       "id": "TOP_FACILITIES",
+       "label": "+40 Top Facilities"
+      }
+     ],
+     "locationHighlights": {
+      "heading": "Nearby : ",
+      "landMarks": [
+       {
+        "score": 1759,
+        "subHeading": "400 M",
+        "caption": "School",
+        "category": "School",
+        "altTag": "nearby School",
+        "srp": {
+         "className": "schl",
+         "imageName": "https://static.99acres.com/universalapp/img/schl.png"
+        },
+        "label": "Maharishi Vidya Mandir",
+        "iconUrl": "https://static.99acres.com/universalapp/img/School.png",
+        "className": "school"
+       },
+       {
+        "score": 1729,
+        "subHeading": "6.5 KM",
+        "caption": "University",
+        "category": "University",
+        "altTag": "University",
+        "srp": {
+         "className": "uni",
+         "imageName": "https://static.99acres.com/universalapp/img/uni.png"
+        },
+        "label": "Saveetha University",
+        "iconUrl": "https://static.99acres.com/universalapp/img/University.png",
+        "className": "university"
+       },
+       {
+        "score": 1879,
+        "subHeading": "6.7 Km",
+        "caption": "Hospital",
+        "category": "Hospital",
+        "altTag": "Nearby Hospital",
+        "srp": {
+         "className": "hsptl",
+         "imageName": "https://static.99acres.com/universalapp/img/hsptl.png"
+        },
+        "label": "Saveetha Medical College Hospital",
+        "iconUrl": "https://static.99acres.com/universalapp/img/Hospital_building.png",
+        "className": "hospital"
+       },
+       {
+        "score": 1759,
+        "subHeading": "6.8 KM",
+        "caption": "School",
+        "category": "School",
+        "altTag": "nearby School",
+        "srp": {
+         "className": "schl",
+         "imageName": "https://static.99acres.com/universalapp/img/schl.png"
+        },
+        "label": "Loyola International Residential School",
+        "iconUrl": "https://static.99acres.com/universalapp/img/School.png",
+        "className": "school"
+       },
+       {
+        "score": 1979,
+        "subHeading": "6.5 KM",
+        "caption": "Amusement Park",
+        "category": "AmusementPark",
+        "altTag": "Amusement Park",
+        "srp": {
+         "className": "amprk",
+         "imageName": "https://static.99acres.com/universalapp/img/amprk.png"
+        },
+        "label": "Queens Land Amusement Park",
+        "iconUrl": "https://static.99acres.com/universalapp/img/Amusement_Park.png",
+        "className": "amusementPark"
+       }
+      ],
+      "endLabel": null
+     },
+     "subHeading": "1, 2 BHK Apartment, 3 BHK Villa in Valarpuram, Chennai",
+     "price": {
+      "min": 3500001,
+      "max": 10600000,
+      "authentic": true,
+      "label": "35 L - 1.06 Cr"
+     },
+     "shortlisted": false,
+     "location": {
+      "localityName": "Valarpuram",
+      "projectName": "GTB Rising Palms",
+      "cityName": "Chennai West",
+      "stateName": "Tamil Nadu",
+      "latitude": 13.002665,
+      "stateId": "227_LOCATION",
+      "cityId": "36_LOCATION",
+      "localityId": "4264_LOCALITY",
+      "longitude": 79.968006,
+      "LOCALITY_APPRECIATION": 0
+     },
+     "entityType": "PROJECT",
+     "reraDisplayTag": "RERA",
+     "configSummary": {
+      "cards": [
+       {
+        "area": {
+         "unit": 1,
+         "min": 551,
+         "max": 613,
+         "secondaryUnit": 3,
+         "display": "551 - 613 sqft",
+         "type": {
+          "label": "Super Built-up Area",
+          "value": "SUPER"
+         },
+         "secondaryDisplay": "51.19 - 56.95 sqm"
+        },
+        "price": {
+         "min": 3500001,
+         "max": 3893831,
+         "authentic": true,
+         "label": "35 - 38.94 L"
+        },
+        "configInfo": {
+         "subLabel": "Apartment",
+         "bgColor": null,
+         "icon": null,
+         "label": "1 BHK"
+        }
+       },
+       {
+        "area": {
+         "unit": 1,
+         "min": 805,
+         "max": 805,
+         "secondaryUnit": 3,
+         "display": "805 sqft",
+         "type": {
+          "label": "Super Built-up Area",
+          "value": "SUPER"
+         },
+         "secondaryDisplay": "74.79 sqm"
+        },
+        "price": {
+         "min": 4700000,
+         "max": 4700000,
+         "authentic": true,
+         "label": "47 L"
+        },
+        "configInfo": {
+         "subLabel": "Apartment",
+         "bgColor": null,
+         "icon": null,
+         "label": "2 BHK"
+        }
+       },
+       {
+        "area": {
+         "unit": 1,
+         "min": 1522,
+         "max": 1522,
+         "secondaryUnit": 3,
+         "display": "1,522 sqft",
+         "type": {
+          "label": "Built-up Area",
+          "value": "BUILTUP"
+         },
+         "secondaryDisplay": "141.4 sqm"
+        },
+        "price": {
+         "min": 10600000,
+         "max": 10600000,
+         "authentic": true,
+         "label": "1.06 Cr"
+        },
+        "configInfo": {
+         "subLabel": "Villa",
+         "bgColor": null,
+         "icon": null,
+         "label": "3 BHK"
+        }
+       }
+      ]
+     },
+     "isPremium": true,
+     "isNewLaunch": false,
+     "landingPageRelativeUrl": "/gtb-rising-palms-valarpuram-chennai-west-npxid-r454552",
+     "pricePerSqFt": "5,839 /sqft",
+     "areaType": "SUPER",
+     "localizedPricePerSqft": "5,839 /sqft",
+     "localizedPrice": 5839,
+     "localizedPricePerSqftUnit": 1,
+     "localizedPricePerSqftUnitLabel": " sqft"
+    },
+    {
+     "rescom": "R",
+     "preference": "S",
+     "projectUnitId": "470852",
+     "builderName": "Ruby Builders",
+     "possessionStatus": {
+      "label": "New Launch (Completion in Jul, 2032)"
+     },
+     "heading": "Ruby One Crest",
+     "landingPage": {
+      "url": "https://www.99acres.com/ruby-one-crest-vengaivasal-chennai-south-npxid-r470852"
+     },
+     "tags": [
+      {
+       "id": "NO_BROKERAGE",
+       "label": "No Brokerage"
+      },
+      {
+       "id": "TOP_FACILITIES",
+       "label": "+40 Top Facilities"
+      }
+     ],
+     "subHeading": "2, 3 BHK Apartment in Vengaivasal, Medavakkam",
+     "price": {
+      "min": 7918158,
+      "max": 11527683,
+      "authentic": true,
+      "label": "79.18 L - 1.15 Cr"
+     },
+     "shortlisted": false,
+     "location": {
+      "localityName": "Vengaivasal",
+      "projectName": "Ruby One Crest",
+      "cityName": "Chennai South",
+      "stateName": "Tamil Nadu",
+      "latitude": 12.905257,
+      "stateId": "227_LOCATION",
+      "cityId": "34_LOCATION",
+      "localityId": "3753_LOCALITY",
+      "longitude": 80.177185,
+      "LOCALITY_APPRECIATION": 0
+     },
+     "entityType": "PROJECT",
+     "reraDisplayTag": "RERA",
+     "configSummary": {
+      "cards": [
+       {
+        "area": {
+         "unit": 1,
+         "min": 1042,
+         "max": 1153,
+         "secondaryUnit": 3,
+         "display": "1,042 - 1,153 sqft",
+         "type": {
+          "label": "Super Built-up Area",
+          "value": "SUPER"
+         },
+         "secondaryDisplay": "96.8 - 107.12 sqm"
+        },
+        "price": {
+         "min": 7918158,
+         "max": 8761647,
+         "authentic": true,
+         "label": "79.18 - 87.62 L"
+        },
+        "configInfo": {
+         "subLabel": "Apartment",
+         "bgColor": null,
+         "icon": null,
+         "label": "2 BHK"
+        }
+       },
+       {
+        "area": {
+         "unit": 1,
+         "min": 1495,
+         "max": 1517,
+         "secondaryUnit": 3,
+         "display": "1,495 - 1,517 sqft",
+         "type": {
+          "label": "Super Built-up Area",
+          "value": "SUPER"
+         },
+         "secondaryDisplay": "138.89 - 140.93 sqm"
+        },
+        "price": {
+         "min": 11360505,
+         "max": 11527683,
+         "authentic": true,
+         "label": "1.14 - 1.15 Cr"
+        },
+        "configInfo": {
+         "subLabel": "Apartment",
+         "bgColor": null,
+         "icon": null,
+         "label": "3 BHK"
+        }
+       }
+      ]
+     },
+     "isPremium": true,
+     "isNewLaunch": true,
+     "landingPageRelativeUrl": "/ruby-one-crest-vengaivasal-chennai-south-npxid-r470852",
+     "pricePerSqFt": "7,599 /sqft",
+     "areaType": "SUPER",
+     "localizedPricePerSqft": "7,599 /sqft",
+     "localizedPrice": 7599,
+     "localizedPricePerSqftUnit": 1,
+     "localizedPricePerSqftUnitLabel": " sqft"
+    },
+    {
+     "rescom": "R",
+     "preference": "S",
+     "projectUnitId": "470471",
+     "builderName": "Purnaya Developers",
+     "possessionStatus": {
+      "label": "New Launch (Completion in Dec, 2029)"
+     },
+     "heading": "Purnaya Ekta",
+     "landingPage": {
+      "url": "https://www.99acres.com/purnaya-ekta-kalapatti-coimbatore-npxid-r470471"
+     },
+     "tags": [
+      {
+       "id": "NO_BROKERAGE",
+       "label": "No Brokerage"
+      },
+      {
+       "id": "FLOORPLANS_3D",
+       "label": "3D Floor Plans Available"
+      },
+      {
+       "id": "TOP_FACILITIES",
+       "label": "+30 Top Facilities"
+      }
+     ],
+     "locationHighlights": {
+      "heading": "Nearby : ",
+      "landMarks": [
+       {
+        "score": 1759,
+        "subHeading": "2.8 Km",
+        "caption": "School",
+        "category": "School",
+        "altTag": "nearby School",
+        "srp": {
+         "className": "schl",
+         "imageName": "https://static.99acres.com/universalapp/img/schl.png"
+        },
+        "label": "Sri Chaitanya Techno School",
+        "iconUrl": "https://static.99acres.com/universalapp/img/School.png",
+        "className": "school"
+       },
+       {
+        "score": 1879,
+        "subHeading": "1.1 Km",
+        "caption": "Hospital",
+        "category": "Hospital",
+        "altTag": "Nearby Hospital",
+        "srp": {
+         "className": "hsptl",
+         "imageName": "https://static.99acres.com/universalapp/img/hsptl.png"
+        },
+        "label": "Sri Balaji Medical Center",
+        "iconUrl": "https://static.99acres.com/universalapp/img/Hospital_building.png",
+        "className": "hospital"
+       },
+       {
+        "score": 1989,
+        "subHeading": "6.8 Km",
+        "caption": "Airport",
+        "category": "Airport",
+        "altTag": "Airport",
+        "srp": {
+         "className": "aprt",
+         "imageName": "https://static.99acres.com/universalapp/img/aprt.png"
+        },
+        "label": "Coimbatore International Airport",
+        "iconUrl": "https://static.99acres.com/universalapp/img/Airport.png",
+        "className": "airport"
+       },
+       {
+        "score": 1729,
+        "subHeading": "3 Km",
+        "caption": "University",
+        "category": "University",
+        "altTag": "University",
+        "srp": {
+         "className": "uni",
+         "imageName": "https://static.99acres.com/universalapp/img/uni.png"
+        },
+        "label": "Dr.N.G.P. Arts and Science College",
+        "iconUrl": "https://static.99acres.com/universalapp/img/University.png",
+        "className": "university"
+       },
+       {
+        "score": 1839,
+        "subHeading": "1.8 Km",
+        "caption": "Office complex",
+        "category": "OfficeComplex",
+        "altTag": "Office complex",
+        "srp": {
+         "className": "ofsc",
+         "imageName": "https://static.99acres.com/universalapp/img/ofce.png"
+        },
+        "label": "SVB Tech Park",
+        "iconUrl": "https://static.99acres.com/universalapp/img/Office_Complex.png",
+        "className": "oficeComplex"
+       }
+      ],
+      "endLabel": null
+     },
+     "subHeading": "2, 3 BHK Apartment in Kalapatti, Coimbatore",
+     "price": {
+      "min": 9690101,
+      "max": 12586260,
+      "authentic": true,
+      "label": "96.9 L - 1.26 Cr"
+     },
+     "shortlisted": false,
+     "location": {
+      "localityName": "Kalapatti",
+      "projectName": "Purnaya Ekta",
+      "cityName": "Coimbatore",
+      "stateName": "Tamil Nadu",
+      "latitude": 11.083225,
+      "stateId": "227_LOCATION",
+      "cityId": "185_LOCATION",
+      "localityId": "8480_LOCALITY",
+      "longitude": 77.031418,
+      "LOCALITY_APPRECIATION": 0
+     },
+     "entityType": "PROJECT",
+     "reraDisplayTag": "RERA",
+     "configSummary": {
+      "cards": [
+       {
+        "area": {
+         "unit": 1,
+         "min": 1292,
+         "max": 1309,
+         "secondaryUnit": 3,
+         "display": "1,292 - 1,309 sqft",
+         "type": {
+          "label": "Super Built-up Area",
+          "value": "SUPER"
+         },
+         "secondaryDisplay": "120.03 - 121.61 sqm"
+        },
+        "price": {
+         "min": 9690101,
+         "max": 9814760,
+         "authentic": true,
+         "label": "96.9 - 98.15 L"
+        },
+        "configInfo": {
+         "subLabel": "Apartment",
+         "bgColor": null,
+         "icon": null,
+         "label": "2 BHK"
+        }
+       },
+       {
+        "area": {
+         "unit": 1,
+         "min": 1445,
+         "max": 1678,
+         "secondaryUnit": 3,
+         "display": "1,445 - 1,678 sqft",
+         "type": {
+          "label": "Super Built-up Area",
+          "value": "SUPER"
+         },
+         "secondaryDisplay": "134.24 - 155.89 sqm"
+        },
+        "price": {
+         "min": 10834999,
+         "max": 12586260,
+         "authentic": true,
+         "label": "1.08 - 1.26 Cr"
+        },
+        "configInfo": {
+         "subLabel": "Apartment",
+         "bgColor": null,
+         "icon": null,
+         "label": "3 BHK"
+        }
+       }
+      ]
+     },
+     "isPremium": true,
+     "isNewLaunch": true,
+     "landingPageRelativeUrl": "/purnaya-ekta-kalapatti-coimbatore-npxid-r470471",
+     "pricePerSqFt": "7,496 /sqft",
+     "areaType": "SUPER",
+     "localizedPricePerSqft": "7,496 /sqft",
+     "localizedPrice": 7496,
+     "localizedPricePerSqftUnit": 1,
+     "localizedPricePerSqftUnitLabel": " sqft"
+    },
+    {
+     "rescom": "R",
+     "preference": "S",
+     "projectUnitId": "467031",
+     "builderName": "JKB Housing",
+     "possessionStatus": {
+      "label": "New Launch (Completion in Mar, 2028)"
+     },
+     "heading": "JKB Purana",
+     "landingPage": {
+      "url": "https://www.99acres.com/jkb-purana-mogappair-chennai-north-npxid-r467031"
+     },
+     "tags": [
+      {
+       "id": "NO_BROKERAGE",
+       "label": "No Brokerage"
+      },
+      {
+       "id": "FLOORPLANS_3D",
+       "label": "3D Floor Plans Available"
+      },
+      {
+       "id": "TOP_FACILITIES",
+       "label": "+10 Top Facilities"
+      }
+     ],
+     "locationHighlights": {
+      "heading": "Nearby : ",
+      "landMarks": [
+       {
+        "score": 1899,
+        "subHeading": "1.8 Km",
+        "caption": "Highway",
+        "category": "Highway",
+        "altTag": "Highway",
+        "srp": {
+         "className": "hw",
+         "imageName": "https://static.99acres.com/universalapp/img/hw.png"
+        },
+        "label": "National Highway 179B",
+        "iconUrl": "https://static.99acres.com/universalapp/img/Expressways.png",
+        "className": "highway"
+       },
+       {
+        "score": 1879,
+        "subHeading": "350 Mtrs",
+        "caption": "Hospital",
+        "category": "Hospital",
+        "altTag": "Nearby Hospital",
+        "srp": {
+         "className": "hsptl",
+         "imageName": "https://static.99acres.com/universalapp/img/hsptl.png"
+        },
+        "label": "Oxford Hospitals",
+        "iconUrl": "https://static.99acres.com/universalapp/img/Hospital_building.png",
+        "className": "hospital"
+       },
+       {
+        "score": 1859,
+        "subHeading": "2.2 Km",
+        "caption": "Metro Station",
+        "category": "MetroStation",
+        "altTag": "Nearby Metro Station",
+        "srp": {
+         "className": "mstn",
+         "imageName": "https://static.99acres.com/universalapp/img/mstn.png"
+        },
+        "label": "Koyambedu Metro Station",
+        "iconUrl": "https://static.99acres.com/universalapp/img/Metro_Station.png",
+        "className": "metroStation"
+       },
+       {
+        "score": 1749,
+        "subHeading": "2.8 Km",
+        "caption": "Shopping Center/ Market/ Mall",
+        "category": "ShoppingCenter",
+        "altTag": "nearby Shopping Center/ Market/ Mall",
+        "srp": {
+         "className": "shpng",
+         "imageName": "https://static.99acres.com/universalapp/img/shpng.png"
+        },
+        "label": "VR Chennai Mall",
+        "iconUrl": "https://static.99acres.com/universalapp/img/Shop.png",
+        "className": "shop"
+       },
+       {
+        "score": 1729,
+        "subHeading": "3.1 Km",
+        "caption": "University",
+        "category": "University",
+        "altTag": "University",
+        "srp": {
+         "className": "uni",
+         "imageName": "https://static.99acres.com/universalapp/img/uni.png"
+        },
+        "label": "Dr. M.G.R. Engineering College",
+        "iconUrl": "https://static.99acres.com/universalapp/img/University.png",
+        "className": "university"
+       }
+      ],
+      "endLabel": null
+     },
+     "subHeading": "3 BHK Apartment in Mogappair, Chennai",
+     "price": {
+      "min": 18130500,
+      "max": 18130500,
+      "authentic": true,
+      "label": "1.81 Cr"
+     },
+     "shortlisted": false,
+     "location": {
+      "localityName": "Mogappair",
+      "projectName": "JKB Purana",
+      "cityName": "Chennai North",
+      "stateName": "Tamil Nadu",
+      "latitude": 13.078877,
+      "stateId": "227_LOCATION",
+      "cityId": "33_LOCATION",
+      "localityId": "3566_LOCALITY",
+      "longitude": 80.184385,
+      "LOCALITY_APPRECIATION": 0
+     },
+     "entityType": "PROJECT",
+     "configSummary": {
+      "cards": [
+       {
+        "area": {
+         "unit": 1,
+         "min": 1343,
+         "max": 1343,
+         "secondaryUnit": 3,
+         "display": "1,343 sqft",
+         "type": {
+          "label": "Built-up Area",
+          "value": "BUILTUP"
+         },
+         "secondaryDisplay": "124.77 sqm"
+        },
+        "price": {
+         "min": 18130500,
+         "max": 18130500,
+         "authentic": true,
+         "label": "1.81 Cr"
+        },
+        "configInfo": {
+         "subLabel": "Apartment",
+         "bgColor": null,
+         "icon": null,
+         "label": "3 BHK"
+        }
+       }
+      ]
+     },
+     "isPremium": false,
+     "isNewLaunch": false,
+     "landingPageRelativeUrl": "/jkb-purana-mogappair-chennai-north-npxid-r467031",
+     "pricePerSqFt": "13,500 /sqft",
+     "areaType": "BUILTUP",
+     "localizedPricePerSqft": "13,500 /sqft",
+     "localizedPrice": 13500,
+     "localizedPricePerSqftUnit": 1,
+     "localizedPricePerSqftUnitLabel": " sqft"
+    },
+    {
+     "rescom": "R",
+     "preference": "S",
+     "projectUnitId": "465496",
+     "builderName": "The Nest Builders",
+     "possessionStatus": {
+      "label": "New Launch (Completion in Dec, 2027)"
+     },
+     "heading": "Nest Beyonce",
+     "landingPage": {
+      "url": "https://www.99acres.com/nest-beyonce-semmancheri-chennai-south-npxid-r465496"
+     },
+     "tags": [
+      {
+       "id": "NO_BROKERAGE",
+       "label": "No Brokerage"
+      },
+      {
+       "id": "TOP_FACILITIES",
+       "label": "+10 Top Facilities"
+      }
+     ],
+     "locationHighlights": {
+      "heading": "Nearby : ",
+      "landMarks": [
+       {
+        "score": 1759,
+        "subHeading": "240 Meters",
+        "caption": "School",
+        "category": "School",
+        "altTag": "nearby School",
+        "srp": {
+         "className": "schl",
+         "imageName": "https://static.99acres.com/universalapp/img/schl.png"
+        },
+        "label": "Amethyst Cambridge International School",
+        "iconUrl": "https://static.99acres.com/universalapp/img/School.png",
+        "className": "school"
+       },
+       {
+        "score": 1879,
+        "subHeading": "3.3 Km",
+        "caption": "Hospital",
+        "category": "Hospital",
+        "altTag": "Nearby Hospital",
+        "srp": {
+         "className": "hsptl",
+         "imageName": "https://static.99acres.com/universalapp/img/hsptl.png"
+        },
+        "label": "Sri Isari Velan Mission Hospital",
+        "iconUrl": "https://static.99acres.com/universalapp/img/Hospital_building.png",
+        "className": "hospital"
+       },
+       {
+        "score": 1899,
+        "subHeading": "4.2 Km",
+        "caption": "Highway",
+        "category": "Highway",
+        "altTag": "Highway",
+        "srp": {
+         "className": "hw",
+         "imageName": "https://static.99acres.com/universalapp/img/hw.png"
+        },
+        "label": "State Highway 49A",
+        "iconUrl": "https://static.99acres.com/universalapp/img/Expressways.png",
+        "className": "highway"
+       },
+       {
+        "score": 1729,
+        "subHeading": "5.2 Km",
+        "caption": "University",
+        "category": "University",
+        "altTag": "University",
+        "srp": {
+         "className": "uni",
+         "imageName": "https://static.99acres.com/universalapp/img/uni.png"
+        },
+        "label": "Sathyabama University",
+        "iconUrl": "https://static.99acres.com/universalapp/img/University.png",
+        "className": "university"
+       },
+       {
+        "score": 1869,
+        "subHeading": "6.2 Km",
+        "caption": "Hotel",
+        "category": "Hotel",
+        "altTag": "Hotel",
+        "srp": {
+         "className": "htl",
+         "imageName": "https://static.99acres.com/universalapp/img/htl.png"
+        },
+        "label": "The Elite Grand Hotel",
+        "iconUrl": "https://static.99acres.com/universalapp/img/Dining.png",
+        "className": "club"
+       }
+      ],
+      "endLabel": null
+     },
+     "subHeading": "3 BHK Apartment in Semmancheri, OMR",
+     "price": {
+      "min": 8824998,
+      "max": 9977517,
+      "authentic": true,
+      "label": "88.25 L - 1 Cr"
+     },
+     "shortlisted": false,
+     "location": {
+      "localityName": "Semmancheri",
+      "projectName": "Nest Beyonce",
+      "cityName": "Chennai South",
+      "stateName": "Tamil Nadu",
+      "latitude": 12.871217761235158,
+      "stateId": "227_LOCATION",
+      "cityId": "34_LOCATION",
+      "localityId": "1132466_LOCALITY",
+      "longitude": 80.20044443601577,
+      "LOCALITY_APPRECIATION": 0
+     },
+     "entityType": "PROJECT",
+     "reraDisplayTag": "RERA",
+     "configSummary": {
+      "cards": [
+       {
+        "area": {
+         "unit": 1,
+         "min": 1340,
+         "max": 1515,
+         "secondaryUnit": 3,
+         "display": "1,340 - 1,515 sqft",
+         "type": {
+          "label": "Super Built-up Area",
+          "value": "SUPER"
+         },
+         "secondaryDisplay": "124.49 - 140.75 sqm"
+        },
+        "price": {
+         "min": 8824998,
+         "max": 9977517,
+         "authentic": true,
+         "label": "88.25 L - 1 Cr"
+        },
+        "configInfo": {
+         "subLabel": "Apartment",
+         "bgColor": null,
+         "icon": null,
+         "label": "3 BHK"
+        }
+       }
+      ]
+     },
+     "isPremium": true,
+     "isNewLaunch": true,
+     "landingPageRelativeUrl": "/nest-beyonce-semmancheri-chennai-south-npxid-r465496",
+     "pricePerSqFt": "6,586 /sqft",
+     "areaType": "SUPER",
+     "localizedPricePerSqft": "6,586 /sqft",
+     "localizedPrice": 6586,
+     "localizedPricePerSqftUnit": 1,
+     "localizedPricePerSqftUnitLabel": " sqft"
+    },
+    {
+     "rescom": "R",
+     "preference": "S",
+     "projectUnitId": "465698",
+     "builderName": "Novascape Realty Ventures LLP",
+     "possessionStatus": {
+      "label": "New Launch (Completion in Dec, 2027)"
+     },
+     "heading": "Uptown by Novascape",
+     "landingPage": {
+      "url": "https://www.99acres.com/uptown-by-novascape-saravanampatti-coimbatore-npxid-r465698"
+     },
+     "tags": [
+      {
+       "id": "NO_BROKERAGE",
+       "label": "No Brokerage"
+      },
+      {
+       "id": "FLOORPLANS_3D",
+       "label": "3D Floor Plans Available"
+      },
+      {
+       "id": "TOP_FACILITIES",
+       "label": "+40 Top Facilities"
+      }
+     ],
+     "locationHighlights": {
+      "heading": "Nearby : ",
+      "landMarks": [
+       {
+        "score": 1759,
+        "subHeading": "1 min",
+        "caption": "School",
+        "category": "School",
+        "altTag": "nearby School",
+        "srp": {
+         "className": "schl",
+         "imageName": "https://static.99acres.com/universalapp/img/schl.png"
+        },
+        "label": "Eurokids Preschool",
+        "iconUrl": "https://static.99acres.com/universalapp/img/School.png",
+        "className": "school"
+       },
+       {
+        "score": 1759,
+        "subHeading": "8 min",
+        "caption": "School",
+        "category": "School",
+        "altTag": "nearby School",
+        "srp": {
+         "className": "schl",
+         "imageName": "https://static.99acres.com/universalapp/img/schl.png"
+        },
+        "label": "Don Bosco School of Excellence",
+        "iconUrl": "https://static.99acres.com/universalapp/img/School.png",
+        "className": "school"
+       },
+       {
+        "score": 1839,
+        "subHeading": "2 min",
+        "caption": "Office complex",
+        "category": "OfficeComplex",
+        "altTag": "Office complex",
+        "srp": {
+         "className": "ofsc",
+         "imageName": "https://static.99acres.com/universalapp/img/ofce.png"
+        },
+        "label": "Chil Sez IT Park",
+        "iconUrl": "https://static.99acres.com/universalapp/img/Office_Complex.png",
+        "className": "oficeComplex"
+       },
+       {
+        "score": 1839,
+        "subHeading": "5 min",
+        "caption": "Office complex",
+        "category": "OfficeComplex",
+        "altTag": "Office complex",
+        "srp": {
+         "className": "ofsc",
+         "imageName": "https://static.99acres.com/universalapp/img/ofce.png"
+        },
+        "label": "NCS India Private Limited",
+        "iconUrl": "https://static.99acres.com/universalapp/img/Office_Complex.png",
+        "className": "oficeComplex"
+       },
+       {
+        "score": 1879,
+        "subHeading": "7 min",
+        "caption": "Hospital",
+        "category": "Hospital",
+        "altTag": "Nearby Hospital",
+        "srp": {
+         "className": "hsptl",
+         "imageName": "https://static.99acres.com/universalapp/img/hsptl.png"
+        },
+        "label": "Kumaran Medical Center",
+        "iconUrl": "https://static.99acres.com/universalapp/img/Hospital_building.png",
+        "className": "hospital"
+       }
+      ],
+      "endLabel": null
+     },
+     "subHeading": "2, 3 BHK Apartment in Saravanampatti, Coimbatore",
+     "price": {
+      "min": 8099999,
+      "max": 11978498,
+      "authentic": true,
+      "label": "81 L - 1.2 Cr"
+     },
+     "shortlisted": false,
+     "location": {
+      "localityName": "Saravanampatti",
+      "projectName": "Uptown by Novascape",
+      "cityName": "Coimbatore",
+      "stateName": "Tamil Nadu",
+      "latitude": 11.10883,
+      "stateId": "227_LOCATION",
+      "cityId": "185_LOCATION",
+      "localityId": "7379_LOCALITY",
+      "longitude": 76.998759,
+      "LOCALITY_APPRECIATION": 0
+     },
+     "entityType": "PROJECT",
+     "reraDisplayTag": "RERA",
+     "configSummary": {
+      "cards": [
+       {
+        "area": {
+         "unit": 1,
+         "min": 1529,
+         "max": 1597,
+         "secondaryUnit": 3,
+         "display": "1,529 - 1,597 sqft",
+         "type": {
+          "label": "Super Built-up Area",
+          "value": "SUPER"
+         },
+         "secondaryDisplay": "142.05 - 148.37 sqm"
+        },
+        "price": {
+         "min": 8099999,
+         "max": 8400000,
+         "authentic": true,
+         "label": "81 - 84 L"
+        },
+        "configInfo": {
+         "subLabel": "Apartment",
+         "bgColor": null,
+         "icon": null,
+         "label": "2 BHK"
+        }
+       },
+       {
+        "area": {
+         "unit": 1,
+         "min": 2187,
+         "max": 2278,
+         "secondaryUnit": 3,
+         "display": "2,187 - 2,278 sqft",
+         "type": {
+          "label": "Super Built-up Area",
+          "value": "SUPER"
+         },
+         "secondaryDisplay": "203.18 - 211.63 sqm"
+        },
+        "price": {
+         "min": 11499989,
+         "max": 11978498,
+         "authentic": true,
+         "label": "1.15 - 1.2 Cr"
+        },
+        "configInfo": {
+         "subLabel": "Apartment",
+         "bgColor": null,
+         "icon": null,
+         "label": "3 BHK"
+        }
+       }
+      ]
+     },
+     "isPremium": true,
+     "isNewLaunch": true,
+     "landingPageRelativeUrl": "/uptown-by-novascape-saravanampatti-coimbatore-npxid-r465698",
+     "pricePerSqFt": "5,258 /sqft",
+     "areaType": "SUPER",
+     "localizedPricePerSqft": "5,258 /sqft",
+     "localizedPrice": 5258,
+     "localizedPricePerSqftUnit": 1,
+     "localizedPricePerSqftUnitLabel": " sqft"
+    }
+   ],
+   "count": 188
+  },
+  "isLastpage": false,
+  "filters": {
+   "page": "1",
+   "city": "227"
+  }
+ }
+}

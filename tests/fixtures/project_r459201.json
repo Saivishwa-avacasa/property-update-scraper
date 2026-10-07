@@ -1,0 +1,2424 @@
+{
+ "projectDetailState": {
+  "pageData": {
+   "basicDetails": {
+    "id": "PROJECT_459201_R",
+    "projectId": "459201",
+    "resCom": "R",
+    "name": "Casagrand Aquagrove",
+    "location": {
+     "locationId": "1247658_PROJECT",
+     "localityName": "Madhavaram",
+     "cityName": "Chennai North",
+     "latitude": 13.151806,
+     "cityId": "33_LOCATION",
+     "localityId": "469_LOCALITY",
+     "longitude": 80.193143,
+     "stateId": "227_LOCATION",
+     "stateName": "Tamil Nadu"
+    },
+    "projectType": "ADVERTISER",
+    "areaUnit": 1,
+    "secondaryAreaUnit": 3,
+    "selectedConfig": "1_2",
+    "shareUrl": "Check out this project I found using 99acres mobile app # https://www.99acres.com/casagrand-aquagrove-madhavaram-chennai-north-npxid-r459201",
+    "sectionMetaDetails": {
+     "floorPlanHeading": "Floor Plans of Casagrand Aquagrove",
+     "additionalComponents": [
+      {
+       "component": "FLOOR_PLAN",
+       "heading": "Floor Plans of Casagrand Aquagrove",
+       "menuTabsTitle": "Floor Plans"
+      }
+     ]
+    },
+    "price": {
+     "min": 10400000,
+     "max": 21479271,
+     "label": "1.04 - 2.15 Cr",
+     "heading": "New Booking Price"
+    },
+    "selectedType": "DEFAULT",
+    "photonLayer": {
+     "categories": [
+      {
+       "type": {
+        "value": "HALL",
+        "label": "Hall"
+       },
+       "configurationBased": true
+      },
+      {
+       "type": {
+        "value": "BEDROOM",
+        "label": "Bedrooms"
+       },
+       "configurationBased": true
+      },
+      {
+       "type": {
+        "value": "BATHROOM",
+        "label": "Bathrooms"
+       },
+       "configurationBased": true
+      },
+      {
+       "type": {
+        "value": "KITCHEN",
+        "label": "Kitchen"
+       },
+       "configurationBased": true
+      },
+      {
+       "type": {
+        "value": "BALCONY",
+        "label": "Balcony"
+       },
+       "configurationBased": true
+      },
+      {
+       "type": {
+        "value": "MISCELLANEOUS",
+        "label": "Miscellaneous"
+       },
+       "configurationBased": true
+      },
+      {
+       "type": {
+        "value": "OUTDOORS",
+        "label": "Outdoors"
+       },
+       "configurationBased": false
+      },
+      {
+       "type": {
+        "value": "HIGHLIGHTS",
+        "label": "Highlights"
+       },
+       "configurationBased": false
+      },
+      {
+       "type": {
+        "value": "INDOORS",
+        "label": "Indoors"
+       },
+       "configurationBased": false
+      },
+      {
+       "type": {
+        "value": "FACILITIES",
+        "label": "Facilities"
+       },
+       "configurationBased": false
+      },
+      {
+       "type": {
+        "value": "DEMO_FLAT",
+        "label": "Demo flat"
+       },
+       "configurationBased": false
+      },
+      {
+       "type": {
+        "value": "PROJECT_THEME",
+        "label": "Project Theme"
+       },
+       "configurationBased": false
+      },
+      {
+       "type": {
+        "value": "CONSTRUCTION",
+        "label": "Construction"
+       },
+       "configurationBased": false
+      },
+      {
+       "type": {
+        "value": "LOCALITY",
+        "label": "Locality"
+       },
+       "configurationBased": false
+      },
+      {
+       "type": {
+        "value": "OTHERS",
+        "label": "Others"
+       },
+       "configurationBased": false
+      },
+      {
+       "type": {
+        "value": "MASTER_PLAN",
+        "label": "Master Plan"
+       },
+       "configurationBased": false
+      },
+      {
+       "type": {
+        "value": "LOCATION_PLAN",
+        "label": "Location Plan"
+       },
+       "configurationBased": false
+      },
+      {
+       "type": {
+        "value": "VIDEOS",
+        "label": "Videos"
+       },
+       "configurationBased": false
+      }
+     ]
+    },
+    "tracking": {
+     "unpaidPureR2M": "NO",
+     "viewType": "OLD"
+    },
+    "viewType": "REGULAR",
+    "cachingInfo": {
+     "isCacheable": false,
+     "maxAge": "no-store",
+     "cacheTags": "NN,XID_r459201,XID_D"
+    },
+    "nnassuredChatVisibility": "N",
+    "keyHighlights": [
+     {
+      "text": "Waterfront homes overlooking Puzhal Lake",
+      "numOfLines": 2
+     },
+     {
+      "text": "85% open spaces with landscaped greens",
+      "numOfLines": 2
+     },
+     {
+      "text": "Grand 9,000 sft swimming pool experience",
+      "numOfLines": 2
+     },
+     {
+      "text": "95+ lifestyle amenities for elevated living",
+      "numOfLines": 2
+     }
+    ],
+    "societyReviewCrawlable": true,
+    "isStoryView": false,
+    "isCompareProjectsView": false,
+    "streetAddress": "Survey No : 48/1A- 53/3A Soorapattu Madhavaram Tamil Nadu Chennai 600066",
+    "postalCode": "600060",
+    "unpaidR2MProject": false,
+    "isPaidProject": true,
+    "isComRevamp": false
+   },
+   "commonElements": {
+    "benefits": {
+     "heading": "NEW LAUNCH",
+     "subHeading": "Benefits",
+     "categoryIcon": {
+      "iconUrl": "https://static.99acres.com/universalxid/img/NewLaunchLogo.png",
+      "className": "blackNewLaunchSAB"
+     },
+     "tuples": [
+      {
+       "text": "High price appreciation",
+       "shortText": "Best Prices",
+       "icon": {
+        "iconUrl": "https://static.99acres.com/universalxid/img/Appreciation.png",
+        "className": "trendsSAB"
+       }
+      },
+      {
+       "text": "Units of choice",
+       "shortText": "Unit of Choice",
+       "icon": {
+        "iconUrl": "https://static.99acres.com/universalxid/img/Home.png",
+        "className": "heartYellowSAB"
+       }
+      },
+      {
+       "text": "Easy Payment plans",
+       "shortText": "Easy Payment Plans",
+       "icon": {
+        "iconUrl": "https://static.99acres.com/universalxid/img/Payment.png",
+        "className": "priceSAB"
+       }
+      }
+     ],
+     "ctaText": "Learn more",
+     "layerContent": {
+      "heading": "NEW LAUNCH",
+      "subHeading": "PROJECTS",
+      "description": "These are the recently launched projects in market, brought to you at attractive prices. All new launch projects that we show you are 100% RERA certified.",
+      "icon": {
+       "iconUrl": "https://static.99acres.com/universalxid/img/NewLaunchLogo.png",
+       "className": "blackNewLaunchSAB"
+      },
+      "infoSection": [
+       {
+        "heading": "Why you should buy a New Launched Project?",
+        "icon": {
+         "iconUrl": "https://static.99acres.com/universalxid/img/Badge.png",
+         "className": "reward_badge_green"
+        },
+        "tuples": [
+         {
+          "heading": "High Price Appreciation",
+          "desc": "These are newly launched projects. Typically, launch price of the projects is lower and price appreciates over time."
+         },
+         {
+          "heading": "Units of your Choice",
+          "desc": "Buyer has lot of unit options during launch time. You can pick the exclusive unit from all available options at this stage"
+         },
+         {
+          "heading": "Easy Payment Plans",
+          "desc": "You can take the benefits of construction linked payment plan at this stage. Both Down payment amount & Monthly payout amount is lesser in initial years due to construction linked plan. Payments are distributed over the course of the construction period, which can help reduce the financial burden on buyers."
+         }
+        ]
+       },
+       {
+        "heading": "Things to look out for",
+        "icon": {
+         "iconUrl": "https://static.99acres.com/universalxid/img/Warning.png",
+         "className": "warning_yellow_icon"
+        },
+        "tuples": [
+         {
+          "heading": "Trusted builder",
+          "desc": "In some cases, project may face construction delay due to unforeseen challenges. Buyers are advised to carefully evaluate the track record & experience of the builder on other projects. You can check the 99acres project page for the past performance of the builder."
+         }
+        ]
+       }
+      ]
+     }
+    },
+    "fomo": {
+     "text": "Limited inventory is available at the launch price.",
+     "icon": {
+      "iconUrl": "https://static.99acres.com/universalxid/img/Fomo.png",
+      "className": "fomoSAB"
+     }
+    },
+    "highlights": [
+     {
+      "text": "Waterfront homes overlooking Puzhal Lake",
+      "numOfLines": 2
+     },
+     {
+      "text": "85% open spaces with landscaped greens",
+      "numOfLines": 2
+     },
+     {
+      "text": "Grand 9,000 sft swimming pool experience",
+      "numOfLines": 2
+     },
+     {
+      "text": "95+ lifestyle amenities for elevated living",
+      "numOfLines": 2
+     },
+     {
+      "text": "Iconic Manhattan-style glass facade towers",
+      "numOfLines": 2
+     }
+    ],
+    "keyHighlights": [
+     {
+      "text": "Waterfront homes overlooking Puzhal Lake",
+      "numOfLines": 2
+     },
+     {
+      "text": "85% open spaces with landscaped greens",
+      "numOfLines": 2
+     },
+     {
+      "text": "Grand 9,000 sft swimming pool experience",
+      "numOfLines": 2
+     },
+     {
+      "text": "95+ lifestyle amenities for elevated living",
+      "numOfLines": 2
+     },
+     {
+      "text": "Iconic Manhattan-style glass facade towers",
+      "numOfLines": 2
+     }
+    ],
+    "reraDefaultInfo": {
+     "label": "RERA Status",
+     "description": "The content and information as shared in the advertisement has been provided by the Advertiser and the Advertiser to the Project has shared and consented to publishing this detail. Users agree and acknowledge that 99Acres is an intermediary and acts merely as a medium for posting information and content as supplied or approved by the source. It is clarified that the data available on the website is not physically verified and hence no representation or warranty is expressly or impliedly given to its accuracy in any form. The User is advised to do thorough research and due diligence before making any decision regarding Investment. Nothing contained on the platform shall deem to constitute legal advice, solicitation, invitation, etc in any form whatsoever. Kindly authenticate this information independently."
+    },
+    "propertyTypeAreaUnitMap": {
+     "1": 1
+    }
+   },
+   "components": {
+    "summaryLayer": {
+     "componentId": "SUMMARY_LAYER",
+     "heading": "Summary Layer",
+     "name": "Casagrand Aquagrove",
+     "address": "Madhavaram, Chennai",
+     "stickyFomo": {
+      "visibility": true,
+      "categoryId": "fomo",
+      "version": "fomo_1"
+     },
+     "benefits": {
+      "visibility": true,
+      "categoryId": "benefits",
+      "version": "benefits_1"
+     },
+     "learnMoreBenefits": {
+      "visibility": true,
+      "categoryId": "benefits",
+      "version": "benefits_1"
+     },
+     "rera": {
+      "registrationStatus": {
+       "value": "REGISTERED",
+       "label": "REGISTERED"
+      },
+      "registrationNumber": "TNRERA/29/BLG/0183/2026",
+      "label": "RERA",
+      "url": "https://rera.tn.gov.in/",
+      "infoMessage": "Advertiser for the project has shared and consented to publishing this detail.99acres is only a media platform displaying information supplied by the source including state RERA website, information shared by seller etc. Kindly authenticate this information independently.",
+      "tuples": [
+       {
+        "title": "Phase 1",
+        "registrationStatus": {
+         "value": "REGISTERED",
+         "label": "REGISTERED"
+        },
+        "registrationNumber": "TNRERA/29/BLG/0183/2026",
+        "qrCodeUrl": "https://imagecdn.99acres.com/projects/casagrand/casagrand_kolathur/rera_qr_codes/tfs1ndx_1779799248_766301398_large.jpg",
+        "bankAccountNumber": "",
+        "bankName": "",
+        "branchName": "",
+        "branchAddress": "",
+        "ifscCode": ""
+       }
+      ],
+      "registrationNumberText": {
+       "SMALL": "No.",
+       "BIG": "Registration No."
+      },
+      "qrCodeLayer": {
+       "qrCodeText": "Scan QR code to view RERA details."
+      }
+     },
+     "coverImage": {
+      "photoGrids": [
+       {
+        "altTag": "Casagrand Aquagrove Aerial View",
+        "variants": {
+         "MEDIUM": "https://newprojects.99acres.com/projects/casagrand/casagrand_kolathur/images/v591t5k_1779452870_763788034_med.jpg",
+         "OPTIMISED": "https://newprojects.99acres.com/projects/casagrand/casagrand_kolathur/images/v591t5k_1779452870_763788034_optOrig.jpg",
+         "MOBILE": "https://newprojects.99acres.com/projects/casagrand/casagrand_kolathur/images/v591t5k_1779452870_763788034_mobile.jpg",
+         "ORIGINAL": "https://newprojects.99acres.com/projects/casagrand/casagrand_kolathur/images/v591t5k_1779452870_763788034_O.jpg",
+         "LARGE": "https://newprojects.99acres.com/projects/casagrand/casagrand_kolathur/images/v591t5k_1779452870_763788034_large.jpg",
+         "SMALL": "https://newprojects.99acres.com/projects/casagrand/casagrand_kolathur/images/v591t5k_1779452870_763788034_sm.jpg"
+        },
+        "count": 38,
+        "type": "ALL_PHOTOS",
+        "title": "All Photos & Videos",
+        "galleryIndex": 0,
+        "imageCategory": "OUTDOORS"
+       },
+       {
+        "variants": {
+         "ORIGINAL": "https://youtu.be/QP1d62s2jF0?si=SQ8dxl6q8qkm3Xvm",
+         "LARGE": "https://www.youtube.com/embed/QP1d62s2jF0?rel=0&wmode=transparent&autoplay=1&loop=1&playlist=QP1d62s2jF0",
+         "SMALL": "https://img.youtube.com/vi/QP1d62s2jF0/hqdefault.jpg"
+        },
+        "count": 3,
+        "type": "VIDEO",
+        "title": "Videos",
+        "galleryIndex": 0
+       },
+       {
+        "altTag": "Casagrand Aquagrove Elevation",
+        "variants": {
+         "MEDIUM": "https://newprojects.99acres.com/projects/casagrand/casagrand_kolathur/images/hijrpnb_1779452680_763785192_med.jpg",
+         "OPTIMISED": "https://newprojects.99acres.com/projects/casagrand/casagrand_kolathur/images/hijrpnb_1779452680_763785192_optOrig.jpg",
+         "MOBILE": "https://newprojects.99acres.com/projects/casagrand/casagrand_kolathur/images/hijrpnb_1779452680_763785192_mobile.jpg",
+         "ORIGINAL": "https://newprojects.99acres.com/projects/casagrand/casagrand_kolathur/images/hijrpnb_1779452680_763785192_O.jpg",
+         "LARGE": "https://newprojects.99acres.com/projects/casagrand/casagrand_kolathur/images/hijrpnb_1779452680_763785192_large.jpg",
+         "SMALL": "https://newprojects.99acres.com/projects/casagrand/casagrand_kolathur/images/hijrpnb_1779452680_763785192_sm.jpg"
+        },
+        "count": 5,
+        "type": "OUTDOORS",
+        "title": "Outdoors",
+        "galleryIndex": 0,
+        "imageCategory": "OUTDOORS"
+       }
+      ]
+     },
+     "mediaCount": 38,
+     "logo": {
+      "name": "Logo",
+      "altTag": "Casagrand Aquagrove Chennai North",
+      "variants": {
+       "ORIGINAL": "https://newprojects.99acres.com/projects/casagrand/casagrand_kolathur/ph96kcl_1779853060_766448560_O.jpg"
+      }
+     },
+     "constructionStatus": {
+      "value": "NEW_LAUNCH",
+      "label": "New Launch"
+     },
+     "completionDate": {
+      "value": 1909008000,
+      "label": "Possession will start from Jun, 2030"
+     },
+     "eoi": {
+      "label": "View Number",
+      "displayLabel": "View Number",
+      "trackingSource": "SUMMARY_TABLE.REQUEST_CALLBACK",
+      "type": "FULFILLMENT_RATIO",
+      "fillInDetailsForm": {
+       "heading": "Request for a callback",
+       "subHeading": "Fill in your details to request for a callback",
+       "ctaText": "Request for a callback"
+      },
+      "contactFormDetails": {
+       "heading": "Please share your details to view number",
+       "ctaText": "View Number"
+      }
+     },
+     "navBarEoi": {
+      "label": "View Number",
+      "displayLabel": "View Number",
+      "trackingSource": "NAV_BAR.REQUEST_CALLBACK",
+      "type": "FULFILLMENT_RATIO",
+      "fillInDetailsForm": {
+       "heading": "Request for a callback",
+       "subHeading": "Fill in your details to request for a callback",
+       "ctaText": "Request for a callback"
+      },
+      "contactFormDetails": {
+       "heading": "Please share your details to view number",
+       "ctaText": "View Number"
+      }
+     },
+     "navBarBrochureCTA": {
+      "label": "Brochure",
+      "displayLabel": "Brochure",
+      "trackingSource": "NAV_BAR.DOWNLOAD_BROCHURE",
+      "type": "FULFILLMENT_RATIO",
+      "fillInDetailsForm": {
+       "heading": "Download documents",
+       "subHeading": "Please share your details to download documents",
+       "ctaText": "Download documents"
+      },
+      "contactFormDetails": {
+       "heading": "Please share your details to download brochure",
+       "ctaText": "Download brochure"
+      }
+     },
+     "brochureCTA": {
+      "label": "Download Brochure",
+      "displayLabel": "Download Brochure",
+      "trackingSource": "SUMMARY_TABLE.DOWNLOAD_BROCHURE",
+      "type": "FULFILLMENT_RATIO",
+      "fillInDetailsForm": {
+       "heading": "Download documents",
+       "subHeading": "Please share your details to download documents",
+       "ctaText": "Download documents"
+      },
+      "contactFormDetails": {
+       "heading": "Please share your details to download brochure",
+       "ctaText": "Download brochure"
+      }
+     },
+     "shortlisted": {
+      "done": false
+     },
+     "tags": [
+      {
+       "id": "NO_BROKERAGE",
+       "bgColor": "#D7F2E3",
+       "textColor": "#317A36",
+       "label": "No Brokerage"
+      },
+      {
+       "icon": {
+        "iconUrl": "https://static.99acres.com/universalapp/img/offer_tag_icon.png",
+        "className": "pinkOfferIcon"
+       },
+       "id": "OFFERS",
+       "bgColor": "#C513661A",
+       "textColor": "#C51366",
+       "label": "1 OFFER"
+      },
+      {
+       "id": "TOP_FACILITIES",
+       "bgColor": "#F4F5F7",
+       "textColor": "#42526E",
+       "label": "+60 Top Facilities"
+      }
+     ],
+     "price": {
+      "label": "1.04 - 2.15 Cr",
+      "secondaryLabel": "PRICE RANGE",
+      "footerText": "+ Charges",
+      "authentic": true
+     },
+     "constructionStageInfo": {
+      "icon": {
+       "iconUrl": "https://static.99acres.com/universalapp/img/construction_status.png",
+       "className": "possessionStatusKey"
+      },
+      "label": "New Launch",
+      "subLabel": "Completion in Jun, 2030",
+      "bgColor": "#F0F9FF",
+      "data": {
+       "heading": "Construction Status",
+       "subHeading": "for Casagrand Aquagrove, Madhavaram, Chennai",
+       "tuples": [
+        {
+         "icon": {
+          "iconUrl": "https://static.99acres.com/universalapp/img/newly_launched.png",
+          "className": "constStatusNL"
+         },
+         "label": "1 Phase is New Launch",
+         "subLabel": "Completion in Jun, 2030",
+         "bgColor": "#F0F9FF"
+        }
+       ],
+       "eoi": {
+        "label": "Enquire Now",
+        "trackingSource": "CONSTRUCTION_STATUS_CARD.ENQUIRE_NOW",
+        "type": "FULFILLMENT_RATIO",
+        "fillInDetailsForm": {
+         "heading": "Share interest",
+         "subHeading": "Fill in your details to share your interest",
+         "ctaText": "Share interest"
+        }
+       }
+      }
+     },
+     "configCards": {
+      "configLabel": "2, 3, 4 BHK Apartment",
+      "cta": {
+       "label": "See Floor Plans"
+      },
+      "cards": [
+       {
+        "configInfo": {
+         "id": "1_2",
+         "label": "2 BHK",
+         "subLabel": "Apartment"
+        },
+        "area": {
+         "min": 1307,
+         "max": 1325,
+         "unit": 1,
+         "secondaryUnit": 3,
+         "display": "1,307 - 1,325 sqft",
+         "secondaryDisplay": "121.42 - 123.1 sqm",
+         "type": {
+          "value": "BUILTUP",
+          "label": "Built-up Area"
+         }
+        },
+        "price": {
+         "min": 10400000,
+         "max": 10883378,
+         "label": "1.04 - 1.09 Cr",
+         "secondaryLabel": "+ Charges",
+         "authentic": true
+        },
+        "propertyType": "1"
+       },
+       {
+        "configInfo": {
+         "id": "1_3",
+         "label": "3 BHK",
+         "subLabel": "Apartment"
+        },
+        "area": {
+         "min": 1760,
+         "max": 2115,
+         "unit": 1,
+         "secondaryUnit": 3,
+         "display": "1,760 - 2,115 sqft",
+         "secondaryDisplay": "163.51 - 196.49 sqm",
+         "type": {
+          "value": "BUILTUP",
+          "label": "Built-up Area"
+         }
+        },
+        "price": {
+         "min": 14000000,
+         "max": 17372336,
+         "label": "1.4 - 1.74 Cr",
+         "secondaryLabel": "+ Charges",
+         "authentic": true
+        },
+        "propertyType": "1"
+       },
+       {
+        "configInfo": {
+         "id": "1_4",
+         "label": "4 BHK",
+         "subLabel": "Apartment"
+        },
+        "area": {
+         "min": 2544,
+         "max": 2615,
+         "unit": 1,
+         "secondaryUnit": 3,
+         "display": "2,544 - 2,615 sqft",
+         "secondaryDisplay": "236.35 - 242.94 sqm",
+         "type": {
+          "value": "BUILTUP",
+          "label": "Built-up Area"
+         }
+        },
+        "price": {
+         "min": 20896086,
+         "max": 21479271,
+         "label": "2.09 - 2.15 Cr",
+         "secondaryLabel": "+ Charges",
+         "authentic": true
+        },
+        "propertyType": "1"
+       }
+      ]
+     }
+    },
+    "usp": {
+     "componentId": "USP",
+     "heading": "Why you should consider Casagrand Aquagrove?",
+     "headerIcon": "https://static.99acres.com/universalapp/img/Shape.png",
+     "threshold": 3,
+     "actionText": "View 2 more",
+     "detailLayer": {
+      "heading": "Why you should consider Casagrand Aquagrove?"
+     },
+     "eoi": {
+      "label": "I'm interested in this project",
+      "trackingSource": "USP_DETAIL.INTERESTED",
+      "type": "FULFILLMENT_RATIO",
+      "fillInDetailsForm": {
+       "heading": "Share interest",
+       "subHeading": "Fill in your details to share your interest",
+       "ctaText": "Share interest"
+      }
+     },
+     "tuples": [
+      "Waterfront homes overlooking Puzhal Lake",
+      "85% open spaces with landscaped greens",
+      "Grand 9,000 sft swimming pool experience",
+      "95+ lifestyle amenities for elevated living",
+      "Iconic Manhattan-style glass facade towers"
+     ]
+    },
+    "facilities": {
+     "componentId": "FACILITIES",
+     "heading": "Top Facilities",
+     "menuTabTitle": "Facilities",
+     "tuples": [
+      {
+       "id": "11",
+       "label": "Swimming Pool",
+       "tag": "PREMIUM",
+       "category": "SPORTS",
+       "discriminator": "swimming_pool",
+       "className": "swimming_pool",
+       "iconUrl": "https://static.99acres.com/universalapp/img/swimming_pool.png"
+      },
+      {
+       "id": "13",
+       "label": "Gymnasium",
+       "tag": "BASIC",
+       "discriminator": "gymnasium",
+       "className": "gymnasium",
+       "iconUrl": "https://static.99acres.com/universalapp/img/gymnasium.png"
+      },
+      {
+       "id": "1",
+       "label": "Club House",
+       "tag": "BASIC",
+       "discriminator": "club",
+       "className": "club",
+       "iconUrl": "https://static.99acres.com/universalapp/img/club.png"
+      },
+      {
+       "id": "2",
+       "label": "Creche/Day Care",
+       "tag": "PREMIUM",
+       "category": "SERV",
+       "discriminator": "day_care_centre",
+       "className": "day_care_centre",
+       "iconUrl": "https://static.99acres.com/universalapp/img/day_care_centre.png"
+      },
+      {
+       "id": "143",
+       "label": "Lounge",
+       "tag": "PREMIUM",
+       "category": "ENTMT",
+       "discriminator": "lounge",
+       "className": "lounge",
+       "iconUrl": "https://static.99acres.com/universalapp/img/lounge.png"
+      },
+      {
+       "id": "10",
+       "label": "Children's Play Area",
+       "tag": "BASIC",
+       "discriminator": "kids_play_area",
+       "className": "kids_play_area",
+       "iconUrl": "https://static.99acres.com/universalapp/img/kids_play_area.png"
+      },
+      {
+       "id": "228",
+       "label": "EV Charging Stations",
+       "tag": "BASIC",
+       "discriminator": "ev_charging_stations",
+       "className": "ev_charging_stations",
+       "iconUrl": "https://static.99acres.com/universalapp/img/ev_charging_stations.png"
+      },
+      {
+       "id": "305",
+       "label": "Private Gardens/Balconies",
+       "tag": "PREMIUM",
+       "category": "CONV",
+       "discriminator": "private_gardens_balconies",
+       "className": "private_gardens_balconies",
+       "iconUrl": "https://static.99acres.com/universalapp/img/private_gardens_balconies.png"
+      },
+      {
+       "id": "213",
+       "label": "Landscape Garden",
+       "tag": "BASIC",
+       "discriminator": "landscape_garden",
+       "className": "landscape_garden",
+       "iconUrl": "https://static.99acres.com/universalapp/img/landscape_garden.png"
+      },
+      {
+       "id": "17",
+       "label": "Park",
+       "tag": "PREMIUM",
+       "category": "ECO",
+       "discriminator": "park_new",
+       "className": "park_new",
+       "iconUrl": "https://static.99acres.com/universalapp/img/park_new.png"
+      },
+      {
+       "id": "44",
+       "label": "Banquet Hall",
+       "tag": "PREMIUM",
+       "category": "ENTMT",
+       "discriminator": "banquet_hall",
+       "className": "banquet_hall",
+       "iconUrl": "https://static.99acres.com/universalapp/img/banquet_hall.png"
+      },
+      {
+       "id": "77",
+       "label": "Jogging Track",
+       "tag": "PREMIUM",
+       "category": "SPORTS",
+       "discriminator": "jogging_track",
+       "className": "jogging_track",
+       "iconUrl": "https://static.99acres.com/universalapp/img/jogging_track.png"
+      },
+      {
+       "id": "237",
+       "label": "Cycling Track",
+       "tag": "BASIC",
+       "discriminator": "cycling_track",
+       "className": "cycling_track",
+       "iconUrl": "https://static.99acres.com/universalapp/img/cycling_track.png"
+      },
+      {
+       "id": "239",
+       "label": "Gaming Zones",
+       "tag": "BASIC",
+       "discriminator": "gaming_zones",
+       "className": "gaming_zones",
+       "iconUrl": "https://static.99acres.com/universalapp/img/gaming_zones.png"
+      },
+      {
+       "id": "209",
+       "label": "Rock Climbing Wall",
+       "tag": "BASIC",
+       "discriminator": "rock_climbing_wall",
+       "className": "rock_climbing_wall",
+       "iconUrl": "https://static.99acres.com/universalapp/img/rock_climbing_wall.png"
+      },
+      {
+       "id": "43",
+       "label": "Badminton Court",
+       "tag": "PREMIUM",
+       "category": "SPORTS",
+       "discriminator": "badminton_court",
+       "className": "badminton_court",
+       "iconUrl": "https://static.99acres.com/universalapp/img/badminton_court.png"
+      },
+      {
+       "id": "47",
+       "label": "Basketball Court",
+       "tag": "PREMIUM",
+       "category": "SPORTS",
+       "discriminator": "basketball_court",
+       "className": "basketball_court",
+       "iconUrl": "https://static.99acres.com/universalapp/img/basketball_court.png"
+      },
+      {
+       "id": "96",
+       "label": "Skating Rink",
+       "tag": "PREMIUM",
+       "category": "SPORTS",
+       "discriminator": "skating_rink",
+       "className": "skating_rink",
+       "iconUrl": "https://static.99acres.com/universalapp/img/skating_rink.png"
+      },
+      {
+       "id": "4",
+       "label": "Yoga/Meditation Area",
+       "tag": "PREMIUM",
+       "category": "SPORTS",
+       "discriminator": "meditation",
+       "className": "meditation",
+       "iconUrl": "https://static.99acres.com/universalapp/img/meditation.png"
+      },
+      {
+       "id": "73",
+       "label": "Grocery Shop",
+       "tag": "PREMIUM",
+       "category": "SERV",
+       "discriminator": "grocery_shop",
+       "className": "grocery_shop",
+       "iconUrl": "https://static.99acres.com/universalapp/img/grocery_shop.png"
+      },
+      {
+       "id": "60",
+       "label": "Cricket Pitch",
+       "tag": "BASIC",
+       "discriminator": "cricket_pitch",
+       "className": "cricket_pitch",
+       "iconUrl": "https://static.99acres.com/universalapp/img/cricket_pitch.png"
+      },
+      {
+       "id": "206",
+       "label": "Pet Park",
+       "tag": "BASIC",
+       "discriminator": "pet_park",
+       "className": "pet_park",
+       "iconUrl": "https://static.99acres.com/universalapp/img/pet_park.png"
+      },
+      {
+       "id": "207",
+       "label": "Co-Working Spaces",
+       "tag": "BASIC",
+       "discriminator": "co_working_spaces",
+       "className": "co_working_spaces",
+       "iconUrl": "https://static.99acres.com/universalapp/img/co_working_spaces.png"
+      },
+      {
+       "id": "5",
+       "label": "Multipurpose Hall",
+       "tag": "PREMIUM",
+       "category": "ENTMT",
+       "discriminator": "multi_purpose_room",
+       "className": "multi_purpose_room",
+       "iconUrl": "https://static.99acres.com/universalapp/img/multi_purpose_room.png"
+      },
+      {
+       "id": "233",
+       "label": "Tot Lot",
+       "tag": "BASIC",
+       "discriminator": "tot_lot",
+       "className": "tot_lot",
+       "iconUrl": "https://static.99acres.com/universalapp/img/tot_lot.png"
+      },
+      {
+       "id": "234",
+       "label": "Sand Pit",
+       "tag": "BASIC",
+       "discriminator": "sand_pit",
+       "className": "sand_pit",
+       "iconUrl": "https://static.99acres.com/universalapp/img/sand_pit.png"
+      },
+      {
+       "id": "9",
+       "label": "Multipurpose court",
+       "tag": "PREMIUM",
+       "category": "SPORTS",
+       "discriminator": "sports_facility",
+       "className": "sports_facility",
+       "iconUrl": "https://static.99acres.com/universalapp/img/sports_facility.png"
+      },
+      {
+       "id": "99",
+       "label": "Sun Deck",
+       "tag": "PREMIUM",
+       "category": "ENTMT",
+       "discriminator": "sun_deck",
+       "className": "sun_deck",
+       "iconUrl": "https://static.99acres.com/universalapp/img/sun_deck.png"
+      },
+      {
+       "id": "46",
+       "label": "Barbecue",
+       "tag": "PREMIUM",
+       "category": "ENTMT",
+       "discriminator": "barbecue",
+       "className": "barbecue",
+       "iconUrl": "https://static.99acres.com/universalapp/img/barbecue.png"
+      },
+      {
+       "id": "131",
+       "label": "Theater Home",
+       "tag": "PREMIUM",
+       "category": "ENTMT",
+       "discriminator": "theater_home",
+       "className": "theater_home",
+       "iconUrl": "https://static.99acres.com/universalapp/img/theater_home.png"
+      },
+      {
+       "id": "139",
+       "label": "Indoor Games",
+       "tag": "PREMIUM",
+       "category": "SPORTS",
+       "discriminator": "indoor_games",
+       "className": "indoor_games",
+       "iconUrl": "https://static.99acres.com/universalapp/img/indoor_games.png"
+      },
+      {
+       "id": "54",
+       "label": "Carrom",
+       "tag": "PREMIUM",
+       "category": "ENTMT",
+       "discriminator": "carrom",
+       "className": "carrom",
+       "iconUrl": "https://static.99acres.com/universalapp/img/carrom.png"
+      },
+      {
+       "id": "125",
+       "label": "Chess",
+       "tag": "PREMIUM",
+       "category": "SPORTS",
+       "discriminator": "chess",
+       "className": "chess",
+       "iconUrl": "https://static.99acres.com/universalapp/img/chess.png"
+      },
+      {
+       "id": "49",
+       "label": "Billiards",
+       "tag": "PREMIUM",
+       "category": "ENTMT",
+       "discriminator": "billiards",
+       "className": "billiards",
+       "iconUrl": "https://static.99acres.com/universalapp/img/billiards.png"
+      },
+      {
+       "id": "87",
+       "label": "Pool Table",
+       "tag": "PREMIUM",
+       "category": "ENTMT",
+       "discriminator": "pool_table",
+       "className": "pool_table",
+       "iconUrl": "https://static.99acres.com/universalapp/img/pool_table.png"
+      },
+      {
+       "id": "67",
+       "label": "Foosball",
+       "tag": "PREMIUM",
+       "category": "ENTMT",
+       "discriminator": "foosball",
+       "className": "foosball",
+       "iconUrl": "https://static.99acres.com/universalapp/img/foosball.png"
+      },
+      {
+       "id": "39",
+       "label": "Air Hockey",
+       "tag": "PREMIUM",
+       "category": "ENTMT",
+       "discriminator": "air_hockey",
+       "className": "air_hockey",
+       "iconUrl": "https://static.99acres.com/universalapp/img/air_hockey.png"
+      },
+      {
+       "id": "100",
+       "label": "Table Tennis",
+       "tag": "PREMIUM",
+       "category": "SPORTS",
+       "discriminator": "table_tennis",
+       "className": "table_tennis",
+       "iconUrl": "https://static.99acres.com/universalapp/img/table_tennis.png"
+      },
+      {
+       "id": "90",
+       "label": "Reflexology Park",
+       "tag": "PREMIUM",
+       "category": "ECO",
+       "discriminator": "reflexology_park",
+       "className": "reflexology_park",
+       "iconUrl": "https://static.99acres.com/universalapp/img/reflexology_park.png"
+      },
+      {
+       "id": "19",
+       "label": "Open Space",
+       "tag": "BASIC",
+       "discriminator": "open_space",
+       "className": "open_space",
+       "iconUrl": "https://static.99acres.com/universalapp/img/open_space.png"
+      },
+      {
+       "id": "69",
+       "label": "Fountain",
+       "tag": "PREMIUM",
+       "category": "ECO",
+       "discriminator": "fountain",
+       "className": "fountain",
+       "iconUrl": "https://static.99acres.com/universalapp/img/fountain.png"
+      },
+      {
+       "id": "219",
+       "label": "Pedestrian-Friendly Zones",
+       "tag": "BASIC",
+       "discriminator": "pedestrian_friendly_zones",
+       "className": "pedestrian_friendly_zones",
+       "iconUrl": "https://static.99acres.com/universalapp/img/pedestrian_friendly_zones.png"
+      },
+      {
+       "id": "222",
+       "label": "Community Garden/Urban Farming",
+       "tag": "BASIC",
+       "discriminator": "community_garden_urban_farming",
+       "className": "community_garden_urban_farming",
+       "iconUrl": "https://static.99acres.com/universalapp/img/community_garden_urban_farming.png"
+      },
+      {
+       "id": "95",
+       "label": "Senior Citizen Sitout",
+       "tag": "PREMIUM",
+       "category": "ENTMT",
+       "discriminator": "senior_citizen_sitout",
+       "className": "senior_citizen_sitout",
+       "iconUrl": "https://static.99acres.com/universalapp/img/senior_citizen_sitout.png"
+      },
+      {
+       "id": "34",
+       "label": "Car Parking",
+       "tag": "BASIC",
+       "discriminator": "car_parking",
+       "className": "car_parking",
+       "iconUrl": "https://static.99acres.com/universalapp/img/car_parking.png"
+      },
+      {
+       "id": "71",
+       "label": "Gated Community",
+       "tag": "PREMIUM",
+       "category": "CONV",
+       "discriminator": "gated_community",
+       "className": "gated_community",
+       "iconUrl": "https://static.99acres.com/universalapp/img/gated_community.png"
+      },
+      {
+       "id": "18",
+       "label": "Paved Compound",
+       "tag": "PREMIUM",
+       "category": "ECO",
+       "discriminator": "paved_compound",
+       "className": "paved_compound",
+       "iconUrl": "https://static.99acres.com/universalapp/img/paved_compound.png"
+      },
+      {
+       "id": "64",
+       "label": "Earthquake Resistant",
+       "tag": "PREMIUM",
+       "category": "CONV",
+       "discriminator": "earthquake_resistant",
+       "className": "earthquake_resistant",
+       "iconUrl": "https://static.99acres.com/universalapp/img/earthquake_resistant.png"
+      },
+      {
+       "id": "36",
+       "label": "Vastu Compliant",
+       "tag": "PREMIUM",
+       "category": "CONV",
+       "discriminator": "vastu_compliant",
+       "className": "vastu_compliant",
+       "iconUrl": "https://static.99acres.com/universalapp/img/vastu_compliant.png"
+      },
+      {
+       "id": "150",
+       "label": "Wheelchair Accessible",
+       "tag": "PREMIUM",
+       "category": "CONV",
+       "discriminator": "wheelchair_accessible",
+       "className": "wheelchair_accessible",
+       "iconUrl": "https://static.99acres.com/universalapp/img/wheelchair_accessible.png"
+      },
+      {
+       "id": "55",
+       "label": "CCTV Camera Security",
+       "tag": "PREMIUM",
+       "category": "CONV",
+       "discriminator": "cctv_camera_security",
+       "className": "cctv_camera_security",
+       "iconUrl": "https://static.99acres.com/universalapp/img/cctv_camera_security.png"
+      },
+      {
+       "id": "135",
+       "label": "Security Cabin",
+       "tag": "PREMIUM",
+       "category": "CONV",
+       "discriminator": "security_cabin",
+       "className": "security_cabin",
+       "iconUrl": "https://static.99acres.com/universalapp/img/security_cabin.png"
+      },
+      {
+       "id": "248",
+       "label": "Emergency Exits",
+       "tag": "BASIC",
+       "discriminator": "emergency_exits",
+       "className": "emergency_exits",
+       "iconUrl": "https://static.99acres.com/universalapp/img/emergency_exits.png"
+      },
+      {
+       "id": "252",
+       "label": "Car-Free Zones",
+       "tag": "BASIC",
+       "discriminator": "car_free_zones",
+       "className": "car_free_zones",
+       "iconUrl": "https://static.99acres.com/universalapp/img/car_free_zones.png"
+      },
+      {
+       "id": "89",
+       "label": "Reading Lounge",
+       "tag": "PREMIUM",
+       "category": "ENTMT",
+       "discriminator": "reading_lounge",
+       "className": "reading_lounge",
+       "iconUrl": "https://static.99acres.com/universalapp/img/reading_lounge.png"
+      },
+      {
+       "id": "129",
+       "label": "Car Wash Area",
+       "tag": "PREMIUM",
+       "category": "CONV",
+       "discriminator": "car_wash_area",
+       "className": "car_wash_area",
+       "iconUrl": "https://static.99acres.com/universalapp/img/car_wash_area.png"
+      },
+      {
+       "id": "33",
+       "label": "Lifts",
+       "tag": "BASIC",
+       "discriminator": "lift",
+       "className": "lift",
+       "iconUrl": "https://static.99acres.com/universalapp/img/lift.png"
+      },
+      {
+       "id": "65",
+       "label": "Entrance Lobby",
+       "tag": "PREMIUM",
+       "category": "CONV",
+       "discriminator": "entrance_lobby",
+       "className": "entrance_lobby",
+       "iconUrl": "https://static.99acres.com/universalapp/img/entrance_lobby.png"
+      },
+      {
+       "id": "88",
+       "label": "Power Back up Lift",
+       "tag": "PREMIUM",
+       "category": "CONV",
+       "discriminator": "power_back_up_lift",
+       "className": "power_back_up_lift",
+       "iconUrl": "https://static.99acres.com/universalapp/img/power_back_up_lift.png"
+      },
+      {
+       "id": "23",
+       "label": "24/7 Power Backup",
+       "tag": "BASIC",
+       "discriminator": "power_backup",
+       "className": "power_backup",
+       "iconUrl": "https://static.99acres.com/universalapp/img/power_backup.png"
+      },
+      {
+       "id": "26",
+       "label": "Sewage Treatment Plant",
+       "tag": "PREMIUM",
+       "category": "ECO",
+       "discriminator": "sewage_treatment_plant",
+       "className": "sewage_treatment_plant",
+       "iconUrl": "https://static.99acres.com/universalapp/img/sewage_treatment_plant.png"
+      },
+      {
+       "id": "45",
+       "label": "Bar/Chill-Out Lounge",
+       "tag": "PREMIUM",
+       "category": "ENTMT",
+       "discriminator": "chill-out_lounge",
+       "className": "chill-out_lounge",
+       "iconUrl": "https://static.99acres.com/universalapp/img/chill-out_lounge.png"
+      },
+      {
+       "id": "25",
+       "label": "Rain Water Harvesting",
+       "tag": "PREMIUM",
+       "category": "ECO",
+       "discriminator": "rainwater_harvesting",
+       "className": "rainwater_harvesting",
+       "iconUrl": "https://static.99acres.com/universalapp/img/rainwater_harvesting.png"
+      },
+      {
+       "id": "287",
+       "label": "Water Treatment Plant",
+       "tag": "BASIC",
+       "discriminator": "water_treatment_plant",
+       "className": "water_treatment_plant",
+       "iconUrl": "https://static.99acres.com/universalapp/img/water_treatment_plant.png"
+      },
+      {
+       "id": "353",
+       "label": "Video Gaming Room",
+       "tag": "BASIC",
+       "discriminator": "video_gaming_room",
+       "className": "video_gaming_room",
+       "iconUrl": "https://static.99acres.com/universalapp/img/video_gaming_room.png"
+      },
+      {
+       "id": "355",
+       "label": "Golf Putty",
+       "tag": "PREMIUM",
+       "discriminator": "golf_putty",
+       "className": "golf_putty",
+       "iconUrl": "https://static.99acres.com/universalapp/img/golf_putty.png"
+      }
+     ],
+     "footerTitle": "View Facility Photos",
+     "viewThreshold": 9,
+     "primaryTupleThreshold": 9,
+     "eoi": {
+      "label": "I'm interested in this project",
+      "trackingSource": "FACILITIES_DETAIL.INTERESTED",
+      "type": "FULFILLMENT_RATIO",
+      "fillInDetailsForm": {
+       "heading": "Share interest",
+       "subHeading": "Fill in your details to share your interest",
+       "ctaText": "Share interest"
+      }
+     },
+     "facilitiesDescription": {
+      "description": "Casagrand Aquagrove Chennai North presents an exclusive opportunity to own a stunning home that offers all kinds of amenities and facilities. This includes a swimming pool, gymnasium, and easy access to club house.  It also has a creche/day care, an exclusive offering only for Casagrand Aquagrove residents. Casagrand Aquagrove has an excellent combination of comfort and convenience to suit every requirement as well as need."
+     }
+    },
+    "locationHighlights": {
+     "componentId": "LOCATION_HIGHLIGHTS",
+     "heading": "Location Advantages ",
+     "menuTabTitle": "Location",
+     "tuples": [
+      {
+       "category": "University",
+       "heading": "Velammal Engineering College",
+       "subHeading": "290 Mtrs",
+       "icon": "https://static.99acres.com/universalapp/img/University.png",
+       "strokeIcon": "https://static.99acres.com/universalxid/img/story_college.png",
+       "iconClass": "university"
+      },
+      {
+       "category": "School",
+       "heading": "Velammal New Gen School",
+       "subHeading": "800 Mtrs",
+       "icon": "https://static.99acres.com/universalapp/img/School.png",
+       "strokeIcon": "https://static.99acres.com/universalxid/img/story_college.png",
+       "iconClass": "school"
+      },
+      {
+       "category": "Hospital",
+       "heading": "Meridian Hospital",
+       "subHeading": "4.8 Km",
+       "icon": "https://static.99acres.com/universalapp/img/Hospital_building.png",
+       "strokeIcon": "https://static.99acres.com/universalxid/img/story_hospital.png",
+       "iconClass": "hospital"
+      },
+      {
+       "category": "Railway Station",
+       "heading": "Korattur Railway Station",
+       "subHeading": "6.4 Km",
+       "icon": "https://static.99acres.com/universalapp/img/Railway.png",
+       "strokeIcon": "https://static.99acres.com/universalxid/img/story_railway.png",
+       "iconClass": "railwayStation"
+      },
+      {
+       "category": "Shopping Center/ Market/ Mall",
+       "heading": "PVR Galaxy Mall",
+       "subHeading": "6.6 Km",
+       "icon": "https://static.99acres.com/universalapp/img/Shop.png",
+       "strokeIcon": "https://static.99acres.com/universalxid/img/story_mall.png",
+       "iconClass": "shop"
+      },
+      {
+       "category": "Metro Station",
+       "heading": "Madhavaram Metro station",
+       "subHeading": "8.0 Km",
+       "icon": "https://static.99acres.com/universalapp/img/Metro_Station.png",
+       "strokeIcon": "https://static.99acres.com/universalxid/img/story_metroStation.png",
+       "iconClass": "metroStation"
+      },
+      {
+       "category": "Office complex",
+       "heading": "Ambit IT Park",
+       "subHeading": "9.5 Km",
+       "icon": "https://static.99acres.com/universalapp/img/Office_Complex.png",
+       "strokeIcon": "https://static.99acres.com/universalxid/img/story_office.png",
+       "iconClass": "oficeComplex"
+      },
+      {
+       "category": "Amusement Park",
+       "heading": "Kidz Jungle Park",
+       "subHeading": "10.7 Km",
+       "icon": "https://static.99acres.com/universalapp/img/Amusement_Park.png",
+       "strokeIcon": "https://static.99acres.com/universalxid/img/story_nature.png",
+       "iconClass": "amusementPark"
+      },
+      {
+       "category": "Stadium",
+       "heading": "Jawaharlal Nehru Stadium",
+       "subHeading": "13 Km",
+       "icon": "https://static.99acres.com/universalapp/img/Stadium.png",
+       "strokeIcon": "https://static.99acres.com/universalxid/img/story_gaming.png",
+       "iconClass": "stadium"
+      },
+      {
+       "category": "Beach",
+       "heading": "N4 Beach",
+       "subHeading": "15 Km",
+       "icon": "https://static.99acres.com/universalapp/img/Beach.png",
+       "strokeIcon": "https://static.99acres.com/universalxid/img/story_beach.png",
+       "iconClass": "beach"
+      },
+      {
+       "category": "Hotel",
+       "heading": "Taj Club House",
+       "subHeading": "15 Km",
+       "icon": "https://static.99acres.com/universalapp/img/Dining.png",
+       "strokeIcon": "https://static.99acres.com/universalxid/img/story_glass.png",
+       "iconClass": "club"
+      },
+      {
+       "category": "Airport",
+       "heading": "Chennai International Airport",
+       "subHeading": "24 Km",
+       "icon": "https://static.99acres.com/universalapp/img/Airport.png",
+       "strokeIcon": "https://static.99acres.com/universalxid/img/story_airport.png",
+       "iconClass": "airport"
+      }
+     ],
+     "viewThreshold": 15,
+     "subtitle": "of Casagrand Aquagrove",
+     "eoi": {
+      "label": "I'm interested in this project",
+      "trackingSource": "LOCATION_HIGHLIGHTS.INTERESTED",
+      "type": "FULFILLMENT_RATIO",
+      "fillInDetailsForm": {
+       "heading": "Share interest",
+       "subHeading": "Fill in your details to share your interest",
+       "ctaText": "Share interest"
+      }
+     },
+     "locationHighlightsDescription": {
+      "description": "Madhavaram is one of the prime locations to buy a home in Chennai North. There are 122 residential projects in Madhavaram. Some of the important landmarks near Casagrand Aquagrove are Velammal Engineering College, Velammal New Gen School, Meridian Hospital, etc. With important facilities available in the vicinity, Madhavaram surely is a suitable place to call home."
+     }
+    },
+    "moreAboutProject": {
+     "componentId": "MORE_ABOUT_PROJECT",
+     "heading": "More about Casagrand Aquagrove",
+     "description": "For those looking to buy a residential property, here comes one of the choicest offerings in Chennai North, at Madhavaram. Brought to you by Casagrand, Casagrand Aquagrove is among the newest addresses for homebuyers. There are apartments for sale in Casagrand Aquagrove Madhavaram, Chennai. This is a new launch project right now, and is expected to be delivered by Jun, 2030 .<br><br>Casagrand Aquagrove Chennai North is a RERA-registered housing society, which means all projects details are also available on state RERA website for end-users and investors. The RERA registration number of this project is TNRERA/29/BLG/0183/2026.<br><br>Casagrand is one of the known real estate brands in Chennai North.The builder has delivered 99 projects so far. Around 37 projects are upcoming. There are 39 projects of this builder, which are currently under-construction.<br><br>Read on to know more about must-know features, Casagrand Aquagrove  Photos,  Floor Plans, Payment Plans, Brochure download procedure  and other exciting facts about the project.<br><br><b style=' font-weight: bold;'>Features & Amenities</b><br><br><ul style=' list-style: disc; margin-left: 20px;'><li style='list-style:disc;'>The project is spread over an area of 6.7 acres.</li><li style='list-style:disc;'>There are around 544 units on offer.</li><li style='list-style:disc;'>Casagrand Aquagrove Madhavaram, Chennai housing society has 3 towers with 28 floors.</li><li style='list-style:disc;'>Casagrand Aquagrove Chennai North has some great amenities to offer such as Swimming Pool, Gymnasium and Club House.</li><li style='list-style:disc;'>St. Anthony's Hospital is a popular landmark in Madhavaram, Chennai</li><li style='list-style:disc;'>Some popular transit points closest to Casagrand Aquagrove Madhavaram, Chennai are Vinayakapuram, Madhavaram bus terminal and Madhavaram MTC Terminus. Out of this, Vinayakapuram is the nearest from this location.</li><li style='list-style:disc;'>Property prices in locality has changed 11.5% in last quarter</li></ul><br><b style='font-weight: bold;'>Casagrand Aquagrove Floor Plans and Price List </b><br><br>This housing society has the following property options available in different configurations. Take a look at Casagrand Aquagrove Floor Plans and Price List:<br><br><table style='border: 1px solid black;border-collapse: collapse;'><thead><tr style='border: 1px solid black;padding:8px;'><th style='border: 1px solid black;padding:8px;'>Configuration</th><th style='border: 1px solid black;padding:8px;'>Size</th><th style='border: 1px solid black;padding:8px;'>Price</th></tr> <tr style='border: 1px solid black;padding:8px;'><td style='border: 1px solid black;padding:8px;'>Casagrand Aquagrove 2BHK Apartment</td><td style='border: 1px solid black;padding:8px;'>1,307 sqft</td><td style='border: 1px solid black;padding:8px;'>Rs. 1.04 Cr onwards</td></tr><tr style='border: 1px solid black;padding:8px;'><td style='border: 1px solid black;padding:8px;'>Casagrand Aquagrove 3BHK Apartment</td><td style='border: 1px solid black;padding:8px;'>1,760 sqft</td><td style='border: 1px solid black;padding:8px;'>Rs. 1.4 Cr onwards</td></tr><tr style='border: 1px solid black;padding:8px;'><td style='border: 1px solid black;padding:8px;'>Casagrand Aquagrove 4BHK Apartment</td><td style='border: 1px solid black;padding:8px;'>2,544 sqft</td><td style='border: 1px solid black;padding:8px;'>Rs. 2.09 Cr onwards</td></tr></thead></table><br><br><b style=' font-weight: bold;'>How to get Casagrand Aquagrove Brochure?</b><br><br>View and download Casagrand Aquagrove Official Brochure to take a comprehensive look at this upcoming housing society. It is a detailed prospectus about the society’s offerings, amenities, features, payment plans and a lot more. Click the ‘download’ icon on the main page to get the brochure in one click. <br><br><b style='font-weight: bold;'>Where to find Casagrand Aquagrove Photos & Videos?</b><br><br>View interiors and exterior images of residential properties for sale in Casagrand Aquagrove Madhavaram to check out 5 picture(s) of outdoors, 8 picture(s) of facilities in Casagrand Aquagrove housing society.<br><br><b style=' font-weight: bold;'>What is Casagrand Aquagrove Address?</b> <br><br>Survey No : 48/1A- 53/3A Soorapattu Madhavaram Tamil Nadu Chennai 600066 <br><br>Get <a href=https://www.99acres.com/casagrand-aquagrove-location-map-madhavaram-chennai-north-npxid-r459201>directions</a> to reach this location.   <br><br><b style=' font-weight: bold;'>How is Madhavaram, Chennai for buying a home?</b> <br><br>Madhavaram is a luxury locality to buy an apartment, as compared to other areas in the surrounding areas. This locality ranks #7 in Top 100 in Chennai North. Some of the popular features of Madhavaram are: <br><ul style=' list-style: disc; margin-left: 20px;'>  <li style='list-style:disc;'>Developing Area</li> <li style='list-style:disc;'>Upcoming Metro Station</li> <li style='list-style:disc;'>Along Jawaharlal Nehru Rd</li> <li style='list-style:disc;'>Sound Rail Connectivity</li></ul><br>The existing residents of Madhavaram gave it an average rating of 4.0, out of 5. Most of the reviews mention that this locality has: <br><ul style=' list-style: disc; margin-left: 20px;'>  <li style='list-style:disc;'>Good Public Transport </li> <li style='list-style:disc;'>Good Schools are nearby </li> <li style='list-style:disc;'>Easy Cab/Auto Availability </li> <li style='list-style:disc;'>Markets at a walkable distance </li> <li style='list-style:disc;'>Well-maintained Roads </li> <li style='list-style:disc;'>Good Hospitals are nearby </li></ul><br>The ratings are based on 116 total reviews.<br><br><br><br><b style=' font-weight: bold;'>How is Madhavaram for investment?</b><br><br>Madhavaram presents a reasonable opportunity for those considering property investments, as it offers a luxury investment option compared to nearby areas.  There are expected infrastructural developments in nearby areas, which may impact real estate prices in this specific locality as well. Moreover, Casagrand Aquagrove is a newly launched project where you can invest in the most preferred property options at a lesser cost and get higher returns, with easy payment plans.<br><br><b style=' font-weight: bold;'>How is Casagrand track record?</b><br><br>Casagrand stands out with a proven track record in the industry. Over the 22 years, it has not only made a mark in the real estate industry but also has a footprint in industries, including education, industrial warehousing, interior designing. Casagrand has successfully delivered 96 projects, and currently has 79 ongoing project in its portfolio. Catering to 9 cities across India, it has carved a niche for itself.<br><br>Residents of past projects of Casagrand have provided mostly positive feedback, with an average rating of 3.5 out of 5 for the construction quality.  ",
+     "descriptionTextLimit": 250,
+     "specificationHeading": "Other specifications",
+     "specificationSubHeading": "Structure\nStructural system: RCC wall structure designed for seismic compliant (Zone – 3)\nMasonry (MIVAN): RCC walls as ",
+     "layerContent": {
+      "specifications": "Structure\nStructural system: RCC wall structure designed for seismic compliant (Zone – 3)\nMasonry (MIVAN): RCC walls as per structure design\nFloor - floor height (incl. slab): Will be maintained at 3300mm\nWall Finish\nInternal walls: Finished with 2 coats of putty, 1 coat of primer & 2 coats of emulsion.\nCeiling: Finished with 2 coats of putty, 1 coat of primer & 2 coats of tractor emulsion\nExterior walls: Exterior faces of the building finished with 1 coat of primer & 2 coats of exterior emulsion paint & color as per architect’s design\nBathroom: Ceramic tile of size 300x600mm till 2550mm height and above will be finished with a coat of primer\nKitchen: Ceramic tile of size 600x600mm for a height of 600mm above the countertop finished level\nToilet ceiling: Grid type false ceiling\nFloor Finish\nMain flooring (living, bedroom, dining & passage): Vitrified tiles of size 1200x600mm\nDoor threshold: Tile finish will be provided for all doors\nBathroom: Anti-skid ceramic tiles of size 300x300mm\nBalcony private open terrace: Anti-skid ceramic tiles of size 600x600mm\nKitchen & Dining\nKitchen: Platform will be finished with a granite slab 600mm wide at the height of 850mm from the finished floor level\nElectrical point: For chimney & water purifier\nCP fitting: American standard / equivalent will be provided\nSink: Single bowl SS sink with drain board\nDining wash basin: Wall hung washbasin wherever applicable\nBalcony\nHandrail: MS handrail as per architect’s design\nBathrooms\nCP & Sanitary fixture: American standard or equivalent will be provided\nMaster bathrooms: Wall mounted WC with cistern, health faucet, single lever diverter with rain shower and countertop wash basin\nOther bathrooms: Wall mounted WC with cistern, health faucet, single lever diverter with overhead shower and wall hung wash basin\nJoinery\nMain door: Good quality frame with double side veneer finished shutter of size 1200x2400mm\nIronmongeries like Godrej/Yale digital door lock or equivalent lock, 18” tower bolts, door viewer, safety latch, Magnetic catcher, door closer etc.\nBedroom doors: Good quality doorframe with double side laminated shutter of size 1000x2400mm\nIronmongeries like Godrej/Yale or equivalent lock, 8” tower bolt, Magnetic catcher, etc.\nBathroom doors: Good quality doorframe with double side laminated shutter of size 800x2400mm\nIronmongeries like one side coin & thumb turn lock of Godrej/Yale or equivalent without key, door bush & 6” Tower bolt etc.,\nWindows\nWindows: UPVC/aluminum powder coated framed windows with sliding shutter with see-through plain glass and MS grill\nFrench doors: UPVC/aluminum powder coated frame and shutters with toughened glass without grill\nVentilators: UPVC/aluminum powder coated frame of fixed louvered/openable shutter for ODU access (wherever applicable)\nElectrical Points\nPower supply: 3 PHASE power supply connection\nSafety device: MCB & RCCB (Residual Current Circuit Breaker)\nSwitches & sockets: Modular box, switches & sockets of Schneider or equivalent will be provided\nWires: Fire Retardant Low Smoke (FRLS) copper wire of a quality IS brand of Polycab or equivalent will be provided\nTV: Point in living & in any one of the bedroom and provision in other bedrooms\nData: Point in living & master bedrooms\nSplit air -conditioner: Point in living/dining & all bedrooms\nExhaust fan: Point in all bathrooms\nGeyser: Point in all bathrooms\nBack-up: As per unit type - 350W for 1BHK, 400W for 2BHK, 500W for 3BHK, 650W for 4BHK\nCommon Features\nLift: Elevators of automatic lift will be provided with MS finish.\nBack–up: 100% power backup for common amenities such as clubhouse, lifts, WTP, STP & selective common area lighting\nName board: The apartment owner name will be provided in the ground floor\nLift fascia: Granite cladding at all the floor for threshold of 300mm\nLobby: Granite flooring at ground level & tile flooring at other levels\nCorridor: Tile flooring at all levels\nStaircase floor (HRB): Granite flooring at 4 floors & tile flooring at other floors\nFire staircase: Tile flooring/equivalent at all levels\nStaircase handrail: MS handrail with enamel paint finish in all floors\nTerrace floor: Pressed tile flooring\nTerrace doors: Good quality door frame with FRP shutter of 800x2100mm ironmongeries like thumb turn lock, door closure, tower bolt, etc., of Godrej / equivalent brand\nOutdoor Features\nWater storage: Centralized UG sump with WTP (Min. requirement as per water test report)\nRainwater harvest: Rainwater harvesting at site\nSTP: Centralized sewage treatment plant\nSafety: CCTV surveillance cameras will be provided all-round the building at pivotal locations in ground level\nWell-defined walkway: Walkway spaces well defined as per landscape design intent\nSecurity: Security booth will be provided at the entrance/exit\nCompound wall: Site perimeter fenced by compound wall with entry gates for a height of 1500mm as per design intent and over that 300mm with barbed fence.\nLandscape: Suitable landscape at appropriate places in the project as per design intent\nDriveway: Convex mirror for safe turning in driveway in/out\nExternal driveway flooring: Interlocking paver block/equivalent flooring with a demarcated driveway as per landscape design intent",
+      "towerCount": 3,
+      "unitCount": 544,
+      "floorCount": 28,
+      "totalArea": {
+       "min": 6.7,
+       "max": 6.7,
+       "unit": 12,
+       "secondaryUnit": 3,
+       "display": "6.7 acres",
+       "secondaryDisplay": "27.1K sq.m."
+      },
+      "openAreaPercentage": 85
+     },
+     "eoi": {
+      "label": "I'm interested in this project",
+      "trackingSource": "PROJ_DESC_DETAIL.SPECIFICATIONS_TAB.INTERESTED",
+      "type": "FULFILLMENT_RATIO",
+      "fillInDetailsForm": {
+       "heading": "Share interest",
+       "subHeading": "Fill in your details to share your interest",
+       "ctaText": "Share interest"
+      }
+     }
+    },
+    "documents": {
+     "componentId": "DOCUMENTS",
+     "heading": "View official brochure",
+     "menuTabTitle": "Brochure",
+     "displayCover": {
+      "altTag": "Casagrand Aquagrove Brochure",
+      "variants": {
+       "SMALL": "https://imagecdn.99acres.com/media1/39369/8/787388960T-1783061245051.jpg"
+      }
+     },
+     "brochureDocument": {
+      "name": "Brochure",
+      "variants": {
+       "ORIGINAL": "https://imagecdn.99acres.com/media1/39369/8/787388960O-1783061245030.pdf"
+      }
+     },
+     "priceListDocument": {
+      "name": "Payment Plan",
+      "variants": {
+       "ORIGINAL": "https://imagecdn.99acres.com/payment-plan/pdfs/vonmt7l_1781157113_775174934.pdf"
+      }
+     },
+     "infoIconText": "Official documents provided by the Builder of the Project",
+     "ctaText": "Download Brochure",
+     "ctaSubText": "Payment Plan",
+     "eoi": {
+      "label": "Download Brochure",
+      "displayLabel": "Download Brochure",
+      "trackingSource": "BROCHURE.DOWNLOAD",
+      "type": "FULFILLMENT_RATIO",
+      "fillInDetailsForm": {
+       "heading": "Download documents",
+       "subHeading": "Please share your details to download documents",
+       "ctaText": "Download documents"
+      },
+      "contactFormDetails": {
+       "heading": "Please share your details to download brochure",
+       "ctaText": "Download brochure"
+      }
+     },
+     "detailLayerEoi": {
+      "label": "Download Brochure",
+      "trackingSource": "BROCHURE_DETAIL.DOWNLOAD",
+      "type": "FULFILLMENT_RATIO",
+      "fillInDetailsForm": {
+       "heading": "Download documents",
+       "subHeading": "Please share your details to download documents",
+       "ctaText": "Download documents"
+      }
+     },
+     "subHeading": "Casagrand Aquagrove Brochure & Payment Plan",
+     "primaryDownloadUrl": "https://imagecdn.99acres.com/media1/39369/8/787388960O-1783061245030.pdf",
+     "metaData": {
+      "size": {
+       "value": 11.2,
+       "unit": "MB"
+      },
+      "width": "864",
+      "height": "864",
+      "pageCount": "108"
+     },
+     "sideStickyHeading": "Download Official Documents",
+     "footer": {
+      "icon": "https://static.99acres.com/universalapp/img/downloadpriceList.png",
+      "label": "Download Payment Plan of Casagrand Aquagrove",
+      "downloadLink": "https://imagecdn.99acres.com/payment-plan/pdfs/vonmt7l_1781157113_775174934.pdf"
+     },
+     "preDownload": false
+    },
+    "builder": {
+     "componentId": "BUILDER",
+     "heading": "About Casagrand Builder Private Limited",
+     "menuTabTitle": "Builder",
+     "name": "Casagrand Builder Private Limited",
+     "logo": {
+      "altTag": "Casagrand Builder Private Limited",
+      "variants": {
+       "ORIGINAL": "https://imagecdn.99acres.com/4668/10/93370805O-1498724134-DEALER_178874_LOGO.jpeg",
+       "SMALL": "https://imagecdn.99acres.com/4668/10/93370805O-1498724134-DEALER_178874_LOGO.jpeg"
+      }
+     },
+     "url": "https://builders.99acres.com/casagrand-builders-developers-bid-271",
+     "description": "Casagrand, founded in 2003, is a Chennai-based real estate developer specializing in apartments and villas with lifestyle amenities. Catering to diverse market segments, the company has expanded to Bengaluru, Hyderabad, and Coimbatore, with plans to enter Pune. An international office in Dubai manages global sales. With a strong focus on quality, timely delivery, and customer satisfaction, Casagrand also ventures into commercial and industrial real estate, ensuring seamless living experiences through continuous research and innovation.",
+     "descriptionTextLimit": 300,
+     "frontLayerEoi": {
+      "label": "Contact Builder",
+      "params": {
+       "confIdProfileIdMap": "4928066,178874",
+       "confIds": "4928066"
+      },
+      "trackingSource": "ABOUT_BUILDER.CONTACT_BUILDER",
+      "type": "SINGLE_ADVERTISER"
+     },
+     "eoi": {
+      "label": "Contact Builder",
+      "params": {
+       "confIdProfileIdMap": "4928066,178874",
+       "confIds": "4928066"
+      },
+      "trackingSource": "ABOUT_BUILDER_DETAIL.CONTACT_BUILDER",
+      "type": "SINGLE_ADVERTISER"
+     },
+     "sideStickyCTA": {
+      "label": "Contact Builder",
+      "params": {
+       "confIdProfileIdMap": "4928066,178874",
+       "confIds": "4928066"
+      },
+      "trackingSource": "SIDE_STICKY.CONTACT_BUILDER",
+      "type": "SINGLE_ADVERTISER"
+     }
+    },
+    "questionnaire": {
+     "componentId": "QUESTIONNAIRE",
+     "heading": "Frequently Asked Questions",
+     "menuTabTitle": "FAQs",
+     "viewThreshold": 8,
+     "tuples": [
+      {
+       "question": "Which is the nearest metro station from Casagrand Aquagrove location?",
+       "answer": "The closest metro station to Casagrand Aquagrove is Madhavaram Metro station.",
+       "priority": 1,
+       "schemaVisibility": true
+      },
+      {
+       "question": "How is Madhavaram in terms of safety and security?",
+       "answer": "Residents have rated this locality 4/5 on safety. This will help you in making the right decision if you are worried about the safety in this locality.",
+       "priority": 1,
+       "schemaVisibility": true
+      },
+      {
+       "question": "Are there any sports amenities in Casagrand Aquagrove?",
+       "answer": "Casagrand Aquagrove has several gaming amenities such as Indoor Games, Swimming Pool, Chess, Table Tennis, Cricket Pitch and Billiards.",
+       "priority": 1,
+       "schemaVisibility": true
+      },
+      {
+       "question": "What are the security features of Casagrand Aquagrove?",
+       "answer": "Casagrand Aquagrove offers Security Cabin to ensure all the residents feel safe and secure.",
+       "priority": 1,
+       "schemaVisibility": true
+      },
+      {
+       "question": "What are the applicable stamp duty rates on Casagrand Aquagrove?",
+       "answer": "Property buyers need to pay minimum 7.0% percent as stamp duty on this project.",
+       "priority": 1,
+       "schemaVisibility": true
+      },
+      {
+       "question": "Which top builders/brokers are working on the Casagrand Aquagrove?",
+       "answer": "Casagrand Builder Private Limited, BRICKTOPIA and MARUTHAM PROP CONSULTING PRIVATE LIMITED are some of the top builders/brokers that can get you the best deal in this project.",
+       "priority": 1,
+       "schemaVisibility": true
+      },
+      {
+       "question": "Are there any good hospitals in Casagrand Aquagrove neighbourhood?",
+       "answer": "Yes, there are good hospitals around Casagrand Aquagrove such as St. Anthony's Hospital, Md Hussain Hospital and Uma Hospital.",
+       "priority": 1,
+       "schemaVisibility": true
+      },
+      {
+       "question": "Are there any housing societies in Madhavaram, Chennai?",
+       "answer": " Madhavaram, Chennai has 79 ready to move housing societies.   Around 30 projects are under-construction here. There are 13 newly launched projects in Madhavaram, Chennai. ",
+       "priority": 1,
+       "schemaVisibility": true
+      },
+      {
+       "question": "How many phases does Casagrand Aquagrove have?",
+       "answer": "There  is 1 phase  in Casagrand Aquagrove.",
+       "priority": 1,
+       "schemaVisibility": true
+      },
+      {
+       "question": "Is Casagrand Aquagrove approved by RERA?",
+       "answer": "Yes, this is a RERA-registered project. TNRERA/29/BLG/0183/2026 is the RERA number of Casagrand Aquagrove that can be used to search more details aboubt the project on the RERA portal.",
+       "priority": 1,
+       "schemaVisibility": true
+      }
+     ]
+    },
+    "breadCrumb": {
+     "componentId": "BREAD_CRUMB",
+     "heading": "BreadCrumb",
+     "details": {
+      "city": {
+       "url": "/new-projects-in-chennai-ffid",
+       "label": "Projects in Chennai",
+       "title": "New Projects in Chennai"
+      },
+      "locality": {
+       "url": "/new-projects-in-madhavaram-chennai-north-ffid",
+       "label": "Madhavaram",
+       "title": "New Projects in Madhavaram"
+      },
+      "xid": {
+       "url": "/casagrand-aquagrove-madhavaram-chennai-north-npxid-r459201",
+       "title": "Casagrand Aquagrove"
+      }
+     }
+    },
+    "contentDisclaimer": {
+     "componentId": "CONTENT_DISCLAIMER",
+     "heading": "Disclaimer",
+     "text": "The material and information contained herein is for general informational purposes only, and does not constitute an endorsement/warranty/representation/offer from 99acres.com.\nSources of Information : Project details presented on this page are collected from public sources including State RERA websites (wherever applicable), project websites created by builder and authorized channel partners and official documentation shared by these authorized advertisers (project brochure, price list, payment plans). 99acres only presents this content in easy format for user research and user education and does not own any content. Users are advised to exercise caution and validate facts from builder / promoter before purchase.",
+     "textTruncationLimit": 150,
+     "urls": [
+      "https://casagrand-prod.s3.ap-south-1.amazonaws.com/wp-content/uploads/2026/05/CG-Aquagrove-low-res-version-brochure-20-May-1-compressed.pdf"
+     ]
+    },
+    "offers": {
+     "componentId": "OFFERS",
+     "heading": "Offers for you",
+     "menuTabTitle": "Offers"
+    },
+    "localityReviewDetails": {
+     "componentId": "LOCALITY_RATING_AND_REVIEWS",
+     "heading": "Locality Reviews",
+     "title": "Locality Reviews",
+     "subTitle": "for Madhavaram, Chennai",
+     "ratingTab": {
+      "overall": 4,
+      "totalCount": 116,
+      "totalCountText": "(116 Total Reviews)",
+      "counts": [
+       {
+        "rating": 5,
+        "count": 28
+       },
+       {
+        "rating": 4,
+        "count": 74
+       },
+       {
+        "rating": 3,
+        "count": 12
+       },
+       {
+        "rating": 2,
+        "count": 2
+       },
+       {
+        "rating": 1,
+        "count": 0
+       }
+      ]
+     },
+     "ratingsByFeature": {
+      "info": "Overall Rating & parameter wise rating has been calculated taking into account quality, quantity & recency of reviews",
+      "title": "Ratings by features",
+      "tuples": [
+       {
+        "title": "Connectivity",
+        "filterTitle": "Connectivity & Commute",
+        "identifier": "CONNECTIVITY_AND_COMMUTE",
+        "subTitle": "4.1 out of 5",
+        "rating": 4.1,
+        "imgUrl": "https://static.99acres.com/universalrei/img/connectivity.b83c48f5958a7251f21c.png"
+       },
+       {
+        "title": "Lifestyle",
+        "filterTitle": "Lifestyle & Facilities",
+        "identifier": "LIFESTYLE_AND_FACILITIES",
+        "subTitle": "3.9 out of 5",
+        "rating": 3.9,
+        "imgUrl": "https://static.99acres.com/universalrei/img/lifestyle.4ec38d5ce7f851939364.png"
+       },
+       {
+        "title": "Safety",
+        "filterTitle": "Safety & Security",
+        "identifier": "SAFETY_AND_SECURITY",
+        "subTitle": "4 out of 5",
+        "rating": 4,
+        "imgUrl": "https://static.99acres.com/universalrei/img/safety.a35e2f4404d7a5b12d6c.png"
+       },
+       {
+        "title": "Green Area",
+        "filterTitle": "Green Area",
+        "identifier": "ENVIRONMENT",
+        "subTitle": "4 out of 5",
+        "rating": 4,
+        "imgUrl": "https://static.99acres.com/universalrei/img/environment.99400b7b7ba301f938a4.png"
+       }
+      ]
+     },
+     "tags": [
+      {
+       "title": "The Positives",
+       "tagList": [
+        "Good Public Transport",
+        "Good Schools are nearby",
+        "Easy Cab/Auto Availability",
+        "Markets at a walkable distance",
+        "Well-maintained Roads",
+        "Good Hospitals are nearby"
+       ],
+       "tagsCountMap": {
+        "Good Public Transport": 63,
+        "Good Schools are nearby": 46,
+        "Easy Cab/Auto Availability": 43,
+        "Markets at a walkable distance": 36,
+        "Well-maintained Roads": 33,
+        "Good Hospitals are nearby": 28
+       }
+      },
+      {
+       "title": "The Negatives",
+       "tagList": [
+        "Frequent Traffic Jams",
+        "Frequent Parking Issues"
+       ],
+       "tagsCountMap": {
+        "Frequent Traffic Jams": 43,
+        "Frequent Parking Issues": 34
+       }
+      }
+     ],
+     "reviews": {
+      "title": "Recommended Reviews",
+      "discriminator": "ALL",
+      "sorting": "MOST_HELPFUL",
+      "threshold": 5,
+      "locality": "469_LOCALITY",
+      "redirectionParam": {
+       "SORT_ORDER": [
+        {
+         "identifier": "RECENT_FIRST",
+         "title": "Recent First",
+         "params": "sortOrder=RECENT_FIRST",
+         "enabled": true
+        },
+        {
+         "identifier": "MOST_HELPFUL",
+         "title": "Recommended",
+         "params": "sortOrder=MOST_HELPFUL",
+         "enabled": true
+        },
+        {
+         "identifier": "POSITIVE_FIRST",
+         "title": "Positive First",
+         "params": "sortOrder=POSITIVE_FIRST",
+         "enabled": true
+        },
+        {
+         "identifier": "NEGATIVE_FIRST",
+         "title": "Negative First",
+         "params": "sortOrder=NEGATIVE_FIRST",
+         "enabled": true
+        }
+       ],
+       "RATINGS": [
+        {
+         "identifier": "ALL_RATINGS",
+         "title": "All Ratings (116 Reviews)",
+         "params": "",
+         "enabled": true
+        },
+        {
+         "identifier": "5",
+         "title": "5 Star Ratings (28 Reviews)",
+         "params": "rating=5",
+         "enabled": true
+        },
+        {
+         "identifier": "4",
+         "title": "4 Star Ratings (74 Reviews)",
+         "params": "rating=4",
+         "enabled": true
+        },
+        {
+         "identifier": "3",
+         "title": "3 Star Ratings (12 Reviews)",
+         "params": "rating=3",
+         "enabled": true
+        },
+        {
+         "identifier": "2",
+         "title": "2 Star Ratings (2 Reviews)",
+         "params": "rating=2",
+         "enabled": true
+        },
+        {
+         "identifier": "1",
+         "title": "1 Star Ratings (0 Reviews)",
+         "params": "rating=1",
+         "enabled": false
+        }
+       ],
+       "DISCRIMINATOR": [
+        {
+         "identifier": "ALL",
+         "title": "All",
+         "params": "",
+         "enabled": true
+        },
+        {
+         "identifier": "ALL_RATINGS",
+         "title": "All Ratings",
+         "params": "",
+         "enabled": true
+        },
+        {
+         "identifier": "CONNECTIVITY_AND_COMMUTE",
+         "title": "Connectivity & Conveyance",
+         "params": "feature=CONNECTIVITY_AND_COMMUTE",
+         "enabled": true
+        },
+        {
+         "identifier": "ENVIRONMENT",
+         "title": "Environment",
+         "params": "feature=ENVIRONMENT",
+         "enabled": true
+        },
+        {
+         "identifier": "SAFETY_AND_SECURITY",
+         "title": "Safety & Security",
+         "params": "feature=SAFETY_AND_SECURITY",
+         "enabled": true
+        },
+        {
+         "identifier": "LIFESTYLE_AND_FACILITIES",
+         "title": "Lifestyle & Facilities",
+         "params": "feature=LIFESTYLE_AND_FACILITIES",
+         "enabled": true
+        }
+       ]
+      },
+      "tuples": [
+       {
+        "id": 1240266,
+        "postedBy": "Gayathri S",
+        "discriminator": "Tenant",
+        "postedAt": "1Y ago",
+        "ratings": 3.6,
+        "header": "3 people found it helpful",
+        "localityId": "1131553_LOCALITY",
+        "localityLabel": "Burma Nagar",
+        "markedHelpful": false,
+        "markedReported": false,
+        "tuples": [
+         {
+          "title": "Positives",
+          "review": "Burma Nagar is a sub locality in Chennai.Its a good, lovely,calm and pleasant location. The weather of the locality is good .The people are very friendly.In Burma Nagar,many facilities are available within Maximum 10 km distance.There is very good hospitals and other health care facilities.The educational institutions such as schools and colleges are there in Burma Nagar . Transport facilities such as buses and taxies are available in the Locality. It's safe to live there since the people are very friendly and helpful. Affordable options for residential areas are available. Roads are well maintained.",
+          "tagList": [
+           "Good Public Transport",
+           "Easy Cab/Auto Availability",
+           "Well-maintained Roads",
+           "Schools are nearby",
+           "Hospitals are nearby"
+          ]
+         },
+         {
+          "title": "Negatives",
+          "review": " In Burma Nagar There are factories and Industries so that noises and pollution can be a concern for the people living there . Locality has limited places like parks and other places which provides greenery and relaxation. Population in the Locality has increased in past years . Quality of drinking water has deteriorated as the borewell and septic tank are merely 10 feet apart . The police patrolling is poor in the locality.",
+          "tagList": [
+           "Frequent Traffic Jams",
+           "No/Poor Police Patrolling"
+          ]
+         }
+        ],
+        "timeDuration": "2Y"
+       },
+       {
+        "id": 1257616,
+        "postedBy": "zain",
+        "discriminator": "Former Resident",
+        "postedAt": "1Y ago",
+        "ratings": 3.6,
+        "header": "1 person found it helpful",
+        "localityId": "1106285_LOCALITY",
+        "localityLabel": "Francis Colony",
+        "markedHelpful": false,
+        "markedReported": false,
+        "tuples": [
+         {
+          "title": "Positives",
+          "review": " It is a very good place start a bachelaor life here every things around my building sopping malls, hospitals nearby, and huge market about seven point seven kilometers, and good people, and a good coomunity and nice people, and every things is cheaply available in the market, easy to get good jobs, good public transport like buses, and cabs, autos and taxies are easly available.",
+          "tagList": [
+           "Good Public Transport",
+           "Easy Cab/Auto Availability",
+           "Markets at a walkable distance",
+           "Good Hospitals are nearby",
+           "Limited Parks/ Average maintained parks",
+           "Occasional Water Shortage"
+          ]
+         },
+         {
+          "title": "Negatives",
+          "review": "This place is very comfortable for families and older people, evry time frequent traffic jams and accident, and a poor road conditions an d accidents connected to it, and every time there is power cuts for electricity, and it is very noisy and uncomfortable, and very crowded, and there is a high chance getting pick pocketed by others we should be very alerted.",
+          "tagList": [
+           "Frequent Parking Issues",
+           "Poor Road Condition",
+           "Frequent Traffic Jams",
+           "Frequent Power Cuts",
+           "Unhygienic",
+           "High Pollution"
+          ]
+         }
+        ],
+        "timeDuration": "3+Y"
+       },
+       {
+        "id": 153864,
+        "postedBy": "Former Resident",
+        "postedAt": "5Y ago",
+        "ratings": 5,
+        "header": "1 person found it helpful",
+        "markedHelpful": false,
+        "markedReported": false,
+        "tuples": [
+         {
+          "title": "Positives",
+          "review": "The most upcoming busiest area in chennai. Approved metro project from Madhavaram connecting to all parts of chennai. Near to Andhra busstand surrounded by hospitals,schools\nMultiple on going projects like casa Grande, Radiance surrounding the locality.\nBest public transport connectivity.Near to reliance mart for purchasing provisioning and daily needs. S2 cinemas for entertainment",
+          "tagList": [
+           "Good Public Transport",
+           "No Traffic Jam Nearby",
+           "Metro Connectivity nearby",
+           "Easy Cab/Auto Availability",
+           "Good Schools are nearby",
+           "Markets at a walkable distance",
+           "Ample Parking Space",
+           "Good Hospitals are nearby"
+          ]
+         },
+         {
+          "title": "Negatives",
+          "review": "As of now this is still developing locality in chennai so still needs to be concentrate on drainage, understand water.\nTelephone Network signal strength can be increased as we won't get 5 point signal. No fiber broadband interior don't have proper roads and street lights.As this area is outside chennai police patrolling needs to be increased after 9pm ",
+          "tagList": []
+         }
+        ]
+       }
+      ],
+      "showWithPhotoTag": false
+     },
+     "reviewForm": {
+      "title": "Write a review",
+      "subTitle": "Share your experience about your society or locality and help others make the right choice about their next home",
+      "linkText": "Review your Society / Locality",
+      "iconUrl": "https://static.99acres.com/images/locationReviews/writeNewReview.png",
+      "redirectionParams": {
+       "sourcePage": "XID_DESKTOP",
+       "entityType": "locality"
+      }
+     },
+     "eoi": {
+      "label": "Are you interested in this project ?",
+      "cta": "Request Callback",
+      "trackingSource": "RATING_REVIEW_DETAIL.REQUEST_CALLBACK",
+      "type": "FULFILLMENT_RATIO",
+      "fillInDetailsForm": {
+       "heading": "Request for a callback",
+       "subHeading": "Fill in your details to request for a callback",
+       "ctaText": "Request for a callback"
+      }
+     },
+     "projectReviewsFlag": false,
+     "isLocalityZone": false,
+     "posTagCount": 114,
+     "negTagCount": 2,
+     "posTagsPercent": 98,
+     "rnrLandingPageUrl": "/madhavaram-chennai-north-reviews-and-ratings-wrffid",
+     "imgUrl": "https://imagecdn.99acres.com/media1/20250/4/405004248M-1675262650754.jpg",
+     "label": "Madhavaram"
+    },
+    "reiOverview": {
+     "componentId": "REI_OVERVIEW",
+     "heading": "Overview",
+     "menuTabTitle": "Explore Locality",
+     "title": "Explore Madhavaram, Chennai",
+     "subTitle": "Chennai North | Pincode - 600060",
+     "locationId": "469_LOCALITY",
+     "cityId": "33_LOCATION",
+     "entityType": "LOCALITY",
+     "canonicalURL": "/madhavaram-chennai-north-overview-piffid",
+     "localityInsights": [
+      {
+       "id": "RENTAL",
+       "pointers": [
+        {
+         "title": "#11 in Top 100 in Chennai North"
+        },
+        {
+         "title": "Industrial Hub"
+        }
+       ]
+      },
+      {
+       "id": "RESALE",
+       "pointers": [
+        {
+         "title": "#7 in Top 100 in Chennai North"
+        },
+        {
+         "title": "16.7% YoY",
+         "imageUrl": "https://static.99acres.com/images/locationREI/trendingInsight.png",
+         "spriteIdentifier": "TRENDING_INSIGHT"
+        }
+       ]
+      }
+     ],
+     "shortlisted": false,
+     "feedbackCaptured": false,
+     "pointsToConsider": {
+      "componentId": "POINTS_TO_CONSIDER",
+      "heading": "Points to Consider",
+      "threshold": 4,
+      "title": "Points to Consider",
+      "headerType": "h3",
+      "imageUrl": "https://static.99acres.com/images/locationREI/pointsToConsiderIcon.png",
+      "spriteUrl": "POINTS_TO_CONSIDER",
+      "tuples": [
+       {
+        "id": "WHATS_GREAT_HERE",
+        "title": "What's great here!",
+        "imageUrl": "https://static.99acres.com/images/locationREI/thumbsUp.png",
+        "spriteIdentifier": "POINTS_TO_CONSIDER_THUMBS_UP",
+        "pointers": [
+         {
+          "title": "Madhavaram is a rapidly growing industrial cum residential hub",
+          "imageUrl": "https://static.99acres.com/images/locationREI/sentimentCategory/realEstateSentiment.png",
+          "spriteIdentifier": "REAL_ESTATE_SENTIMENT"
+         },
+         {
+          "title": "Nagappa Estate in the locale hosts light to mid-scale industries",
+          "imageUrl": "https://static.99acres.com/images/locationREI/sentimentCategory/industrialHub.png",
+          "spriteIdentifier": "INDUSTRIAL_HUB_CATEGORY"
+         },
+         {
+          "title": "Chennai-Srikakulam Highway runs along the western border",
+          "imageUrl": "https://static.99acres.com/images/locationREI/sentimentCategory/highways.png",
+          "spriteIdentifier": "HIGHWAYS_EXPRESSWAYS"
+         },
+         {
+          "title": "GST Road & 100 Feet Road serve as key connecting links",
+          "imageUrl": "https://static.99acres.com/images/locationREI/sentimentCategory/connectivity.png",
+          "spriteIdentifier": "CONNECTIVITY"
+         },
+         {
+          "title": "The locale offers a mix of plots, apartments & villas",
+          "imageUrl": "https://static.99acres.com/images/locationREI/sentimentCategory/realEstateSentiment.png",
+          "spriteIdentifier": "REAL_ESTATE_SENTIMENT"
+         },
+         {
+          "title": "Majority of the housing options are in mid to premium budget",
+          "imageUrl": "https://static.99acres.com/images/locationREI/sentimentCategory/realEstateSentiment.png",
+          "spriteIdentifier": "REAL_ESTATE_SENTIMENT"
+         },
+         {
+          "title": "Casagrand & Radiance Realty are active developers in the locale",
+          "imageUrl": "https://static.99acres.com/images/locationREI/sentimentCategory/realEstateSentiment.png",
+          "spriteIdentifier": "REAL_ESTATE_SENTIMENT"
+         },
+         {
+          "title": "Planned infra boosts offer promising ROI prospects",
+          "imageUrl": "https://static.99acres.com/images/locationREI/sentimentCategory/realEstateSentiment.png",
+          "spriteIdentifier": "REAL_ESTATE_SENTIMENT"
+         },
+         {
+          "title": "AMBIT IT Park and India Land Tech Park are 13km from here",
+          "imageUrl": "https://static.99acres.com/images/locationREI/sentimentCategory/ITHub.png",
+          "spriteIdentifier": "IT_HUB_CATEGORY"
+         },
+         {
+          "title": "One of the city’s biggest industrial areas, SIDCO-Ambattur, is 14km away",
+          "imageUrl": "https://static.99acres.com/images/locationREI/sentimentCategory/industrialHub.png",
+          "spriteIdentifier": "INDUSTRIAL_HUB_CATEGORY"
+         },
+         {
+          "title": "Budget rentals & presence of offices attract tenants to Madhavaram",
+          "imageUrl": "https://static.99acres.com/images/locationREI/sentimentCategory/rentalSentiment.png",
+          "spriteIdentifier": "RENTAL_SENTIMENT"
+         },
+         {
+          "title": "Located 5km away, Perambur Station connects the locale by rail",
+          "imageUrl": "https://static.99acres.com/images/locationREI/sentimentCategory/railway.png",
+          "spriteIdentifier": "RAILWAY"
+         },
+         {
+          "title": "Madhavaram Bus Terminus anchors interstate connectivity",
+          "imageUrl": "https://static.99acres.com/images/locationREI/sentimentCategory/publicTransportation.png",
+          "spriteIdentifier": "PUBLIC_TRANSPORTATION"
+         },
+         {
+          "title": "Spectrum The Grand Venus Mall offers shopping options within 6km",
+          "imageUrl": "https://static.99acres.com/images/locationREI/sentimentCategory/retailHub.png",
+          "spriteIdentifier": "RETAIL_HUB_CATEGORY"
+         },
+         {
+          "title": "K.M. Multispeciality & Prashanth Super Speciality hospitals are here",
+          "imageUrl": "https://static.99acres.com/images/locationREI/sentimentCategory/socialAmenities.png",
+          "spriteIdentifier": "SOCIAL_AMENITIES"
+         },
+         {
+          "title": "Sri Chaitanya & Greenfield Chennai International schools are within 4km",
+          "imageUrl": "https://static.99acres.com/images/locationREI/sentimentCategory/socialAmenities.png",
+          "spriteIdentifier": "SOCIAL_AMENITIES"
+         },
+         {
+          "title": "Chennai International Airport is 26km via GST & 100 Feet roads",
+          "imageUrl": "https://static.99acres.com/images/locationREI/sentimentCategory/airport.png",
+          "spriteIdentifier": "AIRPORT"
+         },
+         {
+          "title": "Madhavaram Botanical Garden offers green & picturesque walking trails",
+          "imageUrl": "https://static.99acres.com/images/locationREI/sentimentCategory/greenBelt.png",
+          "spriteIdentifier": "GREEN_BELT"
+         }
+        ],
+        "localityPageCriteria": {
+         "redirectionUrl": "/madhavaram-chennai-north-overview-piffid?token=WHATS_GREAT_HERE&src_page=XID#pointsToConsider"
+        }
+       },
+       {
+        "id": "WHATS_NEEDS_ATTENTION",
+        "title": "What needs attention!",
+        "imageUrl": "https://static.99acres.com/images/locationREI/thumbsDown.png",
+        "spriteIdentifier": "POINTS_TO_CONSIDER_THUMBS_DOWN",
+        "pointers": [
+         {
+          "title": "Unfinished drainage network triggers waterlogging during rain",
+          "imageUrl": "https://static.99acres.com/images/locationREI/sentimentCategory/civicInfrastucture.png",
+          "spriteIdentifier": "CIVIC_INFRASTRUCTURE"
+         },
+         {
+          "title": "Traffic jams are common at the Madhavaram roundabout",
+          "imageUrl": "https://static.99acres.com/images/locationREI/sentimentCategory/traffic.png",
+          "spriteIdentifier": "TRAFFIC"
+         }
+        ],
+        "localityPageCriteria": {
+         "redirectionUrl": "/madhavaram-chennai-north-overview-piffid?token=WHATS_NEEDS_ATTENTION&src_page=XID#pointsToConsider"
+        }
+       }
+      ]
+     },
+     "seoContent": {
+      "relativeUrl": "/madhavaram-chennai-north-overview-piffid",
+      "metaTitle": "Madhavaram, Chennai - Map, Property Rates, Projects, Reviews, Photos & Videos",
+      "metaDescription": "Know about Madhavaram Chennai property market, view map, reviews, property price trends, locality photos & videos, nearby landmarks, popular societies, explore 363+ properties in Madhavaram for buy/rent",
+      "shareUrl": "Know all about Madhavaram on 99acres"
+     },
+     "localityPageInsights": {
+      "subTitle": "Commute, Price Trends, Lifestyle and more",
+      "title": "Get more insights about Madhavaram",
+      "localityPageCriteria": {
+       "redirectionUrl": "/madhavaram-chennai-north-overview-piffid"
+      }
+     },
+     "custom_object": {
+      "cityId": "33_LOCATION",
+      "localityId": "469_LOCALITY",
+      "src_page": "XID"
+     },
+     "isLocalityZone": false,
+     "longLat": {
+      "x": 80.2288097,
+      "y": 13.14692701,
+      "type": "Point",
+      "coordinates": [
+       80.2288097,
+       13.14692701
+      ]
+     },
+     "rlpUrls": {
+      "PRT": "/property-rates-and-price-trends-in-chennai-prffid",
+      "ARTS_CANONICAL": "/chennai-real-estate-news",
+      "NWS_CANONICAL": "/chennai-property-news",
+      "RNR": "/chennai-reviews-and-ratings-wrffid",
+      "CITY_INSIGHT": "/chennai-overview-ciffid",
+      "PRTSOC": "/property-rates-and-price-trends-in-societies-chennai-prffid",
+      "NWS": "/chennai-real-estate-news-niffid",
+      "RGR": "/property-registry-records-in-chennai-rrffid",
+      "INSIGHT": "/real-estate-insights-irffid",
+      "LI": "/localities-in-chennai-lrffid",
+      "ARTS": "/chennai-real-estate-articles-aiffid",
+      "zoneId": "41_MICRO_MARKET"
+     },
+     "showCaseLabel": "Madhavaram, Chennai"
+    },
+    "sellerComponent": {
+     "componentId": "SELLER_COMPONENT",
+     "heading": "Sellers you may contact",
+     "menuTabTitle": "Sellers",
+     "isEliteView": true,
+     "viewAllLabel": "View All Sellers",
+     "limit": 10,
+     "cityId": "33_LOCATION",
+     "params": {
+      "projectId": "PROJECT_459201_R",
+      "isEliteView": true,
+      "limit": 10,
+      "cityId": "33_LOCATION",
+      "platform": "DESKTOP"
+     },
+     "nonVideoCardsTimer": 2000,
+     "autoScrollTransitionTimer": 300,
+     "frontCardsTimer": 1000
+    }
+   },
+   "seoContent": {
+    "metaTitle": "Casagrand Aquagrove Madhavaram, Chennai | Price List & Brochure, Floor Plan, Location Map & Reviews",
+    "metaDescription": "Casagrand Aquagrove Madhavaram, Chennai is New Launch project. Casagrand offers Apartments in Casagrand Aquagrove. Click for Project Price List, Map, Photos, Videos, Location Highlights & Nearby similar projects on 99acres.com.",
+    "detailPageUrl": "https://www.99acres.com/casagrand-aquagrove-madhavaram-chennai-north-npxid-r459201",
+    "productSchema": {
+     "sellers": [
+      "Home Konnect realty pvt ltd",
+      "Casagrand Builder Private Limited",
+      "THINK DIFFERENT VENTURES",
+      "MARUTHAM PROP CONSULTING PRIVATE LIMITED",
+      "Gobroker",
+      "BRICKTOPIA"
+     ],
+     "highPrice": 21479271,
+     "lowPrice": 10400000,
+     "name": "Casagrand Aquagrove",
+     "coverImageUrl": "https://newprojects.99acres.com/projects/casagrand/casagrand_kolathur/images/v591t5k_1779452870_763788034_med.jpg",
+     "brand": {
+      "name": "Casagrand Builder Private Limited",
+      "url": "https://builders.99acres.com/casagrand-builders-developers-bid-271"
+     },
+     "offerCount": "544"
+    }
+   },
+   "marketing": {
+    "availability": "New Launch",
+    "budgetMin": "10400000",
+    "budgetMax": "21479271",
+    "builderName": "Casagrand Builder Private Limited",
+    "businessSegment": "NP",
+    "cityId": "33",
+    "cityName": "Chennai North",
+    "currency": "INR",
+    "locality": "Madhavaram",
+    "localityName": "Madhavaram",
+    "minPrice": "10400000",
+    "maxPrice": "21479271",
+    "page": "XID",
+    "photo": "https://newprojects.99acres.com/projects/casagrand/casagrand_kolathur/images/v591t5k_1779452870_763788034_med.jpg",
+    "preference": "Buy",
+    "projId": "r459201",
+    "projName": "Casagrand Aquagrove",
+    "resCom": "R",
+    "sitetype": "d",
+    "transactType": "none",
+    "buildingId": "1247658",
+    "localityId": "469",
+    "constructionStatus": "NEW_LAUNCH",
+    "isNewLaunch": true,
+    "class": "none",
+    "propertyType": "Apartment",
+    "bedrooms": "2"
+   },
+   "charges": {
+    "heading": "Charges",
+    "govtCharges": {
+     "heading": "Government Charges",
+     "subHeading": "Standard across  Chennai North",
+     "disclaimer": "The views expressed above are for informational purposes only based on industry reports and related news stories. 99acres does not guarantee the accuracy, completeness, or reliability of the information and shall not be held responsible for any action taken based on the published information. In case of any variance between the information provided on this webpage what has been stated and what is contained in the relevant Act, Rules, Regulations, Policy Statements etc, the latter shall prevail",
+     "propertyValueDisclaimer": "Property Value is the value considered for property registration. It generally includes the sale value of the property and excludes taxes and other non-property charges, as applicable under state regulations.",
+     "truncationLimit": 220,
+     "eoi": {
+      "label": "Get a callback to know more",
+      "trackingSource": "GOVT_CHARGES.REQUEST_CALLBACK",
+      "type": "FULFILLMENT_RATIO",
+      "fillInDetailsForm": {
+       "heading": "Request for a callback",
+       "subHeading": "Fill in your details to request for a callback",
+       "ctaText": "Request for a callback"
+      }
+     },
+     "tuples": [
+      {
+       "title": "Stamp Duty",
+       "points": [
+        "7 % of the value, applicable to both Male and Female."
+       ]
+      },
+      {
+       "title": "Registration Charges",
+       "points": [
+        "3 % for Female",
+        "4 % for Male"
+       ]
+      }
+     ],
+     "statutoryChargesSubHeading": "Charges across Tamil Nadu",
+     "statutoryCharges": [
+      {
+       "type": "stampDuty",
+       "title": "Base Stamp Duty (% of property value*)",
+       "displayType": "GRID",
+       "gridData": [
+        [
+         "Ownership",
+         "Urban/Rural (Up to ₹50L)",
+         "Urban/Rural (₹50L - 3Cr)",
+         "Urban/Rural (₹3Cr+)"
+        ],
+        [
+         "All",
+         "4%",
+         "5%",
+         "7%"
+        ]
+       ],
+       "comments": [
+        "Stamp duty charges are applicable for Apartment/Villa properties",
+        "For Residential Plots Properties - 7% stamp duty is applicable",
+        "Applicable Transfer Duty (Property value Up to 50 Lacs) - 1.14% on property value (Included in Stamp Duty)",
+        "Applicable Transfer Duty (Property value from 50 Lacs to 3 Cr) - 1.43% on property value (Included in Stamp Duty)",
+        "Applicable Transfer Duty (Property value more than 3 Cr) - 2% on property value (Included in Stamp Duty)"
+       ]
+      },
+      {
+       "type": "registration",
+       "title": "Registration (% of property value*)",
+       "displayType": "TEXT",
+       "singleLineText": "2% for all buyers",
+       "comments": [
+        "1% registration concession for Female and Joint (F+F) combination if property value is less than Rs 10 lacs"
+       ]
+      },
+      {
+       "type": "gst",
+       "title": "GST",
+       "displayType": "TEXT",
+       "comments": [
+        "1% for property value up to ₹45 Lakh",
+        "5% for property value above ₹45 Lakh"
+       ]
+      }
+     ]
+    },
+    "eoi": {
+     "label": "Get a callback to know more",
+     "trackingSource": "CHARGES.REQUEST_CALLBACK",
+     "type": "FULFILLMENT_RATIO",
+     "fillInDetailsForm": {
+      "heading": "Request for a callback",
+      "subHeading": "Fill in your details to request for a callback",
+      "ctaText": "Request for a callback"
+     }
+    }
+   }
+  },
+  "projectId": "459201"
+ },
+ "global": {
+  "isPageLoaded": false,
+  "showLoginRegisterWidget": false,
+  "isMobile": false,
+  "visitorId": "4556941791361693915",
+  "sessionId": "",
+  "bannerExpire": false,
+  "platform": "web",
+  "isBocPackExpired": false,
+  "isShortlisted": false,
+  "workflow_id": "",
+  "isWebView": false,
+  "isNpsrpRevamp": false,
+  "isLighthouse": false,
+  "_99_ab": "7",
+  "pageName": "projectDetailV2",
+  "newRera": true,
+  "isRnPages": false,
+  "referer": "",
+  "isR2m": false,
+  "isCom": false,
+  "viewType": "REGULAR"
+ }
+}
