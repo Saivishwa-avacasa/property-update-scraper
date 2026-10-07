@@ -38,9 +38,12 @@ jobs:
           PYTHONUTF8: "1"
         run: |
           if [ -z "$DATABASE_URL" ]; then echo "::error::secret DATABASE_URL not set"; exit 1; fi
+          set +e
           python watchdog.py --hours "${{ github.event.inputs.hours || '24' }}" | tee report.txt
+          code=${PIPESTATUS[0]}
           echo '```' >> "$GITHUB_STEP_SUMMARY"; cat report.txt >> "$GITHUB_STEP_SUMMARY"; echo '```' >> "$GITHUB_STEP_SUMMARY"
-          exit "${PIPESTATUS[0]}"
+          if [ "$code" != "0" ]; then echo "::error::some states had no successful run - see the PROBLEMS list in the report"; fi
+          exit "$code"
 
   tests:
     if: github.event_name == 'push'
