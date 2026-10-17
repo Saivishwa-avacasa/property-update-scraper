@@ -8,10 +8,13 @@ It lives next to `E:\Scraper-for-RERA` and writes to the same database, so a
 
 ```
 99acers new updates/
-├── scrape_99acres.py      # CLI entry point (discover + details + DB)
+├── scrape_99acres.py      # 99acres CLI entry point (discover + details + DB)
+├── scrape_magicbricks.py  # Magicbricks MagicHomes CLI (see the section at the end)
+├── mb/                    # Magicbricks package: config, http, parse, db
 ├── watchdog.py            # daily report + health check, printed by GitHub Actions
-├── run_daily.cmd          # what Task Scheduler runs (git pull, then scrape)
-├── register_tasks.ps1     # creates the 5 scheduled tasks
+├── run_hidden.vbs         # what Task Scheduler runs (no console window)
+├── run_daily.cmd          # called by it: git pull, then scrape
+├── register_tasks.ps1     # creates the 5 daily tasks (+ optional full run)
 ├── schema.sql             # reference copy of the tables (created automatically)
 ├── acres/
 │   ├── config.py          # state ids, search URL, limits
@@ -99,15 +102,28 @@ Then schedule it:
 powershell -ExecutionPolicy Bypass -File .\register_tasks.ps1
 ```
 
-That creates five tasks (TN 10:00, KA 12:00, MH 14:00, GA 16:00, UK 17:00) that
-run `run_daily.cmd <STATE>`. Keep the PC on and your user logged in (locked is
-fine); the tasks catch up if a start was missed.
+That creates two daily tasks, both at **11:00**: "99acres New Launch - All
+states" (TN, KA, MH, GA, UK one after another, `run_hidden.vbs all`) and
+"Magicbricks MagicHomes - India" (`run_hidden.vbs mb IN`). They run side by side
+(separate locks), with no console window. Keep the PC on and your user logged
+in (locked is fine); a missed start runs as soon as the PC is on.
+
+A one-time **full run** of every state (all listing pages, every due project,
+no 60-per-state cap) is added with:
+
+```
+powershell -ExecutionPolicy Bypass -File .\register_tasks.ps1 -FullRunAt 22:20
+```
+
+Logs: `data\scheduler_all.log` (99acres), `data\scheduler_mb_IN.log`
+(Magicbricks), `data\run.log` and `data\mb_run.log`.
 
 ## Running by hand
 
 ```
 python scrape_99acres.py --state TN                  # discover + 60 details
 python scrape_99acres.py --state all --pause 120     # every state, 2 min apart
+python scrape_99acres.py --state all --full          # every page, every due project
 python scrape_99acres.py --state KA --discover-only  # only refresh the queue
 python scrape_99acres.py --state KA --details-only --max-details 150
 python scrape_99acres.py --state TN --no-db          # JSON files under data/TN/
@@ -118,7 +134,8 @@ python -m unittest discover -s tests -v              # offline tests
 
 Exit codes: `0` ok · `2` blocked by captcha (run `--warm-cookies`, or just wait
 for tomorrow) · `3` database error · `4` finished but some pages failed (they
-are retried next run, up to 3 attempts).
+are retried next run, up to 3 attempts) · `5` another run held the lock too
+long.
 
 ## What gets stored
 
@@ -153,8 +170,61 @@ Useful queries are at the bottom of `schema.sql`.
 - A project with no RERA block on 99acres (common for pre-launch Goa villas)
   is stored with `is_rera = false`; the RERA panel on such pages shows only a
   disclaimer.
-- If the captcha appears while nobody is at the PC and Chrome cannot pass it
-  automatically, the state is marked `blocked` for that run and the next day's
-  task tries again. Nothing is lost; the queue waits.
-- Requests are spaced 3–6.5 s apart. A full state day (≈10 listing pages + 60
-  details) takes about 6–8 minutes.
+- **Captcha.** 99acres sometimes shows a "Security checkup, tick the box"
+  reCAPTCHA. The scraper then opens a Chrome window in front of you, beeps
+  three times, and waits up to 10 minutes for you to tick the box and click
+  Proceed. After that it continues inside that Chrome, and the profile keeps
+  the cookie so the next runs usually go straight through. If nobody ticks the
+  box in time, the state is marked `blocked` for that run and the next day's
+  task tries again. Nothing is lost; the queue waits. Never close the Chrome
+  window or the hidden console yourself: that killed three runs in October.
+- To clear the captcha ahead of the schedule, run
+  `python scrape_99acres.py --warm-cookies`, tick the box, done.
+- Requests are spaced 5–10 s apart. A normal state day (≈10 listing pages + 60
+  details) takes about 10–15 minutes; a full run of all states takes hours.
+
+## Magicbricks MagicHomes (all India)
+
+A second scraper, `scrape_magicbricks.py` (package `mb/`), covers
+[Magicbricks MagicHomes](https://www.magicbricks.com/magichomes), "All 28,122
+Projects in India", and writes to the same database (`mb_*` tables).
+
+**How it works.** The MagicHomes page loads its project cards from a JSON
+endpoint (`/mbproject/newProjectCards?pageNo=N&magichome=Y`, 20 per page,
+~1,407 pages). Every day the scraper:
+
+1. **Walks the whole list** (~1 h). New projects are stored at once in
+   `mb_new_projects` with the list fields (name, city, locality, pincode,
+   builder, status, launch and possession dates, price range, price per sqft,
+   units, RERA flag). For known projects, yesterday's card is compared with
+   today's: changes to price, price per sqft, status, launch/possession date and
+   units go to `mb_change_history`. So all 28k projects are change-tracked daily.
+2. **Reads up to 1,500 project pages** (~1.5 h), never-read ones first, newest
+   launches first. The page's `window.SERVER_PRELOADED_STATE_` JSON gives the
+   full record: state, RERA number(s) with validity per phase, full address,
+   lat/long, unit plans, amenities, specifications, developer track record,
+   locality ratings and price trend, FAQs. Each page is re-read every 30 days.
+   The first pass over all 28k pages takes about 19 days (or one full run).
+
+No captcha and no Chrome: Magicbricks answers plain `curl_cffi` requests.
+Projects in TN, KA and MH are linked to `rera_projects` by RERA number
+(`rera_project_id`), using the state from the project page (`state_code`).
+
+Tables: `mb_new_projects` (one row per project, key `psmid`), `mb_change_history`,
+`mb_scrape_queue`, `mb_scrape_runs`. Queries 8-13 in
+[check_queries.sql](check_queries.sql); query 13 matches projects that appear on
+both sites by RERA number.
+
+```
+python scrape_magicbricks.py                         # daily: whole India list + 1,500 project pages
+python scrape_magicbricks.py --full                  # whole list + every due project page (~26 h)
+python scrape_magicbricks.py --discover-only         # only the list (daily change tracking)
+python scrape_magicbricks.py --max-pages 5 --max-details 10   # quick test
+python scrape_magicbricks.py --state GA              # one state's cities instead (mb/config.py)
+python scrape_magicbricks.py --url <project url> [--save]
+```
+
+Scheduled by `register_tasks.ps1`: task "Magicbricks MagicHomes - India" daily at
+11:00 (`run_daily.cmd mb IN`, log `data\scheduler_mb_IN.log`, about 2.5 h).
+A one-time full run: `-MbFullRunAt HH:mm`. The GitHub "daily report" shows
+Magicbricks in sections 6-9.

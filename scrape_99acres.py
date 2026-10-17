@@ -3,6 +3,7 @@
 
     python scrape_99acres.py --state TN                 # discover + up to 60 detail pages
     python scrape_99acres.py --state all                # all five states, one after another
+    python scrape_99acres.py --state all --full         # every listing page + every due project
     python scrape_99acres.py --state KA --discover-only # just refresh the queue
     python scrape_99acres.py --state KA --details-only --max-details 100
     python scrape_99acres.py --url https://www.99acres.com/...-npxid-r459201   # one project, print JSON
@@ -11,6 +12,7 @@
 
 Exit codes: 0 ok · 2 blocked by captcha (try again later / run --warm-cookies)
             3 database error · 4 finished but some detail pages failed
+            5 another run held the lock too long
 """
 import argparse
 import json
@@ -26,6 +28,7 @@ from acres import config, db  # noqa: E402
 from acres.discover import discover  # noqa: E402
 from acres.http import Site, Blocked, Gone  # noqa: E402
 from acres.parse import parse_project  # noqa: E402
+from acres.runlock import acquire_run_lock  # noqa: E402
 
 log = logging.getLogger("acres")
 
@@ -46,13 +49,39 @@ def _json_default(o):
 
 
 def run_state(site, conn, state_code, args):
+    """Runs one state and always records a row in acres_scrape_runs, even
+    when the process is interrupted (Ctrl+C, window closed) or crashes."""
     started = datetime.now(timezone.utc)
     counts = {"pages": 0, "discovered": 0, "new_in_queue": 0, "details": 0,
               "inserted": 0, "updated": 0, "unchanged": 0, "failed": 0, "blocked": False}
-    status = "ok"
-    error = None
+    outcome = {"status": "ok", "error": None}
+    try:
+        _run_state(site, conn, state_code, args, counts, outcome)
+    except KeyboardInterrupt:
+        outcome.update(status="failed", error="interrupted (Ctrl+C or window closed)")
+        raise
+    except Exception as e:
+        outcome.update(status="failed", error=repr(e))
+        raise
+    finally:
+        if outcome["status"] == "ok" and counts["failed"]:
+            outcome["status"] = "partial"
+        if conn is not None:
+            try:
+                db.record_run(conn, state_code, started, outcome["status"], counts, error=outcome["error"])
+            except Exception as e:
+                log.error("could not record run: %s", db.redact(e))
+        log.info("%s done: %s %s %s", state_code, outcome["status"], counts,
+                 f"browser-mode={site.browser_mode}")
+    return outcome["status"], counts
+
+
+def _run_state(site, conn, state_code, args, counts, outcome):
     out_dir = config.DATA_DIR / state_code
     tuples = []
+    # Each state starts on the fast path again. If the previous state passed
+    # the captcha in Chrome, its cookies are already in the curl session.
+    site.browser_mode = False
 
     # 1) discovery
     if not args.details_only:
@@ -68,10 +97,10 @@ def run_state(site, conn, state_code, args):
         log.info("%s discovery: %d projects on %d pages, %d new in queue",
                  state_code, len(tuples), meta["pages"], counts["new_in_queue"])
         if meta["blocked"] and not tuples:
-            status = "blocked"
+            outcome["status"] = "blocked"
 
     # 2) details
-    if not args.discover_only and status != "blocked":
+    if not args.discover_only and outcome["status"] != "blocked":
         if conn is not None:
             work = db.claim_due(conn, state_code, args.max_details)
         else:
@@ -100,8 +129,7 @@ def run_state(site, conn, state_code, args):
                     db.mark_failed(conn, item["project_id"], str(e), gone=True)
             except Blocked as e:
                 counts["blocked"] = True
-                status = "blocked"
-                error = str(e)
+                outcome.update(status="blocked", error=str(e))
                 log.error("  blocked, stopping %s for today: %s", state_code, e)
                 break
             except Exception as e:  # parse or DB error on one project
@@ -113,24 +141,18 @@ def run_state(site, conn, state_code, args):
                     except Exception as e2:
                         log.error("  could not mark failed: %s", db.redact(e2))
 
-    if status == "ok" and counts["failed"]:
-        status = "partial"
-    if conn is not None:
-        try:
-            db.record_run(conn, state_code, started, status, counts, error=error)
-        except Exception as e:
-            log.error("could not record run: %s", db.redact(e))
-    log.info("%s done: %s %s", state_code, status, counts)
-    return status, counts
-
 
 def main(argv=None):
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--state", default="all", help="TN, KA, MH, GA, UK, 'all', or comma list")
     ap.add_argument("--discover-only", action="store_true")
     ap.add_argument("--details-only", action="store_true")
-    ap.add_argument("--max-pages", type=int, default=config.MAX_LISTING_PAGES)
-    ap.add_argument("--max-details", type=int, default=config.MAX_DETAILS_PER_RUN)
+    ap.add_argument("--max-pages", type=int, default=None, help=f"default {config.MAX_LISTING_PAGES}")
+    ap.add_argument("--max-details", type=int, default=None, help=f"default {config.MAX_DETAILS_PER_RUN}")
+    ap.add_argument("--full", action="store_true",
+                    help="full run: every listing page and every due project (no 60-per-state cap)")
+    ap.add_argument("--lock-wait", type=int, default=240,
+                    help="minutes to wait for another running scraper before giving up (exit 5)")
     ap.add_argument("--broad", action="store_true", help="drop the keyword from the search URL (more results)")
     ap.add_argument("--pause", type=int, default=120, help="seconds between states when running several")
     ap.add_argument("--no-db", action="store_true", help="write JSON to data/ instead of the database")
@@ -140,7 +162,19 @@ def main(argv=None):
     ap.add_argument("--save", action="store_true", help="with --url: also write it to the database")
     ap.add_argument("-v", "--verbose", action="store_true")
     args = ap.parse_args(argv)
+    if args.max_pages is None:
+        args.max_pages = config.FULL_MAX_LISTING_PAGES if args.full else config.MAX_LISTING_PAGES
+    if args.max_details is None:
+        args.max_details = config.FULL_MAX_DETAILS if args.full else config.MAX_DETAILS_PER_RUN
     setup_logging(args.verbose)
+
+    lock = acquire_run_lock(args.lock_wait)
+    if lock is None:
+        log.error("another scraper run is still going after %d min - giving up", args.lock_wait)
+        return 5
+    if args.full:
+        log.info("FULL run: up to %d listing pages and %d detail pages per state",
+                 args.max_pages, args.max_details)
 
     site = Site(allow_browser=not args.no_browser)
 
@@ -168,6 +202,7 @@ def main(argv=None):
             log.error("%s", e)
             return 2
         rec = parse_project(data, args.url)
+        site.close()
         print(json.dumps(rec, indent=1, ensure_ascii=False, default=_json_default))
         if conn is not None:
             state = next((k for k, v in config.STATES.items() if v["name"] == rec.get("state")), "XX")
@@ -179,6 +214,18 @@ def main(argv=None):
     if unknown:
         ap.error(f"unknown state(s) {unknown}; choose from {list(config.STATES)}")
 
+    worst = 0
+    try:
+        worst = _run_states(site, conn, states, args)
+    except KeyboardInterrupt:
+        log.error("interrupted - stopping")
+        worst = 4
+    finally:
+        site.close()
+    return worst
+
+
+def _run_states(site, conn, states, args):
     worst = 0
     for i, state_code in enumerate(states):
         if i and args.pause:

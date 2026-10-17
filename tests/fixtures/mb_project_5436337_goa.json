@@ -1,0 +1,889 @@
+{
+ "projectDetailData": {
+  "prjMobileBean": {
+   "psmId": "5436337",
+   "encPsmid": "ET+8nEgqSpA=",
+   "msfpavl": "N",
+   "status": "1",
+   "pImgsCount": 15,
+   "pVidCount": 1,
+   "postingType": "U",
+   "projectImageSchema": "https://img.staticmb.com/mbimages/project/Photo_h310_w462/2025/09/05/Project-Photo-1-Mohidins-Mirage-Goa-5436337_410_1440_310_462.jpg",
+   "isActive": "Y",
+   "projectUrl": "mohidins-mirage-sancoale-goa-pdpid-4d4235343336333337",
+   "projectImages": [
+    {
+     "src": "https://img.staticmb.com/mbimages/project/Photo_h310_w462/2025/09/05/Project-Photo-1-Mohidins-Mirage-Goa-5436337_410_1440_310_462.jpg",
+     "title": "Mohidins Mirage photos 1",
+     "imgTilte": "Mohidins Mirage photos 1",
+     "caption": "Mohidins Mirage photos 1",
+     "id": null,
+     "aiCaption": null
+    },
+    {
+     "src": "https://img.staticmb.com/mbimages/project/Photo_h310_w462/2025/09/05/Project-Photo-15-Mohidins-Mirage-Goa-5436337_788_1180_310_462.jpg",
+     "title": "Mohidins Mirage photos 2",
+     "imgTilte": "Mohidins Mirage photos 2",
+     "caption": "Mohidins Mirage photos 2",
+     "id": null,
+     "aiCaption": null
+    },
+    {
+     "src": "https://img.staticmb.com/mbimages/project/Photo_h310_w462/2025/09/05/Project-Photo-14-Mohidins-Mirage-Goa-5436337_1135_1600_310_462.jpg",
+     "title": "Mohidins Mirage photos 3",
+     "imgTilte": "Mohidins Mirage photos 3",
+     "caption": "Mohidins Mirage photos 3",
+     "id": null,
+     "aiCaption": null
+    },
+    {
+     "src": "https://img.staticmb.com/mbimages/project/Photo_h310_w462/2025/09/05/Project-Photo-13-Mohidins-Mirage-Goa-5436337_1133_1600_310_462.jpg",
+     "title": "Mohidins Mirage photos 4",
+     "imgTilte": "Mohidins Mirage photos 4",
+     "caption": "Mohidins Mirage photos 4",
+     "id": null,
+     "aiCaption": null
+    },
+    {
+     "src": "https://img.staticmb.com/mbimages/project/Photo_h310_w462/2025/09/05/Project-Photo-12-Mohidins-Mirage-Goa-5436337_789_1220_310_462.jpg",
+     "title": "Mohidins Mirage photos 5",
+     "imgTilte": "Mohidins Mirage photos 5",
+     "caption": "Mohidins Mirage photos 5",
+     "id": null,
+     "aiCaption": null
+    },
+    {
+     "src": "https://img.staticmb.com/mbimages/project/Photo_h310_w462/2025/09/05/Project-Photo-11-Mohidins-Mirage-Goa-5436337_1131_1600_310_462.jpg",
+     "title": "Mohidins Mirage photos 6",
+     "imgTilte": "Mohidins Mirage photos 6",
+     "caption": "Mohidins Mirage photos 6",
+     "id": null,
+     "aiCaption": null
+    },
+    {
+     "src": "https://img.staticmb.com/mbimages/project/Photo_h310_w462/2025/09/05/Project-Photo-10-Mohidins-Mirage-Goa-5436337_1132_1600_310_462.jpg",
+     "title": "Mohidins Mirage photos 7",
+     "imgTilte": "Mohidins Mirage photos 7",
+     "caption": "Mohidins Mirage photos 7",
+     "id": null,
+     "aiCaption": null
+    },
+    {
+     "src": "https://img.staticmb.com/mbimages/project/Photo_h310_w462/2025/09/05/Project-Photo-9-Mohidins-Mirage-Goa-5436337_1132_1600_310_462.jpg",
+     "title": "Mohidins Mirage photos 8",
+     "imgTilte": "Mohidins Mirage photos 8",
+     "caption": "Mohidins Mirage photos 8",
+     "id": null,
+     "aiCaption": null
+    },
+    {
+     "src": "https://img.staticmb.com/mbimages/project/Photo_h310_w462/2025/09/05/Project-Photo-8-Mohidins-Mirage-Goa-5436337_822_1330_310_462.jpg",
+     "title": "Mohidins Mirage photos 9",
+     "imgTilte": "Mohidins Mirage photos 9",
+     "caption": "Mohidins Mirage photos 9",
+     "id": null,
+     "aiCaption": null
+    },
+    {
+     "src": "https://img.staticmb.com/mbimages/project/Photo_h310_w462/2025/09/05/Project-Photo-7-Mohidins-Mirage-Goa-5436337_768_1024_310_462.jpg",
+     "title": "Mohidins Mirage photos 10",
+     "imgTilte": "Mohidins Mirage photos 10",
+     "caption": "Mohidins Mirage photos 10",
+     "id": null,
+     "aiCaption": null
+    },
+    {
+     "src": "https://img.staticmb.com/mbimages/project/Photo_h310_w462/2025/09/05/Project-Photo-6-Mohidins-Mirage-Goa-5436337_702_1520_310_462.jpg",
+     "title": "Mohidins Mirage photos 11",
+     "imgTilte": "Mohidins Mirage photos 11",
+     "caption": "Mohidins Mirage photos 11",
+     "id": null,
+     "aiCaption": null
+    },
+    {
+     "src": "https://img.staticmb.com/mbimages/project/Photo_h310_w462/2025/09/05/Project-Photo-5-Mohidins-Mirage-Goa-5436337_563_1220_310_462.jpg",
+     "title": "Mohidins Mirage photos 12",
+     "imgTilte": "Mohidins Mirage photos 12",
+     "caption": "Mohidins Mirage photos 12",
+     "id": null,
+     "aiCaption": null
+    },
+    {
+     "src": "https://img.staticmb.com/mbimages/project/Photo_h310_w462/2025/09/05/Project-Photo-4-Mohidins-Mirage-Goa-5436337_1131_1600_310_462.jpg",
+     "title": "Mohidins Mirage photos 13",
+     "imgTilte": "Mohidins Mirage photos 13",
+     "caption": "Mohidins Mirage photos 13",
+     "id": null,
+     "aiCaption": null
+    },
+    {
+     "src": "https://img.staticmb.com/mbimages/project/Photo_h310_w462/2025/09/05/Project-Photo-3-Mohidins-Mirage-Goa-5436337_656_1420_310_462.jpg",
+     "title": "Mohidins Mirage photos 14",
+     "imgTilte": "Mohidins Mirage photos 14",
+     "caption": "Mohidins Mirage photos 14",
+     "id": null,
+     "aiCaption": null
+    },
+    {
+     "src": "https://img.staticmb.com/mbimages/project/Photo_h310_w462/2025/09/05/Project-Photo-2-Mohidins-Mirage-Goa-5436337_1200_1600_310_462.jpg",
+     "title": "Mohidins Mirage photos 15",
+     "imgTilte": "Mohidins Mirage photos 15",
+     "caption": "Mohidins Mirage photos 15",
+     "id": null,
+     "aiCaption": null
+    }
+   ],
+   "videoUploadDate": "2025-10-02T18:30:00.000Z",
+   "opsmname": "Mohidins Mirage",
+   "stateCode": "510",
+   "detailBean": {
+    "ad": "Plot no. E, Survey no. 89/1, Upasnagar, Sancoale, Goa",
+    "projArea": "7500 Sq-m",
+    "prjPossArea": null,
+    "numOfFloors": null,
+    "floorArea": null,
+    "floorAreaDesc": null,
+    "ownStruct": null,
+    "rate": null,
+    "coveredArea": null,
+    "propType": null,
+    "bedroom": null,
+    "floor": null,
+    "floors": "403726",
+    "area": "7500 Sq-m",
+    "launchDate": "Apr 2025",
+    "launchDateStr": "20250401",
+    "status": "Under Construction",
+    "possessionDate": null,
+    "possessionByDate": "Dec, 2028",
+    "towers": "1",
+    "units": "97",
+    "bankList": null,
+    "bankIdList": null,
+    "tabs": null,
+    "defaultTab": null,
+    "specifications": "AI_DATA <p> RCC </p><ul><li>The project uses M25/M30 grade ready mix concrete &amp; Fe 550D Grade Steel.</li><li>RCC columns and beam grid structure come with RCC slab in plywood finish shuttering.</li></ul><p> Masonry </p><ul><li>External walls use 25/30 cm AAC blocks.</li><li>Internal walls use 10 cm AAC blocks.</li></ul><p> External &amp; Internal Walls : Internal walls carry gypsum &amp; putti plaster.</p><p> Water Proofing : Extensive waterproofing covers all terrace areas, roof slab, sunk slabs, bathrooms and balconies.</p><p> Doors </p><ul><li>Teak wood frames come with digital door lock.</li><li>Shutters use marine quality flush door with polished veneer or laminated finish.</li></ul><p> Living Room : Internet point, ample power sockets and charging points run throughout.</p><p> Kitchen : Platform uses polished granite.</p><p> Electricals </p><ul><li>Fire resistant cables use wiring from:<ul><li>Finolex</li><li>Equivalent make</li></ul></li><li>Electrical switches come from:<ul><li>Legrand</li><li>Equivalent make</li></ul></li></ul><p> Toilets </p><ul><li>Marble/granite counter top wash basin.</li><li>W.C., sanitary fittings &amp; taps come from:<ul><li>Jaquar</li><li>Equivalent make</li></ul></li></ul><p> Flooring </p><ul><li>Vitrified tiles come from:<ul><li>RAK</li><li>Equivalent make</li></ul></li></ul><p> Windows </p><ul><li>Windows come in:<ul><li>Powder coated aluminum</li><li>UPVC</li></ul></li></ul><p> Paint </p><ul><li>External paint uses texture with:<ul><li>Apex Ultima</li><li>Equivalent make</li></ul></li><li>Internal paint uses:<ul><li>Royale Emulsion</li><li>Equivalent make</li></ul></li></ul><p> Power Back Up : 24/7 complete power back up with DG set supports all common areas and elevators.</p><p> Security : CCTV surveillance covers all outdoor common areas.</p><p> Elevators </p><ul><li>Elevators with power back up across the entire complex come from:<ul><li>Kone</li><li>Equivalent make</li></ul></li></ul>",
+    "prjConfig": "",
+    "rtSqft": null,
+    "totalAreaInAcres": null,
+    "projectUnitsDescription": null,
+    "contructionByInfo": null,
+    "areaTowerUnitInfo": null,
+    "startingUnitArea": null,
+    "maximumUnitArea": null,
+    "paymentPlan": null,
+    "neighbourInfo": null,
+    "luxurypPrjHighlights": null,
+    "luxuryPrjH": null,
+    "projectAdvantages": "AI_DATA <p>Designed for daily ease. Balconies, roof-top amenities, and EV-ready parking add comfort to a well-connected address.</p><p> USP: </p><ul><li>Balconies come with every unit.</li><li>Roof-top amenities at Mohidin's Altitude offer leisure above the bustle.</li><li>EV charging point serves each car parking slot in the basement.</li><li>Invertor provision comes with each apartment.</li><li>Ample car parking supports customers.</li></ul><p> Connectivity: </p><ul><li>The project has 100 mtr frontage on National Highway 566.</li><li>It sits on the primary access to Dabolim International Airport.</li></ul><p> Commercial Hubs: </p><ul><li>D'Mart: 1 km.</li><li>Upcoming Prestige Group Mall: 1 km.</li><li>Adjacency to D'Mart and upcoming mall by Prestige Group Bangalore helps engage shoppers.</li></ul><p> Social Infrastructure: </p><ul><li>IIULER Law College: 500 m.</li><li>Bhartiya Vidya Bhavan School: 100 m.</li><li>PNB Bank: 1 km.</li></ul>",
+    "prjWhyBuyThis": [
+     "AI_DATA <p>Designed for daily ease. Balconies, roof-top amenities, and EV-ready parking add comfort to a well-connected address.</p><p> USP: </p>Balconies come with every unit.",
+     "Roof-top amenities at Mohidin's Altitude offer leisure above the bustle.",
+     "EV charging point serves each car parking slot in the basement.",
+     "Invertor provision comes with each apartment.",
+     "Ample car parking supports customers.",
+     "<p> Connectivity: </p>The project has 100 mtr frontage on National Highway 566.",
+     "It sits on the primary access to Dabolim International Airport.",
+     "<p> Commercial Hubs: </p>D'Mart: 1 km.",
+     "Upcoming Prestige Group Mall: 1 km.",
+     "Adjacency to D'Mart and upcoming mall by Prestige Group Bangalore helps engage shoppers.",
+     "<p> Social Infrastructure: </p>IIULER Law College: 500 m.",
+     "Bhartiya Vidya Bhavan School: 100 m.",
+     "PNB Bank: 1 km."
+    ],
+    "hasAnyBuilderProperty": false,
+    "viewMoreLink": null,
+    "listingAmenityHighlight": null,
+    "floorPlanLink": null,
+    "luxProjAdv": null,
+    "locCityDet": null,
+    "paymentPlanName": null,
+    "prjiedevname": null,
+    "reraId": "PRGO05252471",
+    "isRera": "N",
+    "stateDesc": "Goa",
+    "seoTitle": " Mohidins Mirage in Sancoale, Goa | MagicBricks",
+    "seoMetaDesc": "View all Project Details of  Mohidins Mirage on MagicBricks.com. Mohidins Mirage, a project  in Sancoale, Goa.",
+    "reraIds": null,
+    "reraIdList": [
+     "PRGO05252471"
+    ],
+    "priceTrendDisplay": null,
+    "possdateStr": "Dec 2028",
+    "projectType": null,
+    "pincode": "403726",
+    "propertyTypeCode": null,
+    "projectVideoLink": null,
+    "projectLocVidLink": null,
+    "masterPlanLayout": "https://img.staticmb.com/mbimages/project/Photo_h310_w462/2025/09/05/Location-Plan-16-Mohidins-Mirage-Goa-5436337_1165_1350_310_462.jpg",
+    "brochurelink": "1757049416490Mohidin-Mirage-Digital-Brochure.pdf",
+    "allLocationImages": [
+     "2025/09/05/Location-Plan-16-Mohidins-Mirage-Goa-5436337_1165_1350.jpg"
+    ],
+    "positiveUSP": null,
+    "negativeUSP": null,
+    "ocObtained": null,
+    "ocDate": null,
+    "ccObtained": null,
+    "ccDate": null,
+    "fullAddress": "Plot no. E, Survey no. 89/1, Upasnagar, Sancoale, Goa",
+    "bankListMap": null,
+    "masterPlanImg": null,
+    "panelVidBean": null,
+    "topDevelopersInCity": null,
+    "newHomesPossStatus": "Under Construction",
+    "seoReraArchitechuralCertiPdfLink": null
+   },
+   "amenitiesList": [
+    {
+     "amenityName": "Jogging and Strolling Track",
+     "amenityImg": "https://cdn.staticmb.com/mobileImages/amenities/running.jpg",
+     "isUnique": "true",
+     "isExists": "true",
+     "amenityId": "12229",
+     "activeCount": null
+    },
+    {
+     "amenityName": "Arts & Craft Studio",
+     "amenityImg": null,
+     "isUnique": null,
+     "isExists": "true",
+     "amenityId": "1404106",
+     "activeCount": null
+    },
+    {
+     "amenityName": "Meditation Area",
+     "amenityImg": null,
+     "isUnique": null,
+     "isExists": "true",
+     "amenityId": "1404124",
+     "activeCount": null
+    },
+    {
+     "amenityName": "Kids play area",
+     "amenityImg": null,
+     "isUnique": null,
+     "isExists": "true",
+     "amenityId": "12581",
+     "activeCount": null
+    },
+    {
+     "amenityName": "Library",
+     "amenityImg": null,
+     "isUnique": null,
+     "isExists": "true",
+     "amenityId": "12583",
+     "activeCount": null
+    },
+    {
+     "amenityName": "Power Back Up",
+     "amenityImg": "https://cdn.staticmb.com/mobileImages/amenities/power_backup.jpg",
+     "isUnique": null,
+     "isExists": "false",
+     "amenityId": "12201",
+     "activeCount": null
+    },
+    {
+     "amenityName": "Swimming Pool",
+     "amenityImg": "https://cdn.staticmb.com/mobileImages/amenities/swimming_pool.jpg",
+     "isUnique": null,
+     "isExists": "false",
+     "amenityId": "12205",
+     "activeCount": null
+    },
+    {
+     "amenityName": "Club House",
+     "amenityImg": "https://cdn.staticmb.com/mobileImages/amenities/club_house.jpg",
+     "isUnique": null,
+     "isExists": "false",
+     "amenityId": "12204",
+     "activeCount": null
+    },
+    {
+     "amenityName": "Lift",
+     "amenityImg": "https://cdn.staticmb.com/mobileImages/amenities/lift.jpg",
+     "isUnique": null,
+     "isExists": "false",
+     "amenityId": "12202",
+     "activeCount": null
+    },
+    {
+     "amenityName": "Security",
+     "amenityImg": "https://cdn.staticmb.com/mobileImages/amenities/security.jpg",
+     "isUnique": null,
+     "isExists": "false",
+     "amenityId": "12209",
+     "activeCount": null
+    },
+    {
+     "amenityName": "Reserved Parking",
+     "amenityImg": "https://cdn.staticmb.com/mobileImages/amenities/reserved_parking.jpg",
+     "isUnique": null,
+     "isExists": "false",
+     "amenityId": "12208",
+     "activeCount": null
+    },
+    {
+     "amenityName": "Visitor Parking",
+     "amenityImg": "https://cdn.staticmb.com/mobileImages/amenities/visitor_parking.jpg",
+     "isUnique": null,
+     "isExists": "false",
+     "amenityId": "12216",
+     "activeCount": null
+    },
+    {
+     "amenityName": "Intercom Facility",
+     "amenityImg": "https://cdn.staticmb.com/mobileImages/amenities/intercom.jpg",
+     "isUnique": null,
+     "isExists": "false",
+     "amenityId": "12217",
+     "activeCount": null
+    },
+    {
+     "amenityName": "Maintenance Staff",
+     "amenityImg": "https://cdn.staticmb.com/mobileImages/amenities/maintainance_staff.jpg",
+     "isUnique": null,
+     "isExists": "false",
+     "amenityId": "12218",
+     "activeCount": null
+    },
+    {
+     "amenityName": "Bank & ATM",
+     "amenityImg": null,
+     "isUnique": null,
+     "isExists": "false",
+     "amenityId": "1404110",
+     "activeCount": null
+    },
+    {
+     "amenityName": "Gymnasium",
+     "amenityImg": "https://cdn.staticmb.com/mobileImages/amenities/gym.jpg",
+     "isUnique": null,
+     "isExists": "false",
+     "amenityId": "12206",
+     "activeCount": null
+    },
+    {
+     "amenityName": "Indoor Games Room",
+     "amenityImg": null,
+     "isUnique": null,
+     "isExists": "false",
+     "amenityId": "1404117",
+     "activeCount": null
+    },
+    {
+     "amenityName": "Kids Club",
+     "amenityImg": null,
+     "isUnique": null,
+     "isExists": "false",
+     "amenityId": "1404120",
+     "activeCount": null
+    }
+   ],
+   "infoBean": {
+    "image": "https://img.staticmb.com/mbimages/project/Photo_h470_w1080/2025/09/05/Project-Photo-1-Mohidins-Mirage-Goa-5436337_410_1440_470_1080.jpg",
+    "projectName": "Mohidins Mirage",
+    "devName": "Mohidin Properties And Holdings",
+    "price": "6.8 Lac - 1.04 Cr",
+    "maxPrice": 10498243,
+    "minPrice": 680214,
+    "localityName": "Sancoale",
+    "lmtDName": "Sancoale",
+    "localityId": "87930",
+    "cityName": "Goa",
+    "cityId": "2669",
+    "psmLatitude": "15.386429",
+    "psmLongitude": "73.879262",
+    "hasLatLon": "Y",
+    "dealDesc": null,
+    "revVideoLink": "https://www.youtube.com/embed/-yqsL_oWCR8",
+    "revVideoDesc": null,
+    "schemaPriceMin": "680214",
+    "schemaPriceMax": "10498243",
+    "psmCndPropTypes": "10352",
+    "minRentPrice": null,
+    "maxRentPrice": null,
+    "minSalePrice": null,
+    "maxSalePrice": null,
+    "minPriceDesc": null,
+    "maxPriceDesc": null,
+    "psmLastModiDate": "10 September 2026",
+    "keyValueChange": "[{\"22388\":{\"dateChanged\":\"Sep 10, 2026\",\"new\":\"0\",\"old\":\"6\"}},{\"22390\":{\"dateChanged\":\"Sep 10, 2026\",\"new\":\"0\",\"old\":\"99\"}},{\"22382\":{\"dateChanged\":\"Sep 10, 2026\",\"new\":\"0\",\"old\":\"6\"}},{\"22381\":{\"dateChanged\":\"Sep 8, 2026\",\"new\":\"7234000.0-1.0392E7\",\"old\":\"7234000.0-7310380.0\"}},{\"22389\":{\"dateChanged\":\"Dec 23, 2025\",\"new\":\"0\"}},{\"22386\":{\"dateChanged\":\"Dec 23, 2025\",\"new\":\"10066\"}},{\"22387\":{\"dateChanged\":\"Dec 23, 2025\",\"new\":\"Activity : PSM Created\\u003cbr\\u003e\\u003cbr\\u003eLocality-Sancoale (Added)\\u003cbr\\u003ePSM Name-Mohidins Mirage (Added)\\u003cbr\\u003eDeveloper Name-Mohidin Properties And Holdings (Added)\\u003cbr\\u003eLaunch Date-01-04-2025 (Added)\\u003cbr\\u003ePossession Date-01-12-2028 (Added)\\u003cbr\\u003eProject Area-7500 (Added)\\u003cbr\\u003eNo. Of Units-97 (Added)\\u003cbr\\u003eAddress-Plot no. E, Survey no. 89/1, Upasnagar, Sancoale, Goa (Added)\\u003cbr\\u003e\"}},{\"22383\":{\"dateChanged\":\"Sep 22, 2025\",\"old\":\"6\"}}]",
+    "reraValidity": "[PRGO05252471|12/2030|Phase1]"
+   },
+   "projectDescription": {
+    "projectId": "5436337",
+    "readMoreFlag": null,
+    "shortDesc": null,
+    "fullDesc": "Mohidins Mirage is a Under Construction project by Mohidin Properties And Holdings in Sancoale Goa, offering 1,2 BHK Flats configuration. Below are the key details of Mohidins Mirage. <div itemscope itemtype=\"https://schema.org/Table\"> <table><tbody><tr><td>Mohidins Mirage Price</td><td>Rs. 6.8 Lac - 1.04 Cr</td></tr><tr><td>Property Types</td><td>1,2 BHK Flats</td></tr><tr><td>Mohidins Mirage Status</td><td>Under Construction</td></tr><tr><td>Mohidins Mirage Launch Date</td><td>01 April 2025</td></tr><tr><td>Mohidins Mirage Possession Date</td><td>01 December 2028</td></tr><tr><td>Towers in Mohidins Mirage</td><td>1</td></tr></tbody></table> </div>Mohidins Mirage is a renowned project in Sancoale, Goa, which offers homes within the price range of Rs. 6.8 Lac - 1.04 Cr. The premium project is developed by Mohidin Properties And Holdings, a leading and trusted name in the real estate sector. The current construction status of the project is Under Construction. The project spans across 7500 Sq-m. There are in total 97 units in this project.<br><br>The project offers residential 1 towers. The project’s official launch date was recorded as April 2025.The possession of Mohidins Mirage starts from December 2028.  The site's exact address is Plot no. E, Survey no. 89/1, Upasnagar, Sancoale, Goa. The pin code of this project is 403726.  <div itemscope itemtype=\"https://schema.org/Table\"><h3 itemprop=\"name\">Mohidins Mirage Floor Plan </h3>  <table><thead><tr><th scope=\"col\">Unit Configuration</th><th scope=\"col\">Unit Size</th></tr></thead><tbody><tr><td>Mohidins Mirage 1 BHK Flat</td><td>883 Sq. Ft. </td></tr><tr><td>Mohidins Mirage 1 BHK Flat</td><td>83 Sq. Ft. </td></tr><tr><td>Mohidins Mirage 2 BHK Flat</td><td>112 Sq. Ft. </td></tr><tr><td>Mohidins Mirage 2 BHK Flat</td><td>1281 Sq. Ft. </td></tr></tbody></table> </div>The floor plan is a useful document that gives a realistic idea of the space covered, room sizes and the layout of the house. The units in Mohidins Mirage come in a choice of 12 types of floor plans as per the 6 configurations. Well-appointed bathrooms and balconies with a view are part of these units. Magicbricks enumerates different configurations of Mohidins Mirage across a range of unit sizes.<br><br><h3>Mohidins Mirage Brochure </h3> Download the PDF brochure of Mohidins Mirage and get the complete details of this beautifully constructed project. The brochure can be viewed at the top right side of the page under the link 'Download Brochure'. You will need to fill in your contact details as name, number and email ID to be able to view the PDF brochure of Mohidins Mirage.<br><br>"
+   },
+   "projectSpecificationList": {
+    "flooringDetail": {},
+    "fittingDetail": {},
+    "wallsDetail": {}
+   },
+   "projectDeveloperList": {
+    "developerName": "Mohidin Properties And Holdings",
+    "developerExp": 20,
+    "projectCount": 0,
+    "readMoreFlag": null,
+    "shortDesc": null,
+    "fullDesc": "Mohidin Properties And Holdings - A division of the renowned Mohidin Group has always believed that the living space is an extension of ones own inner life. To materialise the dreams of our clients, we give attention to every details of the interior and exterior space. We have a dedicated team of architects and interior designers to merge the need of our clients with the plan, furniture, floor, kitchen space, etc. By applying our minds and energy we turn ordinary living spaces into modern, contempropry and innovative spaces. No wonder that Mohidin Properties And Holdings emphasis on changing living into an experience. The experience in Real Estate industry have helped us formulate and comprehend the concept of a home. A home is not just a house, but an expression of ones individuality, a home has a soul, a character and a personality all of its own. Needless to say, we give utmost importance in implementing this concept and focus meticulosly on every detail and the clients needs. Quality, Economy and Comfort are the factors that we rely on to achieve the needs of our clients.",
+    "sinceInfo": "20",
+    "logo": "https://img.staticmb.com/mbimages/photo_dir/developer/original_images/79927/Mohidin-Properties-And-Holdings-1564034017746-Mohidin-Properties.png",
+    "builderUrl": "mohidin-properties-and-holdings-buid-4d423739393237",
+    "devTotalProj": "3",
+    "devCompProj": "1",
+    "devOngoingProj": "2",
+    "devCities": [
+     "Goa"
+    ],
+    "devCityIds": "2669",
+    "devCorpAddress": null,
+    "devUnderCnstProj": "2"
+   },
+   "devid": "79927",
+   "ratingBean": {
+    "waterRt": 0,
+    "electricityRt": 0,
+    "backupRt": 0,
+    "sewageRt": 0,
+    "sportsRt": 0,
+    "parkingRt": 0,
+    "gardenRt": 0,
+    "shopsRt": 0,
+    "constQualityRt": 0,
+    "maintenanceRt": 0,
+    "staffRt": 0,
+    "securityRt": 0,
+    "psmAvgRt": 0,
+    "prjMaintainanceRt": 0,
+    "prjInfraRt": 0,
+    "prjAmenityRt": 0,
+    "totalReview": null,
+    "totalRating": "0"
+   },
+   "contact": {
+    "contactId": "897867",
+    "contactType": "project",
+    "contactButton": "Builder",
+    "searchType": "5"
+   },
+   "allImgCount": 21,
+   "activeAmentiesCount": 5,
+   "amenitesText": "There are some unique facilities such as Jogging and Strolling Track,Arts & Craft Studio,Meditation Area present in Mohidins Mirage compared to other projects present in Sancoale.",
+   "lud": "05 Sep 25",
+   "ogImage": "https://img.youtube.com/vi_webp/-yqsL_oWCR8/hqdefault.webp"
+  },
+  "npsPopUpTime": "240000",
+  "npsDisplayFrequencyDays": "90",
+  "npsTargetUserPercentage": "5",
+  "isDbFallback": false,
+  "title": " Mohidins Mirage in Sancoale, Goa | MagicBricks",
+  "keyword": " Mohidins Mirage Project,  Housing Project,  Mohidins Mirage Project Sancoale,  Mohidins Mirage Residential Project,  Project Goa, Mohidins Mirage Housing Project",
+  "description": "View all Project Details of  Mohidins Mirage on MagicBricks.com. Mohidins Mirage, a project  in Sancoale, Goa.",
+  "projectSeoMap": {
+   "b": {},
+   "r": {},
+   "b_redirectUrls": {},
+   "r_redirectUrls": {},
+   "quickLinks": {
+    "Mohidins Mirage Amenities": "mohidins-mirage-amenities-sancoale-goa-pdpid-4d4235343336333337",
+    "Mohidins Mirage Brochure": "mohidins-mirage-brochure-sancoale-goa-pdpid-4d4235343336333337",
+    "Mohidins Mirage Location": "mohidins-mirage-location-sancoale-goa-pdpid-4d4235343336333337",
+    "Mohidins Mirage Floor Plan": "mohidins-mirage-floor-plan-sancoale-goa-pdpid-4d4235343336333337",
+    "Mohidins Mirage Photos Videos": "mohidins-mirage-photo-videos-sancoale-goa-pdpid-4d4235343336333337"
+   }
+  },
+  "isProjectPaidClient": false,
+  "galleryData": {
+   "Videos": {
+    "https://www.youtube.com/embed/-yqsL_oWCR8": "Project Video",
+    "totalCount": "1"
+   },
+   "Project Photos": {
+    "https://img.staticmb.com/mbimages/project/2025/09/05/Project-Photo-1-Mohidins-Mirage-Goa-5436337_410_1440.jpg": "$projectName photos 1",
+    "https://img.staticmb.com/mbimages/project/2025/09/05/Project-Photo-15-Mohidins-Mirage-Goa-5436337_788_1180.jpg": "$projectName photos 2",
+    "https://img.staticmb.com/mbimages/project/2025/09/05/Project-Photo-14-Mohidins-Mirage-Goa-5436337_1135_1600.jpg": "$projectName photos 3",
+    "https://img.staticmb.com/mbimages/project/2025/09/05/Project-Photo-13-Mohidins-Mirage-Goa-5436337_1133_1600.jpg": "$projectName photos 4",
+    "https://img.staticmb.com/mbimages/project/2025/09/05/Project-Photo-12-Mohidins-Mirage-Goa-5436337_789_1220.jpg": "$projectName photos 5",
+    "https://img.staticmb.com/mbimages/project/2025/09/05/Project-Photo-11-Mohidins-Mirage-Goa-5436337_1131_1600.jpg": "$projectName photos 6",
+    "https://img.staticmb.com/mbimages/project/2025/09/05/Project-Photo-10-Mohidins-Mirage-Goa-5436337_1132_1600.jpg": "$projectName photos 7",
+    "https://img.staticmb.com/mbimages/project/2025/09/05/Project-Photo-9-Mohidins-Mirage-Goa-5436337_1132_1600.jpg": "$projectName photos 8",
+    "https://img.staticmb.com/mbimages/project/2025/09/05/Project-Photo-8-Mohidins-Mirage-Goa-5436337_822_1330.jpg": "$projectName photos 9",
+    "https://img.staticmb.com/mbimages/project/2025/09/05/Project-Photo-7-Mohidins-Mirage-Goa-5436337_768_1024.jpg": "$projectName photos 10",
+    "https://img.staticmb.com/mbimages/project/2025/09/05/Project-Photo-6-Mohidins-Mirage-Goa-5436337_702_1520.jpg": "$projectName photos 11",
+    "https://img.staticmb.com/mbimages/project/2025/09/05/Project-Photo-5-Mohidins-Mirage-Goa-5436337_563_1220.jpg": "$projectName photos 12",
+    "https://img.staticmb.com/mbimages/project/2025/09/05/Project-Photo-4-Mohidins-Mirage-Goa-5436337_1131_1600.jpg": "$projectName photos 13",
+    "https://img.staticmb.com/mbimages/project/2025/09/05/Project-Photo-3-Mohidins-Mirage-Goa-5436337_656_1420.jpg": "$projectName photos 14",
+    "https://img.staticmb.com/mbimages/project/2025/09/05/Project-Photo-2-Mohidins-Mirage-Goa-5436337_1200_1600.jpg": "$projectName photos 15",
+    "totalCount": "15"
+   },
+   "Master Plan": {
+    "https://img.staticmb.com/mbimages/project/2025/09/05/Location-Plan-16-Mohidins-Mirage-Goa-5436337_1165_1350.jpg": "$projectName layout plan 1",
+    "totalCount": "1"
+   },
+   "Location Plan": {
+    "https://img.staticmb.com/mbimages/project/2025/09/05/Location-Plan-16-Mohidins-Mirage-Goa-5436337_1165_1350.jpg": "$projectName floor plan 2",
+    "totalCount": "1"
+   },
+   "Floor Plan": {
+    "https://img.staticmb.com/mbimages/project/2025/09/05/Floor-Plan-20-Mohidins-Mirage-Goa-5436337_900_1200.jpg": "$projectName floor plan 3",
+    "https://img.staticmb.com/mbimages/project/2025/09/05/Floor-Plan-19-Mohidins-Mirage-Goa-5436337_900_1200.jpg": "$projectName floor plan 4",
+    "https://img.staticmb.com/mbimages/project/2025/09/05/Floor-Plan-18-Mohidins-Mirage-Goa-5436337_600_800.jpg": "$projectName floor plan 5",
+    "https://img.staticmb.com/mbimages/project/2025/09/05/Floor-Plan-17-Mohidins-Mirage-Goa-5436337_600_800.jpg": "$projectName floor plan 6",
+    "totalCount": "4"
+   }
+  },
+  "projectRank": {},
+  "totalPrjCount": 141,
+  "fallBackGalleryData": [
+   "https://www.youtube.com/embed/-yqsL_oWCR8",
+   "https://img.staticmb.com/mbimages/project/2025/09/05/Project-Photo-1-Mohidins-Mirage-Goa-5436337_410_1440.jpg",
+   "https://img.staticmb.com/mbimages/project/2025/09/05/Project-Photo-15-Mohidins-Mirage-Goa-5436337_788_1180.jpg",
+   "https://img.staticmb.com/mbimages/project/2025/09/05/Project-Photo-14-Mohidins-Mirage-Goa-5436337_1135_1600.jpg",
+   "https://img.staticmb.com/mbimages/project/2025/09/05/Project-Photo-13-Mohidins-Mirage-Goa-5436337_1133_1600.jpg",
+   "https://img.staticmb.com/mbimages/project/2025/09/05/Project-Photo-12-Mohidins-Mirage-Goa-5436337_789_1220.jpg"
+  ],
+  "fallBackGalleryDataMap": [
+   {
+    "key": null,
+    "url": "https://www.youtube.com/embed/-yqsL_oWCR8"
+   },
+   {
+    "key": null,
+    "url": "https://img.staticmb.com/mbimages/project/2025/09/05/Project-Photo-1-Mohidins-Mirage-Goa-5436337_410_1440.jpg"
+   },
+   {
+    "key": null,
+    "url": "https://img.staticmb.com/mbimages/project/2025/09/05/Project-Photo-15-Mohidins-Mirage-Goa-5436337_788_1180.jpg"
+   },
+   {
+    "key": null,
+    "url": "https://img.staticmb.com/mbimages/project/2025/09/05/Project-Photo-14-Mohidins-Mirage-Goa-5436337_1135_1600.jpg"
+   },
+   {
+    "key": null,
+    "url": "https://img.staticmb.com/mbimages/project/2025/09/05/Project-Photo-13-Mohidins-Mirage-Goa-5436337_1133_1600.jpg"
+   },
+   {
+    "key": null,
+    "url": "https://img.staticmb.com/mbimages/project/2025/09/05/Project-Photo-12-Mohidins-Mirage-Goa-5436337_789_1220.jpg"
+   }
+  ],
+  "mUnitInfo": "1 , 10002 , 883  Sq-ft  | 1 , 10002 , 83  Sq-ft  | 2 , 10002 , 1281  Sq-ft  | 2 , 10002 , 112  Sq-ft ",
+  "reraUrl": "mohidins-mirage-rera-details-nprid-4d4235343336333337",
+  "propCt": 0,
+  "pdpReraUrl": "https://rera.goa.gov.in/",
+  "isReraAvl": "Y",
+  "isPrelaunch": "N",
+  "isBlacklisted": "N",
+  "reraUpDt": "03 Oct'25",
+  "availableUnits": "0",
+  "contactDetails": {
+   "userType": "builder",
+   "oid": "9162553",
+   "prjid": "897867",
+   "sid": "",
+   "siteVisit": "N",
+   "dummyProject": "N",
+   "qualityPack": "N"
+  },
+  "popularityRank": {
+   "data": {
+    "total": 4,
+    "rank": {
+     "psmid": "5436337",
+     "psmName": "Mohidins Mirage",
+     "psmDRanking": 1
+    }
+   }
+  }
+ },
+ "projectPageSeoStaticData": {
+  "pdpFAQs": {
+   "qaList": [
+    {
+     "What is the size of Mohidins Mirage?": "Mohidins Mirage is spread over an area of 7500 acres, the project is located in the Sancoale locality. "
+    },
+    {
+     "How many units are in Mohidins Mirage?": "Mohidins Mirage has a total of 97 units."
+    },
+    {
+     "What are other residential projects near Mohidins Mirage?": "<a href='https://www.magicbricks.com/umiya-habitat-sancoale-goa-pdpid-4d4235313031383435' target='_blank'>Umiya Habitat</a>, <a href='https://www.magicbricks.com/akar-heights-sancoale-goa-pdpid-4d4235313230343035' target='_blank'>Akar Heights</a>, <a href='https://www.magicbricks.com/queeny-visions-sancoale-goa-pdpid-4d4235323834343235' target='_blank'>Queeny Visions</a>, <a href='https://www.magicbricks.com/salarpuria-sattva-waters-edge-sancoale-goa-pdpid-4d4235303138343938' target='_blank'>Salarpuria Sattva Waters Edge</a> and <a href='https://www.magicbricks.com/estilo-patio-sancoale-goa-pdpid-4d4235303932323836' target='_blank'>Estilo Patio</a> are other popular residential projects near Mohidins Mirage.\r\n"
+    },
+    {
+     "Where can I download the brochure PDF of Mohidins Mirage from?\r\n": "You can <a class='srp_qna_list' href='https://www.magicbricks.com/mohidins-mirage-sancoale-goa-pdpid-4d4235343336333337#nav-overview' target='_blank'>download the brochure of Mohidins Mirage</a> visiting the Project page. "
+    },
+    {
+     "Which are other commercial projects by Mohidin Properties And Holdings in Goa?": "Major commercial projects by Mohidin Properties And Holdings in Goa are <a href='https://www.magicbricks.com/mohidins-regina-vasco-da-gama-goa-pdpid-4d4235303938353931' target='_blank'>Mohidins Regina</a> and <a href='https://www.magicbricks.com/mohidins-iconia-dabolim-goa-pdpid-4d4235303938353131' target='_blank'>Mohidins Iconia</a>."
+    },
+    {
+     "What is the address of Mohidins Mirage?": "The address of Mohidins Mirage is Mohidins Mirage, Plot no. E, Survey no. 89/1, Upasnagar, Sancoale, Goa, 403726."
+    },
+    {
+     "What is the area pin code of Mohidins Mirage?": "The pin code for Mohidins Mirage in Sancoale, Goa is 403726."
+    },
+    {
+     "Where is Mohidins Mirage in Goa?": "Mohidins Mirage is located in the Plot no. E, Survey no. 89/1, Upasnagar, Sancoale, Goa.  This project is very well connected to the major transportation routes &  highways."
+    },
+    {
+     "How many towers in Mohidins Mirage?": "Mohidins Mirage has a total of 1 towers in different unit configurations."
+    },
+    {
+     "What is the RERA number of Mohidins Mirage?": "The RERA number of Mohidins Mirage is PRGO05252471. You can easily find it on RERA official website."
+    },
+    {
+     "What is the total area of Mohidins Mirage?": "Mohidins Mirage in Goa spans a total area of 7500 acres."
+    }
+   ],
+   "qaListNoSchema": []
+  },
+  "projectReviews": {
+   "resultList": [],
+   "count": "0",
+   "pageCount": null,
+   "starWiseRatingMap": {}
+  },
+  "localityDetailsBean": {
+   "localityDetailDTO": {
+    "locName": "Sancoale",
+    "cityName": "Goa",
+    "locRank": "36",
+    "totalLoc": "227",
+    "cityId": "2669",
+    "locId": "87930",
+    "reviewCount": "1",
+    "ratingAvgCount": 4.3,
+    "ratingCount": 117,
+    "locAvgNew": 4.3,
+    "ratingUsersCount": 10,
+    "quarterPrice": {
+     "currentQuarterPrice": 6364,
+     "prevQuarterPrice": 8296
+    },
+    "percentageQuarterGrowth": -23.3,
+    "localityFactoidBean": [
+     {
+      "catId": "19202",
+      "catDesc": "Educational Institute",
+      "name": [
+       "Mount Litera"
+      ],
+      "priority": 1,
+      "eachCategoryFactoidList": [
+       {
+        "distanceFromProject": "1.3",
+        "latitude": "15.3946483",
+        "name": "Mount Litera",
+        "longitude": "73.8787653"
+       }
+      ]
+     },
+     {
+      "catId": null,
+      "catDesc": "Nearby Localities",
+      "name": [
+       "Jairam Nagar, Goa",
+       "Vasco – Nsd – Panjim Bypass Road, Goa",
+       "Cortalim, Goa",
+       "Velsao, Goa",
+       "Vidhyanagar Colony, Goa"
+      ],
+      "priority": 4,
+      "eachCategoryFactoidList": [
+       {
+        "distanceFromProject": "4.0",
+        "latitude": "15.395804",
+        "name": "Jairam Nagar, Goa",
+        "longitude": "73.85435"
+       },
+       {
+        "distanceFromProject": "3.2",
+        "latitude": "15.397149",
+        "name": "Vasco – Nsd – Panjim Bypass Road, Goa",
+        "longitude": "73.86074"
+       },
+       {
+        "distanceFromProject": "5.2",
+        "latitude": "15.4005",
+        "name": "Cortalim, Goa",
+        "longitude": "73.91083"
+       },
+       {
+        "distanceFromProject": "5.6",
+        "latitude": "15.354848",
+        "name": "Velsao, Goa",
+        "longitude": "73.89666"
+       },
+       {
+        "distanceFromProject": "2.8",
+        "latitude": "15.393748",
+        "name": "Vidhyanagar Colony, Goa",
+        "longitude": "73.86198"
+       }
+      ]
+     }
+    ],
+    "seoname": "Sancoale",
+    "videoUrls": "",
+    "roadRating": 4.2,
+    "neighbourRating": 4.3,
+    "safetyRating": 4.4,
+    "cleanRating": 4.3,
+    "transportRating": 3.8,
+    "parkingRating": 4.4,
+    "connectivityRating": 4.2,
+    "trafficRating": 4.3,
+    "schoolRating": 4.3,
+    "restuarantRating": 4.3,
+    "hospitalRating": 4,
+    "marketRating": 4.3,
+    "environment": 4.3,
+    "commuting": 4.2,
+    "placeOfInterest": 4.2,
+    "images": {},
+    "localityMapImage": "2021/Dec/24/87930_MAP.png"
+   }
+  },
+  "pdpUnitPricing": {
+   "All": [
+    {
+     "psmid": "5436337",
+     "unitBath": "12001",
+     "unitBal": "14203",
+     "unitFlrPlanImg": "2025/09/05/Floor-Plan-20-Mohidins-Mirage-Goa-5436337_900_1200.jpg",
+     "minArea": 112,
+     "ty": "10002",
+     "bd": "11701",
+     "bhkType": "2 BHK",
+     "planImgUrl": "https://img.staticmb.com/mbimages/project/2025/09/05/Floor-Plan-20-Mohidins-Mirage-Goa-5436337_900_1200.jpg",
+     "bathroom": "2",
+     "balcony": "4",
+     "minRentPriceD": null,
+     "maxRentPriceD": null
+    },
+    {
+     "psmid": "5436337",
+     "unitBath": "12001",
+     "unitBal": "14202",
+     "unitFlrPlanImg": "2025/09/05/Floor-Plan-19-Mohidins-Mirage-Goa-5436337_900_1200.jpg",
+     "minArea": 1281,
+     "ty": "10002",
+     "bd": "11701",
+     "bhkType": "2 BHK",
+     "planImgUrl": "https://img.staticmb.com/mbimages/project/2025/09/05/Floor-Plan-19-Mohidins-Mirage-Goa-5436337_900_1200.jpg",
+     "bathroom": "2",
+     "balcony": "3",
+     "minRentPriceD": null,
+     "maxRentPriceD": null
+    },
+    {
+     "psmid": "5436337",
+     "unitBath": "12000",
+     "unitBal": "14200",
+     "unitFlrPlanImg": "2025/09/05/Floor-Plan-18-Mohidins-Mirage-Goa-5436337_600_800.jpg",
+     "minArea": 83,
+     "ty": "10002",
+     "bd": "11700",
+     "bhkType": "1 BHK",
+     "planImgUrl": "https://img.staticmb.com/mbimages/project/2025/09/05/Floor-Plan-18-Mohidins-Mirage-Goa-5436337_600_800.jpg",
+     "bathroom": "1",
+     "balcony": "1",
+     "minRentPriceD": null,
+     "maxRentPriceD": null
+    },
+    {
+     "psmid": "5436337",
+     "unitBath": "12000",
+     "unitBal": "14200",
+     "unitFlrPlanImg": "2025/09/05/Floor-Plan-17-Mohidins-Mirage-Goa-5436337_600_800.jpg",
+     "minArea": 883,
+     "ty": "10002",
+     "bd": "11700",
+     "bhkType": "1 BHK",
+     "planImgUrl": "https://img.staticmb.com/mbimages/project/2025/09/05/Floor-Plan-17-Mohidins-Mirage-Goa-5436337_600_800.jpg",
+     "bathroom": "1",
+     "balcony": "1",
+     "minRentPriceD": null,
+     "maxRentPriceD": null
+    }
+   ],
+   "1 BHK": [
+    {
+     "psmid": "5436337",
+     "unitBath": "12000",
+     "unitBal": "14200",
+     "unitFlrPlanImg": "2025/09/05/Floor-Plan-18-Mohidins-Mirage-Goa-5436337_600_800.jpg",
+     "minArea": 83,
+     "ty": "10002",
+     "bd": "11700",
+     "bhkType": "1 BHK",
+     "planImgUrl": "https://img.staticmb.com/mbimages/project/2025/09/05/Floor-Plan-18-Mohidins-Mirage-Goa-5436337_600_800.jpg",
+     "bathroom": "1",
+     "balcony": "1",
+     "minRentPriceD": null,
+     "maxRentPriceD": null
+    },
+    {
+     "psmid": "5436337",
+     "unitBath": "12000",
+     "unitBal": "14200",
+     "unitFlrPlanImg": "2025/09/05/Floor-Plan-17-Mohidins-Mirage-Goa-5436337_600_800.jpg",
+     "minArea": 883,
+     "ty": "10002",
+     "bd": "11700",
+     "bhkType": "1 BHK",
+     "planImgUrl": "https://img.staticmb.com/mbimages/project/2025/09/05/Floor-Plan-17-Mohidins-Mirage-Goa-5436337_600_800.jpg",
+     "bathroom": "1",
+     "balcony": "1",
+     "minRentPriceD": null,
+     "maxRentPriceD": null
+    }
+   ],
+   "2 BHK": [
+    {
+     "psmid": "5436337",
+     "unitBath": "12001",
+     "unitBal": "14203",
+     "unitFlrPlanImg": "2025/09/05/Floor-Plan-20-Mohidins-Mirage-Goa-5436337_900_1200.jpg",
+     "minArea": 112,
+     "ty": "10002",
+     "bd": "11701",
+     "bhkType": "2 BHK",
+     "planImgUrl": "https://img.staticmb.com/mbimages/project/2025/09/05/Floor-Plan-20-Mohidins-Mirage-Goa-5436337_900_1200.jpg",
+     "bathroom": "2",
+     "balcony": "4",
+     "minRentPriceD": null,
+     "maxRentPriceD": null
+    },
+    {
+     "psmid": "5436337",
+     "unitBath": "12001",
+     "unitBal": "14202",
+     "unitFlrPlanImg": "2025/09/05/Floor-Plan-19-Mohidins-Mirage-Goa-5436337_900_1200.jpg",
+     "minArea": 1281,
+     "ty": "10002",
+     "bd": "11701",
+     "bhkType": "2 BHK",
+     "planImgUrl": "https://img.staticmb.com/mbimages/project/2025/09/05/Floor-Plan-19-Mohidins-Mirage-Goa-5436337_900_1200.jpg",
+     "bathroom": "2",
+     "balcony": "3",
+     "minRentPriceD": null,
+     "maxRentPriceD": null
+    }
+   ]
+  },
+  "unitInfo": "1,2 BHK Flats",
+  "psmDataBean": {
+   "psmid": "5436337",
+   "ctname": "Goa",
+   "psmName": "Mohidins Mirage",
+   "lmtDName": "Sancoale",
+   "reraUpDt": "2025-10-03 00:00:00",
+   "reraUpdateDate": "Oct 03, '25",
+   "devName": "Mohidin Properties And Holdings",
+   "reraUrl": "mohidins-mirage-rera-details-nprid-4d4235343336333337"
+  }
+ }
+}

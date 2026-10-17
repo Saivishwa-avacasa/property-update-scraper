@@ -41,11 +41,18 @@ def search_url(state_code, page=1, keyword=True):
 
 # Politeness. Residential IP + a real browser fingerprint (curl_cffi) is what
 # keeps us off the bot list; the delay keeps us off the rate limiter.
-DELAY_SECONDS = (3.0, 6.5)
+DELAY_SECONDS = (5.0, 10.0)
 REQUEST_TIMEOUT = 45
+# How long to wait for a person to tick the reCAPTCHA box when 99acres asks for it.
+CAPTCHA_WAIT_SECONDS = 600
 
 # Defaults for a daily run
 MAX_LISTING_PAGES = 40       # safety cap; TN new-launch is ~8-30 pages
 MAX_DETAILS_PER_RUN = 60     # detail pages per state per run
 RESCRAPE_AFTER_DAYS = 7      # re-check prices/dates weekly
 MAX_ATTEMPTS = 3
+
+# --full: walk every results page and fetch every due project in one go.
+# 25 projects per page, so 200 pages = 5000 projects (MH is the largest).
+FULL_MAX_LISTING_PAGES = 200
+FULL_MAX_DETAILS = 100000

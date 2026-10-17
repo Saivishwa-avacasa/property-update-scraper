@@ -79,7 +79,10 @@ class Site:
         self.cookie_file = self.state_dir / "cookies.json"
         self.delay = delay
         self.allow_browser = allow_browser
-        self.warmed_this_run = False
+        self.browser_mode = False
+        self._pw = None
+        self._ctx = None
+        self._page = None
         self.requests_made = 0
         self.session = cr.Session(impersonate="chrome")
         self.session.headers.update({"Accept-Language": "en-IN,en;q=0.9"})
@@ -112,10 +115,23 @@ class Site:
     def fetch_initial_data(self, url, warmup_url=None):
         """GET `url` and return its __initialData__ dict.
 
-        Raises Gone on 404, Blocked when even a browser warm-up can't get past
-        the captcha."""
-        for attempt in range(4):
-            resp = self._get(url)
+        Fast path: curl_cffi. When 99acres answers with the captcha, the run
+        switches to "browser mode": every remaining page is loaded in a headed
+        Chrome (which passes the invisible reCAPTCHA by itself) and the JSON is
+        read from the live page. Slower (~5 s/page) but it does not depend on
+        copying cookies around.
+
+        Raises Gone on 404, Blocked when even Chrome can't get through."""
+        if self.browser_mode:
+            return self._browser_fetch(url)
+        for attempt in range(3):
+            try:
+                resp = self._get(url)
+            except Exception as e:  # curl error / timeout: try once more, then browser
+                log.warning("request error %s: %s", url, e)
+                if attempt == 0:
+                    continue
+                return self._fallback_to_browser(url, f"request error {e}")
             kind = classify(resp)
             log.debug("%s -> %s %s (%d bytes)", url, resp.status_code, kind, len(resp.text or ""))
             if kind == "data":
@@ -127,62 +143,135 @@ class Site:
                 raise Gone(url)
             if kind == "loader" and attempt == 0:
                 continue  # cookies are set now, second request gets the SSR page
-            if kind in ("captcha", "blocked", "loader", "unknown"):
-                if not self.warmed_this_run and self.allow_browser:
-                    self.warm_up(warmup_url or url)
-                    continue
-                raise Blocked(f"{kind} at {url}")
-        raise Blocked(f"gave up after retries at {url}")
+            return self._fallback_to_browser(url, kind)
+        return self._fallback_to_browser(url, "retries exhausted")
 
-    # ── captcha warm-up with a real Chrome ─────────────────────────────────
-    def warm_up(self, url, wait_seconds=180):
-        """Open `url` in a headed Chrome (persistent profile), wait until the
-        page carries __initialData__ (the invisible reCAPTCHA usually passes by
-        itself; if a visible one shows, a person at the PC can solve it), then
-        copy the cookies into the curl session."""
-        self.warmed_this_run = True
-        log.warning("captcha/blocked - warming up cookies with Chrome: %s", url)
+    def _fallback_to_browser(self, url, reason):
+        if not self.allow_browser:
+            raise Blocked(f"{reason} at {url} (browser fallback disabled)")
+        if not self.browser_mode:
+            log.warning("%s at %s - switching to browser mode for the rest of this run", reason, url)
+            self.browser_mode = True
+        return self._browser_fetch(url)
+
+    # ── browser mode ───────────────────────────────────────────────────────
+    def _browser(self):
+        """Lazily start a headed Chrome with the persistent profile."""
+        if self._ctx is not None:
+            return self._ctx
         try:
             from playwright.sync_api import sync_playwright
         except ImportError as e:
             raise Blocked("playwright not installed; run: pip install playwright") from e
-
+        self._pw = sync_playwright().start()
         profile = self.state_dir / "chrome_profile"
-        with sync_playwright() as pw:
+        try:
+            self._ctx = self._pw.chromium.launch_persistent_context(
+                str(profile), channel="chrome", headless=False,
+                viewport={"width": 1366, "height": 850}, locale="en-IN",
+                args=["--disable-blink-features=AutomationControlled"],
+            )
+        except Exception as e:
+            self._pw.stop()
+            self._pw = None
+            raise Blocked(f"could not launch Chrome: {e}") from e
+        self._page = self._ctx.pages[0] if self._ctx.pages else self._ctx.new_page()
+        return self._ctx
+
+    def _browser_fetch(self, url, wait_seconds=config.CAPTCHA_WAIT_SECONDS):
+        self._browser()
+        page = self._page
+        self._sleep()
+        self.requests_made += 1
+        try:
+            resp = page.goto(url, wait_until="domcontentloaded", timeout=60000)
+        except Exception as e:
+            raise Blocked(f"browser navigation failed: {e}") from e
+        if resp is not None and resp.status == 404:
+            raise Gone(url)
+        deadline = time.time() + wait_seconds
+        renavigated = False
+        asked = False
+        while time.time() < deadline:
+            if "verifycaptcha" in page.url and not asked:
+                asked = True
+                self._ask_human(page, wait_seconds)
             try:
-                ctx = pw.chromium.launch_persistent_context(
-                    str(profile), channel="chrome", headless=False,
-                    viewport={"width": 1366, "height": 850}, locale="en-IN",
-                    args=["--disable-blink-features=AutomationControlled"],
-                )
-            except Exception as e:
-                raise Blocked(f"could not launch Chrome: {e}") from e
+                data = page.evaluate(
+                    "(window.__initialData__ && (window.__initialData__.srp || window.__initialData__.projectDetailState)) ? window.__initialData__ : null")
+            except Exception:
+                data = None
+            if data:
+                self._export_cookies()
+                return data
+            # The captcha redirect drops the query string and lands on a 400 page
+            # with the same path, so compare the full URL, not just the path.
+            cur = page.url
+            if "verifycaptcha" not in cur and cur != url and not renavigated:
+                renavigated = True
+                try:
+                    page.goto(url, wait_until="domcontentloaded", timeout=60000)
+                except Exception:
+                    pass
+            elif "verifycaptcha" not in cur and renavigated and "400" in (page.title() or ""):
+                break
+            time.sleep(1.5)
+        if "verifycaptcha" in page.url:
+            raise Blocked(f"captcha not passed in {wait_seconds}s at {url} (a person at the PC can solve it once)")
+        raise Blocked(f"page did not render data at {url}")
+
+    def _ask_human(self, page, wait_seconds):
+        """99acres shows a 'tick the box' reCAPTCHA. Only a person can do that:
+        bring Chrome to the front, beep, and wait. Once ticked, the profile keeps
+        the cookie and the next runs usually go straight through."""
+        log.warning("99acres is asking for a CAPTCHA. Please tick the box in the Chrome window and click "
+                    "Proceed. Waiting up to %d minutes.", wait_seconds // 60)
+        try:
+            page.bring_to_front()
+        except Exception:
+            pass
+        try:
+            import winsound
+            for _ in range(3):
+                winsound.Beep(880, 250)
+                time.sleep(0.15)
+        except Exception:
+            pass
+
+    def _export_cookies(self):
+        """Keep the curl session's cookie jar in step with Chrome, so the next
+        run can start on the fast path again."""
+        try:
+            cookies = self._ctx.cookies()
+            for c in cookies:
+                self.session.cookies.set(c["name"], c["value"], domain=c.get("domain", ".99acres.com"))
+            self._save_cookies(cookies)
+        except Exception as e:
+            log.debug("cookie export skipped: %s", e)
+
+    def close(self):
+        if self._ctx is not None:
             try:
-                page = ctx.pages[0] if ctx.pages else ctx.new_page()
-                page.goto(url, wait_until="domcontentloaded", timeout=60000)
-                deadline = time.time() + wait_seconds
-                ok = False
-                while time.time() < deadline:
-                    try:
-                        if page.evaluate("!!(window.__initialData__ && (window.__initialData__.srp || window.__initialData__.projectDetailState))"):
-                            ok = True
-                            break
-                    except Exception:
-                        pass
-                    # The captcha redirect drops the query string and lands on a
-                    # 400 page; just navigate again once the cookie is set.
-                    if "verifycaptcha" not in page.url and ("400" in page.title() or page.url.rstrip("/") != url.rstrip("/")):
-                        try:
-                            page.goto(url, wait_until="domcontentloaded", timeout=60000)
-                        except Exception:
-                            pass
-                    time.sleep(2)
-                cookies = ctx.cookies()
-            finally:
-                ctx.close()
-        if not ok:
-            raise Blocked("Chrome warm-up did not get past the captcha in time")
-        for c in cookies:
-            self.session.cookies.set(c["name"], c["value"], domain=c.get("domain", ".99acres.com"))
-        self._save_cookies(cookies)
-        log.info("warm-up ok, %d cookies saved", len(cookies))
+                self._ctx.close()
+            except Exception:
+                pass
+            self._ctx = None
+        if self._pw is not None:
+            try:
+                self._pw.stop()
+            except Exception:
+                pass
+            self._pw = None
+
+    # ── captcha warm-up with a real Chrome ─────────────────────────────────
+    def warm_up(self, url):
+        """Load `url` in the headed Chrome once (passes the captcha), save the
+        cookies for the fast path, close Chrome. Used by --warm-cookies."""
+        self.browser_mode = True
+        try:
+            self._browser_fetch(url)
+            log.info("warm-up ok, cookies saved to %s", self.cookie_file)
+        finally:
+            self.close()
+            self.browser_mode = False
+
