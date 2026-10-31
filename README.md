@@ -228,3 +228,10 @@ Scheduled by `register_tasks.ps1`: task "Magicbricks MagicHomes - India" daily a
 11:00 (`run_daily.cmd mb IN`, log `data\scheduler_mb_IN.log`, about 2.5 h).
 A one-time full run: `-MbFullRunAt HH:mm`. The GitHub "daily report" shows
 Magicbricks in sections 6-9.
+
+## Where the data lives
+
+All scraped data (99acres New Launch, Magicbricks MagicHomes and the RERA
+registries) is stored in the Avacasa **CockroachDB** cluster, not in this
+repository. Docker images: https://hub.docker.com/repositories/techavacasa ·
+Other repositories: https://github.com/Saivishwa-avacasa

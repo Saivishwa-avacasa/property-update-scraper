@@ -177,14 +177,17 @@ def main(argv=None):
                  args.max_pages, args.max_details)
 
     site = Site(allow_browser=not args.no_browser)
+    
 
     if args.warm_cookies:
         try:
             site.warm_up(config.search_url("TN", 1))
+            log.info("Cookies warmed and saved.")
+            return 0
         except Blocked as e:
             log.error("%s", e)
             return 2
-        return 0
+
 
     conn = None
     if not args.no_db and (not args.url or args.save):

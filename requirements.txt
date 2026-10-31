@@ -1,3 +1,5 @@
 curl_cffi>=0.7
 playwright>=1.45
 psycopg[binary]>=3.2
+seleniumbase>=4.56.2
+laya>=0.4.2

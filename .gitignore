@@ -4,3 +4,10 @@ __pycache__/
 *.pyc
 data/
 state/
+
+# scratch output
+*_new_launches*.json
+goa_*.json
+rea-goa-scenario.json
+blocked_page*.html
+downloaded_files/

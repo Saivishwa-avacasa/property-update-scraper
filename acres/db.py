@@ -184,7 +184,22 @@ def database_url():
     url = (os.environ.get("DATABASE_URL")
            or _read_dotenv(ROOT / ".env").get("DATABASE_URL")
            or _read_dotenv(RERA_REPO / ".env").get("DATABASE_URL"))
-    return (url or "").strip().strip('"').strip("'") or None
+    url = (url or "").strip().strip('"').strip("'") or None
+    return _encode_password(url) if url else None
+
+
+def _encode_password(url):
+    """A password containing '@' (or ':' / '/') must be percent-encoded in a
+    URL, otherwise part of it is read as the host ('failed to resolve host
+    "13@avacasa-db..."'). Split on the LAST '@' before the path and encode."""
+    from urllib.parse import quote, unquote
+    m = re.match(r"^([a-zA-Z][\w+.-]*://)([^/?#]*)(.*)$", url)
+    if not m or m.group(2).count("@") <= 1:
+        return url
+    scheme, netloc, rest = m.groups()
+    userinfo, host = netloc.rsplit("@", 1)
+    user, sep, password = userinfo.partition(":")
+    return f"{scheme}{user}{sep}{quote(unquote(password), safe='')}@{host}{rest}"
 
 
 def redact(text):
